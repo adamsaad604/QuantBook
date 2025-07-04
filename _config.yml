@@ -6,9 +6,9 @@ author: The Jupyter Book Community
 logo: logo.png
 
 # Force re-execution of notebooks on each build.
-# See https://jupyterbook.org/content/execute.html
+# See https://jupyterbook.org/content/execute.githtml
 execute:
-  execute_notebooks: force
+  execute_notebooks: "off"
 
 # Define the name of the latex output file for PDF builds
 latex:
@@ -30,3 +30,16 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+  theme:
+    name: sphinx_book_theme
+    options:
+      navigation_with_keys: true
+      repository_url: https://github.com/adamsaad604/JBook
+      path_to_docs: docs
+      use_edit_page_button: true
+      logo_only: true
+      show_navbar_depth: 2
+      # color overrides
+      primary_color: "#2a7ae2"
+      text_color: "#212529"
+      background_color: "#ffffff"
