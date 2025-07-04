@@ -18,6 +18,10 @@ latex:
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:
   - references.bib
+repository:
+  url: https://github.com/adamsaad604/QuantBook
+  path_to_book: ""
+  branch: gh-pages
 
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
