@@ -1,0 +1,142 @@
+{
+  "build": "pyhd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.9",
+    "sphinx >=4"
+  ],
+  "extracted_package_dir": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinx-thebe-0.3.1-pyhd8ed1ab_1",
+  "files": [
+    "Lib/site-packages/sphinx_thebe-0.3.1.dist-info/INSTALLER",
+    "Lib/site-packages/sphinx_thebe-0.3.1.dist-info/METADATA",
+    "Lib/site-packages/sphinx_thebe-0.3.1.dist-info/RECORD",
+    "Lib/site-packages/sphinx_thebe-0.3.1.dist-info/REQUESTED",
+    "Lib/site-packages/sphinx_thebe-0.3.1.dist-info/WHEEL",
+    "Lib/site-packages/sphinx_thebe-0.3.1.dist-info/direct_url.json",
+    "Lib/site-packages/sphinx_thebe-0.3.1.dist-info/licenses/LICENSE",
+    "Lib/site-packages/sphinx_thebe/__init__.py",
+    "Lib/site-packages/sphinx_thebe/_static/play-solid.svg",
+    "Lib/site-packages/sphinx_thebe/_static/sphinx-thebe.css",
+    "Lib/site-packages/sphinx_thebe/_static/sphinx-thebe.js",
+    "Lib/site-packages/sphinx_thebe/_version.py",
+    "Lib/site-packages/sphinx_thebe/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/sphinx_thebe/__pycache__/_version.cpython-313.pyc"
+  ],
+  "fn": "sphinx-thebe-0.3.1-pyhd8ed1ab_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinx-thebe-0.3.1-pyhd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "f6627ce09745a0f822cc6e7de8cf4f99",
+  "name": "sphinx-thebe",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinx-thebe-0.3.1-pyhd8ed1ab_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/sphinx_thebe-0.3.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/sphinx_thebe-0.3.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "2eec60e941184051adf626541cfd1a6e68b29812a7000eff8cbd861b298a59ac",
+        "sha256_in_prefix": "2eec60e941184051adf626541cfd1a6e68b29812a7000eff8cbd861b298a59ac",
+        "size_in_bytes": 2868
+      },
+      {
+        "_path": "site-packages/sphinx_thebe-0.3.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "7b98e4a0b1b3fd781962fb74137f4043c328fae36cf8e3801137abec260fc207",
+        "sha256_in_prefix": "7b98e4a0b1b3fd781962fb74137f4043c328fae36cf8e3801137abec260fc207",
+        "size_in_bytes": 1162
+      },
+      {
+        "_path": "site-packages/sphinx_thebe-0.3.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/sphinx_thebe-0.3.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+        "sha256_in_prefix": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "site-packages/sphinx_thebe-0.3.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "605d8669209cfc2e2f56d9e1893bc7ce51145b2a0f2fce29193ee460c02d88eb",
+        "sha256_in_prefix": "605d8669209cfc2e2f56d9e1893bc7ce51145b2a0f2fce29193ee460c02d88eb",
+        "size_in_bytes": 108
+      },
+      {
+        "_path": "site-packages/sphinx_thebe-0.3.1.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "6bbda9d2e8e339e9ef31556f437fbc95ef2d1ed3679618f63f0142f95c9b3705",
+        "sha256_in_prefix": "6bbda9d2e8e339e9ef31556f437fbc95ef2d1ed3679618f63f0142f95c9b3705",
+        "size_in_bytes": 1071
+      },
+      {
+        "_path": "site-packages/sphinx_thebe/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c0a6574fba45c694712b4c0c494cb4eb6e5b2fa0410cf03d337f208c3be64bbd",
+        "sha256_in_prefix": "c0a6574fba45c694712b4c0c494cb4eb6e5b2fa0410cf03d337f208c3be64bbd",
+        "size_in_bytes": 8173
+      },
+      {
+        "_path": "site-packages/sphinx_thebe/_static/play-solid.svg",
+        "path_type": "hardlink",
+        "sha256": "d2ceaf6d83ed691c771e1616ac29157cb7f115ddac7ce066afab1d23f1a9b483",
+        "sha256_in_prefix": "d2ceaf6d83ed691c771e1616ac29157cb7f115ddac7ce066afab1d23f1a9b483",
+        "size_in_bytes": 339
+      },
+      {
+        "_path": "site-packages/sphinx_thebe/_static/sphinx-thebe.css",
+        "path_type": "hardlink",
+        "sha256": "da591f8cfbc259361ee704d861877be843aaee54f67aed9bda27be1a0f3d3a80",
+        "sha256_in_prefix": "da591f8cfbc259361ee704d861877be843aaee54f67aed9bda27be1a0f3d3a80",
+        "size_in_bytes": 2234
+      },
+      {
+        "_path": "site-packages/sphinx_thebe/_static/sphinx-thebe.js",
+        "path_type": "hardlink",
+        "sha256": "bbdfa292b3885f2c3af48ee6d3ea13658afac228ac35d45b39ffa2ed902a1334",
+        "sha256_in_prefix": "bbdfa292b3885f2c3af48ee6d3ea13658afac228ac35d45b39ffa2ed902a1334",
+        "size_in_bytes": 4127
+      },
+      {
+        "_path": "site-packages/sphinx_thebe/_version.py",
+        "path_type": "hardlink",
+        "sha256": "1f33f3f6bab7b35022657ade80a96a29a249db018cb6f1ff6b757d95af429e93",
+        "sha256_in_prefix": "1f33f3f6bab7b35022657ade80a96a29a249db018cb6f1ff6b757d95af429e93",
+        "size_in_bytes": 411
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_thebe/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_thebe/__pycache__/_version.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "9d0cd52edcb2274bf7c8e9327317d9bb48e1d092afeaed093e0242876ad3c008",
+  "size": 14713,
+  "subdir": "noarch",
+  "timestamp": 1734702587000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/sphinx-thebe-0.3.1-pyhd8ed1ab_1.conda",
+  "version": "0.3.1"
+}

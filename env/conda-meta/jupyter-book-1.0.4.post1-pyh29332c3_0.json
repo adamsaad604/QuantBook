@@ -1,0 +1,331 @@
+{
+  "build": "pyh29332c3_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python",
+    "pyyaml",
+    "jinja2",
+    "python >=3.9",
+    "importlib-metadata >=4.8.3",
+    "click >=7.1,<9",
+    "jsonschema <5",
+    "linkify-it-py >=2,<3",
+    "myst-nb >=1.0,<2.0",
+    "myst-parser >=3.0,<4.0",
+    "sphinx >=7,<8",
+    "sphinx-book-theme >=1.1,<2.0",
+    "sphinx-comments >=0.0,<1.0",
+    "sphinx-copybutton >=0.5,<1.0",
+    "sphinx-design >=0.6,<1.0",
+    "sphinx-external-toc >=1.0,<2.0",
+    "sphinx-jupyterbook-latex >=1.0,<2.0",
+    "sphinx-multitoc-numbering >=0.1,<1.0",
+    "sphinx-thebe >=0.3,<1.0",
+    "sphinx-togglebutton >=0.3,<1.0",
+    "sphinxcontrib-bibtex >=2.5,<3.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Adam\\anaconda3\\pkgs\\jupyter-book-1.0.4.post1-pyh29332c3_0",
+  "files": [
+    "Lib/site-packages/jupyter_book/__init__.py",
+    "Lib/site-packages/jupyter_book/book_template/_config.yml",
+    "Lib/site-packages/jupyter_book/book_template/_toc.yml",
+    "Lib/site-packages/jupyter_book/book_template/intro.md",
+    "Lib/site-packages/jupyter_book/book_template/logo.png",
+    "Lib/site-packages/jupyter_book/book_template/markdown-notebooks.md",
+    "Lib/site-packages/jupyter_book/book_template/markdown.md",
+    "Lib/site-packages/jupyter_book/book_template/notebooks.ipynb",
+    "Lib/site-packages/jupyter_book/book_template/references.bib",
+    "Lib/site-packages/jupyter_book/book_template/requirements.txt",
+    "Lib/site-packages/jupyter_book/cli/__init__.py",
+    "Lib/site-packages/jupyter_book/cli/main.py",
+    "Lib/site-packages/jupyter_book/cli/pluggable.py",
+    "Lib/site-packages/jupyter_book/config.py",
+    "Lib/site-packages/jupyter_book/config_schema.json",
+    "Lib/site-packages/jupyter_book/default_config.yml",
+    "Lib/site-packages/jupyter_book/pdf.py",
+    "Lib/site-packages/jupyter_book/sphinx.py",
+    "Lib/site-packages/jupyter_book/utils.py",
+    "Lib/site-packages/jupyter_book-1.0.4.post1.dist-info/INSTALLER",
+    "Lib/site-packages/jupyter_book-1.0.4.post1.dist-info/METADATA",
+    "Lib/site-packages/jupyter_book-1.0.4.post1.dist-info/RECORD",
+    "Lib/site-packages/jupyter_book-1.0.4.post1.dist-info/REQUESTED",
+    "Lib/site-packages/jupyter_book-1.0.4.post1.dist-info/WHEEL",
+    "Lib/site-packages/jupyter_book-1.0.4.post1.dist-info/direct_url.json",
+    "Lib/site-packages/jupyter_book-1.0.4.post1.dist-info/entry_points.txt",
+    "Lib/site-packages/jupyter_book-1.0.4.post1.dist-info/licenses/LICENSE",
+    "Lib/site-packages/jupyter_book/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/jupyter_book/cli/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/jupyter_book/cli/__pycache__/main.cpython-313.pyc",
+    "Lib/site-packages/jupyter_book/cli/__pycache__/pluggable.cpython-313.pyc",
+    "Lib/site-packages/jupyter_book/__pycache__/config.cpython-313.pyc",
+    "Lib/site-packages/jupyter_book/__pycache__/pdf.cpython-313.pyc",
+    "Lib/site-packages/jupyter_book/__pycache__/sphinx.cpython-313.pyc",
+    "Lib/site-packages/jupyter_book/__pycache__/utils.cpython-313.pyc",
+    "Scripts/jb-script.py",
+    "Scripts/jupyter-book-script.py",
+    "Scripts/jb.exe",
+    "Scripts/jupyter-book.exe"
+  ],
+  "fn": "jupyter-book-1.0.4.post1-pyh29332c3_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Adam\\anaconda3\\pkgs\\jupyter-book-1.0.4.post1-pyh29332c3_0",
+    "type": 1
+  },
+  "md5": "b5ca0ebe1794ac80769af8394e3f14cf",
+  "name": "jupyter-book",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Adam\\anaconda3\\pkgs\\jupyter-book-1.0.4.post1-pyh29332c3_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/jupyter_book/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "ae62abd64c8be7961dafa1c3b18b26613f403b67bad6e88d391526652d47e134",
+        "sha256_in_prefix": "ae62abd64c8be7961dafa1c3b18b26613f403b67bad6e88d391526652d47e134",
+        "size_in_bytes": 442
+      },
+      {
+        "_path": "site-packages/jupyter_book/book_template/_config.yml",
+        "path_type": "hardlink",
+        "sha256": "6d271166cde1bed27bd7fb3fd8b30412d73c8b0516b7970937f84f72ec6dade9",
+        "sha256_in_prefix": "6d271166cde1bed27bd7fb3fd8b30412d73c8b0516b7970937f84f72ec6dade9",
+        "size_in_bytes": 1000
+      },
+      {
+        "_path": "site-packages/jupyter_book/book_template/_toc.yml",
+        "path_type": "hardlink",
+        "sha256": "bd091fdd37ec4a603cc10f08de075299dd0cfdc0703f9e35e4b0931a3f377248",
+        "sha256_in_prefix": "bd091fdd37ec4a603cc10f08de075299dd0cfdc0703f9e35e4b0931a3f377248",
+        "size_in_bytes": 180
+      },
+      {
+        "_path": "site-packages/jupyter_book/book_template/intro.md",
+        "path_type": "hardlink",
+        "sha256": "281788da15f3f3ced5c6af67f0d1ed9522983779de34765837d8fa940191ff5b",
+        "sha256_in_prefix": "281788da15f3f3ced5c6af67f0d1ed9522983779de34765837d8fa940191ff5b",
+        "size_in_bytes": 431
+      },
+      {
+        "_path": "site-packages/jupyter_book/book_template/logo.png",
+        "path_type": "hardlink",
+        "sha256": "7c8c3b1fec7367ccba3aa45f1c05ac33afbd6aafa2da59a9b2e458d14136c0e1",
+        "sha256_in_prefix": "7c8c3b1fec7367ccba3aa45f1c05ac33afbd6aafa2da59a9b2e458d14136c0e1",
+        "size_in_bytes": 9854
+      },
+      {
+        "_path": "site-packages/jupyter_book/book_template/markdown-notebooks.md",
+        "path_type": "hardlink",
+        "sha256": "457c37bd2373a8334aa018a546ee840f07b257dde76ce1f4416616ba9a8c21e1",
+        "sha256_in_prefix": "457c37bd2373a8334aa018a546ee840f07b257dde76ce1f4416616ba9a8c21e1",
+        "size_in_bytes": 1787
+      },
+      {
+        "_path": "site-packages/jupyter_book/book_template/markdown.md",
+        "path_type": "hardlink",
+        "sha256": "b7c06fe6cbcdf493bcd1fd2f153ba60bfb4f25a982579d21029f457c51e51239",
+        "sha256_in_prefix": "b7c06fe6cbcdf493bcd1fd2f153ba60bfb4f25a982579d21029f457c51e51239",
+        "size_in_bytes": 1890
+      },
+      {
+        "_path": "site-packages/jupyter_book/book_template/notebooks.ipynb",
+        "path_type": "hardlink",
+        "sha256": "1aad95a88071e5d474b87e10c0b9a96e0eac76265e63d9f423e429bb043326c2",
+        "sha256_in_prefix": "1aad95a88071e5d474b87e10c0b9a96e0eac76265e63d9f423e429bb043326c2",
+        "size_in_bytes": 3378
+      },
+      {
+        "_path": "site-packages/jupyter_book/book_template/references.bib",
+        "path_type": "hardlink",
+        "sha256": "2de7471b40c44710b3a39f17b9cb06d21e14e59f4dd0221bad5634d2fc735809",
+        "sha256_in_prefix": "2de7471b40c44710b3a39f17b9cb06d21e14e59f4dd0221bad5634d2fc735809",
+        "size_in_bytes": 5524
+      },
+      {
+        "_path": "site-packages/jupyter_book/book_template/requirements.txt",
+        "path_type": "hardlink",
+        "sha256": "7d5df3a8e5bc43701c8cd393c26a713531d01fd290e3e5e6ebc7995aed999ba2",
+        "sha256_in_prefix": "7d5df3a8e5bc43701c8cd393c26a713531d01fd290e3e5e6ebc7995aed999ba2",
+        "size_in_bytes": 30
+      },
+      {
+        "_path": "site-packages/jupyter_book/cli/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/jupyter_book/cli/main.py",
+        "path_type": "hardlink",
+        "sha256": "f3bf00f00a01cf63335da42cbcc10df02ca6716a03d93e93e4fb4e5d80e9c936",
+        "sha256_in_prefix": "f3bf00f00a01cf63335da42cbcc10df02ca6716a03d93e93e4fb4e5d80e9c936",
+        "size_in_bytes": 20389
+      },
+      {
+        "_path": "site-packages/jupyter_book/cli/pluggable.py",
+        "path_type": "hardlink",
+        "sha256": "cb8e9900085c39d0f0eaa959b25126cfd45d0e4e4824cad543b1053961d58b2f",
+        "sha256_in_prefix": "cb8e9900085c39d0f0eaa959b25126cfd45d0e4e4824cad543b1053961d58b2f",
+        "size_in_bytes": 1886
+      },
+      {
+        "_path": "site-packages/jupyter_book/config.py",
+        "path_type": "hardlink",
+        "sha256": "27cf4744399e8bbaf158a9be8c2969acd2986783602188ab316c85f7d4e95a21",
+        "sha256_in_prefix": "27cf4744399e8bbaf158a9be8c2969acd2986783602188ab316c85f7d4e95a21",
+        "size_in_bytes": 19170
+      },
+      {
+        "_path": "site-packages/jupyter_book/config_schema.json",
+        "path_type": "hardlink",
+        "sha256": "6206f6a87cd2b3fc77a3ce6ff9a3f668f5e706a17f0a26fe3e9d885196fb5977",
+        "sha256_in_prefix": "6206f6a87cd2b3fc77a3ce6ff9a3f668f5e706a17f0a26fe3e9d885196fb5977",
+        "size_in_bytes": 4815
+      },
+      {
+        "_path": "site-packages/jupyter_book/default_config.yml",
+        "path_type": "hardlink",
+        "sha256": "eaf19a9909f40cc17c6c0cf93df0a1c430714e5f226599c3ba4215a45601f00b",
+        "sha256_in_prefix": "eaf19a9909f40cc17c6c0cf93df0a1c430714e5f226599c3ba4215a45601f00b",
+        "size_in_bytes": 6049
+      },
+      {
+        "_path": "site-packages/jupyter_book/pdf.py",
+        "path_type": "hardlink",
+        "sha256": "4055900e910fba8675dfbdafa35d49fa4b3eec4cfcd787f8f2514b4d76a244d8",
+        "sha256_in_prefix": "4055900e910fba8675dfbdafa35d49fa4b3eec4cfcd787f8f2514b4d76a244d8",
+        "size_in_bytes": 5739
+      },
+      {
+        "_path": "site-packages/jupyter_book/sphinx.py",
+        "path_type": "hardlink",
+        "sha256": "688d1a299cd5c02b05578dc250eee4cb37d73e518579229447224c8b916b7c5b",
+        "sha256_in_prefix": "688d1a299cd5c02b05578dc250eee4cb37d73e518579229447224c8b916b7c5b",
+        "size_in_bytes": 5478
+      },
+      {
+        "_path": "site-packages/jupyter_book/utils.py",
+        "path_type": "hardlink",
+        "sha256": "4007d4dee41b4673ea3398ba39fdcb685a544aafe7dc32cf7f35d95236fbff9e",
+        "sha256_in_prefix": "4007d4dee41b4673ea3398ba39fdcb685a544aafe7dc32cf7f35d95236fbff9e",
+        "size_in_bytes": 2655
+      },
+      {
+        "_path": "site-packages/jupyter_book-1.0.4.post1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "bc33022edcb7639ff53355b4e91dade50a0bbf0299efeb6171d1ec0ba5029cfc",
+        "sha256_in_prefix": "bc33022edcb7639ff53355b4e91dade50a0bbf0299efeb6171d1ec0ba5029cfc",
+        "size_in_bytes": 6
+      },
+      {
+        "_path": "site-packages/jupyter_book-1.0.4.post1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "e5e9921f47b9771a160112e1aa35a10f6c0a59f27fd00a2005222b8977f6f2e7",
+        "sha256_in_prefix": "e5e9921f47b9771a160112e1aa35a10f6c0a59f27fd00a2005222b8977f6f2e7",
+        "size_in_bytes": 7982
+      },
+      {
+        "_path": "site-packages/jupyter_book-1.0.4.post1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "4a23947951f4fec8150a6697e7d5617ef8870ad7d00163b6a9209f31f9396711",
+        "sha256_in_prefix": "4a23947951f4fec8150a6697e7d5617ef8870ad7d00163b6a9209f31f9396711",
+        "size_in_bytes": 3032
+      },
+      {
+        "_path": "site-packages/jupyter_book-1.0.4.post1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/jupyter_book-1.0.4.post1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+        "sha256_in_prefix": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "site-packages/jupyter_book-1.0.4.post1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "7d4ea20284652ca85d6de1490d9a3ca398eede097f92f7aff94a9ccecaaf975c",
+        "sha256_in_prefix": "7d4ea20284652ca85d6de1490d9a3ca398eede097f92f7aff94a9ccecaaf975c",
+        "size_in_bytes": 123
+      },
+      {
+        "_path": "site-packages/jupyter_book-1.0.4.post1.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "4ecca2efb9cc4b3e6bbb5f90decaab7894e626fdaf5de58ba28feb5ae48921d2",
+        "sha256_in_prefix": "4ecca2efb9cc4b3e6bbb5f90decaab7894e626fdaf5de58ba28feb5ae48921d2",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/jupyter_book-1.0.4.post1.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "0e3e7ffd4ce0597a9df90cca4d1cd88a0cf7469f5f87bb5cd0f38a41e36d547e",
+        "sha256_in_prefix": "0e3e7ffd4ce0597a9df90cca4d1cd88a0cf7469f5f87bb5cd0f38a41e36d547e",
+        "size_in_bytes": 1523
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_book/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_book/cli/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_book/cli/__pycache__/main.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_book/cli/__pycache__/pluggable.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_book/__pycache__/config.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_book/__pycache__/pdf.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_book/__pycache__/sphinx.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/jupyter_book/__pycache__/utils.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/jb-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/jupyter-book-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/jb.exe",
+        "path_type": "windows_python_entry_point_exe"
+      },
+      {
+        "_path": "Scripts/jupyter-book.exe",
+        "path_type": "windows_python_entry_point_exe"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "jupyter-book",
+  "sha256": "0ef2582aeba805abd92090bcd7f04213806c629f8be0712f1c62d12406e7b28e",
+  "size": 47401,
+  "subdir": "noarch",
+  "timestamp": 1740838295000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/jupyter-book-1.0.4.post1-pyh29332c3_0.conda",
+  "version": "1.0.4.post1"
+}

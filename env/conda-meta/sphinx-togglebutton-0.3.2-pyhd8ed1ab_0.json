@@ -1,0 +1,130 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "sphinx",
+    "docutils",
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinx-togglebutton-0.3.2-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/sphinx_togglebutton-0.3.2.dist-info/INSTALLER",
+    "Lib/site-packages/sphinx_togglebutton-0.3.2.dist-info/LICENSE",
+    "Lib/site-packages/sphinx_togglebutton-0.3.2.dist-info/METADATA",
+    "Lib/site-packages/sphinx_togglebutton-0.3.2.dist-info/RECORD",
+    "Lib/site-packages/sphinx_togglebutton-0.3.2.dist-info/REQUESTED",
+    "Lib/site-packages/sphinx_togglebutton-0.3.2.dist-info/WHEEL",
+    "Lib/site-packages/sphinx_togglebutton-0.3.2.dist-info/direct_url.json",
+    "Lib/site-packages/sphinx_togglebutton-0.3.2.dist-info/top_level.txt",
+    "Lib/site-packages/sphinx_togglebutton/__init__.py",
+    "Lib/site-packages/sphinx_togglebutton/_static/togglebutton.css",
+    "Lib/site-packages/sphinx_togglebutton/_static/togglebutton.js",
+    "Lib/site-packages/sphinx_togglebutton/__pycache__/__init__.cpython-313.pyc"
+  ],
+  "fn": "sphinx-togglebutton-0.3.2-pyhd8ed1ab_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinx-togglebutton-0.3.2-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "382738101934261ea7931d1460e64868",
+  "name": "sphinx-togglebutton",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinx-togglebutton-0.3.2-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/sphinx_togglebutton-0.3.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/sphinx_togglebutton-0.3.2.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "6bbda9d2e8e339e9ef31556f437fbc95ef2d1ed3679618f63f0142f95c9b3705",
+        "sha256_in_prefix": "6bbda9d2e8e339e9ef31556f437fbc95ef2d1ed3679618f63f0142f95c9b3705",
+        "size_in_bytes": 1071
+      },
+      {
+        "_path": "site-packages/sphinx_togglebutton-0.3.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "c150031d0d11fa12e6dddfcd596a41795a4626374392a2fe92b85de6ab645b71",
+        "sha256_in_prefix": "c150031d0d11fa12e6dddfcd596a41795a4626374392a2fe92b85de6ab645b71",
+        "size_in_bytes": 2438
+      },
+      {
+        "_path": "site-packages/sphinx_togglebutton-0.3.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "adb14a2e66fa576eda9fc92198a3c1fd1c83d0242955c9ebdf33eea3f44cf162",
+        "sha256_in_prefix": "adb14a2e66fa576eda9fc92198a3c1fd1c83d0242955c9ebdf33eea3f44cf162",
+        "size_in_bytes": 1111
+      },
+      {
+        "_path": "site-packages/sphinx_togglebutton-0.3.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/sphinx_togglebutton-0.3.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "sha256_in_prefix": "1b5e87e00dc87a84269cead8578b9e6462928e18a95f1f3373c9eef451a5bcc0",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/sphinx_togglebutton-0.3.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "b453c8bc3416933d109fc654c3492c689df1d2b9dc6d77015026078734ca1d5f",
+        "sha256_in_prefix": "b453c8bc3416933d109fc654c3492c689df1d2b9dc6d77015026078734ca1d5f",
+        "size_in_bytes": 115
+      },
+      {
+        "_path": "site-packages/sphinx_togglebutton-0.3.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "e38b9e7839eaba017806ba82eef0b1a8d42ef16e974f6d4ba226820b7ca443a1",
+        "sha256_in_prefix": "e38b9e7839eaba017806ba82eef0b1a8d42ef16e974f6d4ba226820b7ca443a1",
+        "size_in_bytes": 20
+      },
+      {
+        "_path": "site-packages/sphinx_togglebutton/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c9b33546748ba855ab774d5db8f17e9eee90405f6fe10da5e1012492410f4e73",
+        "sha256_in_prefix": "c9b33546748ba855ab774d5db8f17e9eee90405f6fe10da5e1012492410f4e73",
+        "size_in_bytes": 2679
+      },
+      {
+        "_path": "site-packages/sphinx_togglebutton/_static/togglebutton.css",
+        "path_type": "hardlink",
+        "sha256": "0bfd52617b576e3875b637bb907f4dd5df5c8fb54b23ed7464394eb2f2a903b7",
+        "sha256_in_prefix": "0bfd52617b576e3875b637bb907f4dd5df5c8fb54b23ed7464394eb2f2a903b7",
+        "size_in_bytes": 3729
+      },
+      {
+        "_path": "site-packages/sphinx_togglebutton/_static/togglebutton.js",
+        "path_type": "hardlink",
+        "sha256": "0727f732b137b4e4bccde2ea06e6f6daf2e396e013b89543328ee4f127e5ba84",
+        "sha256_in_prefix": "0727f732b137b4e4bccde2ea06e6f6daf2e396e013b89543328ee4f127e5ba84",
+        "size_in_bytes": 7346
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_togglebutton/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0dcee238aae6337fae5eaf1f9a29b0c51ed9834ae501fccb2cde0fed8dae1a88",
+  "size": 12268,
+  "subdir": "noarch",
+  "timestamp": 1664390298000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/sphinx-togglebutton-0.3.2-pyhd8ed1ab_0.tar.bz2",
+  "version": "0.3.2"
+}

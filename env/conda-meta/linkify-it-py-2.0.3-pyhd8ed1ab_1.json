@@ -1,0 +1,152 @@
+{
+  "build": "pyhd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "uc-micro-py",
+    "python >=3.9"
+  ],
+  "extracted_package_dir": "C:\\Users\\Adam\\anaconda3\\pkgs\\linkify-it-py-2.0.3-pyhd8ed1ab_1",
+  "files": [
+    "Lib/site-packages/linkify_it/__init__.py",
+    "Lib/site-packages/linkify_it/main.py",
+    "Lib/site-packages/linkify_it/tlds.py",
+    "Lib/site-packages/linkify_it/ucre.py",
+    "Lib/site-packages/linkify_it_py-2.0.3.dist-info/INSTALLER",
+    "Lib/site-packages/linkify_it_py-2.0.3.dist-info/LICENSE",
+    "Lib/site-packages/linkify_it_py-2.0.3.dist-info/METADATA",
+    "Lib/site-packages/linkify_it_py-2.0.3.dist-info/RECORD",
+    "Lib/site-packages/linkify_it_py-2.0.3.dist-info/REQUESTED",
+    "Lib/site-packages/linkify_it_py-2.0.3.dist-info/WHEEL",
+    "Lib/site-packages/linkify_it_py-2.0.3.dist-info/direct_url.json",
+    "Lib/site-packages/linkify_it_py-2.0.3.dist-info/top_level.txt",
+    "Lib/site-packages/linkify_it/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/linkify_it/__pycache__/main.cpython-313.pyc",
+    "Lib/site-packages/linkify_it/__pycache__/tlds.cpython-313.pyc",
+    "Lib/site-packages/linkify_it/__pycache__/ucre.cpython-313.pyc"
+  ],
+  "fn": "linkify-it-py-2.0.3-pyhd8ed1ab_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Adam\\anaconda3\\pkgs\\linkify-it-py-2.0.3-pyhd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "b02fe519b5dc0dc55e7299810fcdfb8e",
+  "name": "linkify-it-py",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Adam\\anaconda3\\pkgs\\linkify-it-py-2.0.3-pyhd8ed1ab_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/linkify_it/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "6672925004d41fc640cbf9535ab12048ae1483bbb0e3a6a8c926168a9766e388",
+        "sha256_in_prefix": "6672925004d41fc640cbf9535ab12048ae1483bbb0e3a6a8c926168a9766e388",
+        "size_in_bytes": 111
+      },
+      {
+        "_path": "site-packages/linkify_it/main.py",
+        "path_type": "hardlink",
+        "sha256": "533d739d958dc986004593190a8d96a299069b86e10861a69407d0f3fabd85f4",
+        "sha256_in_prefix": "533d739d958dc986004593190a8d96a299069b86e10861a69407d0f3fabd85f4",
+        "size_in_bytes": 21327
+      },
+      {
+        "_path": "site-packages/linkify_it/tlds.py",
+        "path_type": "hardlink",
+        "sha256": "a8c8871a5ad71ce43ca3f3cb228f753dd96fa8493551146aeef069cb69beade4",
+        "sha256_in_prefix": "a8c8871a5ad71ce43ca3f3cb228f753dd96fa8493551146aeef069cb69beade4",
+        "size_in_bytes": 20791
+      },
+      {
+        "_path": "site-packages/linkify_it/ucre.py",
+        "path_type": "hardlink",
+        "sha256": "5247bb26b9aec28ff2587271d3ea76a946bffb2bdd42e83dcbda9630e2bbf2fd",
+        "sha256_in_prefix": "5247bb26b9aec28ff2587271d3ea76a946bffb2bdd42e83dcbda9630e2bbf2fd",
+        "size_in_bytes": 7103
+      },
+      {
+        "_path": "site-packages/linkify_it_py-2.0.3.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/linkify_it_py-2.0.3.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "db5d71f61f0f781f5078df4b6a00d5d3c799fb0bb82bcf448a688e9762618a2e",
+        "sha256_in_prefix": "db5d71f61f0f781f5078df4b6a00d5d3c799fb0bb82bcf448a688e9762618a2e",
+        "size_in_bytes": 2234
+      },
+      {
+        "_path": "site-packages/linkify_it_py-2.0.3.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "c870ea1e9463e7cbc5cb55e3a2238a43ac9fbef79c51df9a4e98837dfa5ef49d",
+        "sha256_in_prefix": "c870ea1e9463e7cbc5cb55e3a2238a43ac9fbef79c51df9a4e98837dfa5ef49d",
+        "size_in_bytes": 8450
+      },
+      {
+        "_path": "site-packages/linkify_it_py-2.0.3.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "4cd68c370dfa03b965fc78704670f0a47720220c524d962b6c9220c3e678b9ce",
+        "sha256_in_prefix": "4cd68c370dfa03b965fc78704670f0a47720220c524d962b6c9220c3e678b9ce",
+        "size_in_bytes": 1208
+      },
+      {
+        "_path": "site-packages/linkify_it_py-2.0.3.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/linkify_it_py-2.0.3.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3d9504c5d7fbd548bfb28ebb417a724ae1ed0a2dfe277c2f1783912ba93f4bc5",
+        "sha256_in_prefix": "3d9504c5d7fbd548bfb28ebb417a724ae1ed0a2dfe277c2f1783912ba93f4bc5",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "site-packages/linkify_it_py-2.0.3.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "6aebf9b9553779a7b77611caf38f16c444ba5010258f8e388128d6bc6c0a614c",
+        "sha256_in_prefix": "6aebf9b9553779a7b77611caf38f16c444ba5010258f8e388128d6bc6c0a614c",
+        "size_in_bytes": 109
+      },
+      {
+        "_path": "site-packages/linkify_it_py-2.0.3.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "197d9c7f163e481092769eabbc6d584a7238490ad3c53f2dcd414716f7e2336b",
+        "sha256_in_prefix": "197d9c7f163e481092769eabbc6d584a7238490ad3c53f2dcd414716f7e2336b",
+        "size_in_bytes": 11
+      },
+      {
+        "_path": "Lib/site-packages/linkify_it/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/linkify_it/__pycache__/main.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/linkify_it/__pycache__/tlds.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/linkify_it/__pycache__/ucre.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "d975a2015803d4fdaaae3f53e21f64996577d7a069eb61c6d2792504f16eb57b",
+  "size": 24154,
+  "subdir": "noarch",
+  "timestamp": 1733781296000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/linkify-it-py-2.0.3-pyhd8ed1ab_1.conda",
+  "version": "2.0.3"
+}

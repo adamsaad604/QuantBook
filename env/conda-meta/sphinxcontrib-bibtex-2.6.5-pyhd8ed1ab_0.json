@@ -1,0 +1,511 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "setuptools",
+    "python >=3.9",
+    "importlib-metadata >=3.6",
+    "docutils >=0.8,!=0.18.*,!=0.19.*",
+    "sphinx >=3.5",
+    "pybtex-docutils >=1.0.0",
+    "pybtex >=0.25"
+  ],
+  "extracted_package_dir": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinxcontrib-bibtex-2.6.5-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/sphinxcontrib/bibtex/__init__.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/bibfile.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/citation_target.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/directives.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/domain.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/foot_directives.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/foot_domain.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/foot_roles.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/nodes.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/plugin.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/py.typed",
+    "Lib/site-packages/sphinxcontrib/bibtex/richtext.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/roles.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/__init__.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/names/__init__.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/names/last.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__init__.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/author_year.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/basic_author_year.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/basic_foot.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/basic_label.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/basic_super.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/extra_author.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/extra_empty.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/extra_label.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/extra_year.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/foot.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/label.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/super_.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/template.py",
+    "Lib/site-packages/sphinxcontrib/bibtex/transforms.py",
+    "Lib/site-packages/sphinxcontrib_bibtex-2.6.5.dist-info/INSTALLER",
+    "Lib/site-packages/sphinxcontrib_bibtex-2.6.5.dist-info/METADATA",
+    "Lib/site-packages/sphinxcontrib_bibtex-2.6.5.dist-info/RECORD",
+    "Lib/site-packages/sphinxcontrib_bibtex-2.6.5.dist-info/REQUESTED",
+    "Lib/site-packages/sphinxcontrib_bibtex-2.6.5.dist-info/WHEEL",
+    "Lib/site-packages/sphinxcontrib_bibtex-2.6.5.dist-info/direct_url.json",
+    "Lib/site-packages/sphinxcontrib_bibtex-2.6.5.dist-info/entry_points.txt",
+    "Lib/site-packages/sphinxcontrib_bibtex-2.6.5.dist-info/licenses/LICENSE.rst",
+    "Lib/site-packages/sphinxcontrib_bibtex-2.6.5.dist-info/top_level.txt",
+    "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/bibfile.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/citation_target.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/directives.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/domain.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/foot_directives.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/foot_domain.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/foot_roles.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/nodes.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/plugin.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/richtext.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/roles.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/names/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/names/__pycache__/last.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/author_year.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/basic_author_year.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/basic_foot.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/basic_label.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/basic_super.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/extra_author.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/extra_empty.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/extra_label.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/extra_year.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/foot.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/label.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/super_.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/style/__pycache__/template.cpython-313.pyc",
+    "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/transforms.cpython-313.pyc"
+  ],
+  "fn": "sphinxcontrib-bibtex-2.6.5-pyhd8ed1ab_0.conda",
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinxcontrib-bibtex-2.6.5-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "6267ad9b8e6c02ea6280a9d6eabe1026",
+  "name": "sphinxcontrib-bibtex",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinxcontrib-bibtex-2.6.5-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "64dd1aa2c6a261a173a23f639b4e176b8c0903a94349eb7daa585f24b8e61cca",
+        "sha256_in_prefix": "64dd1aa2c6a261a173a23f639b4e176b8c0903a94349eb7daa585f24b8e61cca",
+        "size_in_bytes": 2313
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/bibfile.py",
+        "path_type": "hardlink",
+        "sha256": "4820bf355f49744db7a708a5678cb557c8c3e46edea458570906c2ecf8b6dc4d",
+        "sha256_in_prefix": "4820bf355f49744db7a708a5678cb557c8c3e46edea458570906c2ecf8b6dc4d",
+        "size_in_bytes": 3977
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/citation_target.py",
+        "path_type": "hardlink",
+        "sha256": "b935743e515290cd7cd0763bf42b57b0e827c077765c534cac900aac1d9cee1b",
+        "sha256_in_prefix": "b935743e515290cd7cd0763bf42b57b0e827c077765c534cac900aac1d9cee1b",
+        "size_in_bytes": 990
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/directives.py",
+        "path_type": "hardlink",
+        "sha256": "c66f15848c1b6d5ebcd2303e7828a45a8b98ce433c08fdc1b79ebeb1fb8f55d9",
+        "sha256_in_prefix": "c66f15848c1b6d5ebcd2303e7828a45a8b98ce433c08fdc1b79ebeb1fb8f55d9",
+        "size_in_bytes": 9500
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/domain.py",
+        "path_type": "hardlink",
+        "sha256": "0d48ead3c26ba5d302783c90deda8df07d75dab9bef4981dd3acf6569131491e",
+        "sha256_in_prefix": "0d48ead3c26ba5d302783c90deda8df07d75dab9bef4981dd3acf6569131491e",
+        "size_in_bytes": 22872
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/foot_directives.py",
+        "path_type": "hardlink",
+        "sha256": "4d2deba1ee294e9dd5402ab6b934a75961dd584cef94b48aaad9ec5cafe51824",
+        "sha256_in_prefix": "4d2deba1ee294e9dd5402ab6b934a75961dd584cef94b48aaad9ec5cafe51824",
+        "size_in_bytes": 2294
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/foot_domain.py",
+        "path_type": "hardlink",
+        "sha256": "07371065e245c11c0e0990c47d6128a6557ad90d429788127f6b1d35a9327f72",
+        "sha256_in_prefix": "07371065e245c11c0e0990c47d6128a6557ad90d429788127f6b1d35a9327f72",
+        "size_in_bytes": 2971
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/foot_roles.py",
+        "path_type": "hardlink",
+        "sha256": "35747a1b5528d6a1cb20ff9f8854c20662c06116c163abe238e70e302dc253dd",
+        "sha256_in_prefix": "35747a1b5528d6a1cb20ff9f8854c20662c06116c163abe238e70e302dc253dd",
+        "size_in_bytes": 4877
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/nodes.py",
+        "path_type": "hardlink",
+        "sha256": "2e86c798000f34cb1953e580cd0efe4022f80e0d9091e9eacd7fe06a84847332",
+        "sha256_in_prefix": "2e86c798000f34cb1953e580cd0efe4022f80e0d9091e9eacd7fe06a84847332",
+        "size_in_bytes": 918
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/plugin.py",
+        "path_type": "hardlink",
+        "sha256": "bf6dd16a57f79b08d36e6875e82715612089ac1555258750dc9c9fdda93ddaf6",
+        "sha256_in_prefix": "bf6dd16a57f79b08d36e6875e82715612089ac1555258750dc9c9fdda93ddaf6",
+        "size_in_bytes": 1560
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/richtext.py",
+        "path_type": "hardlink",
+        "sha256": "ac00cc72f14c015f63f164676d4d19e4fd66a3c1ec691abc971cee9c6bea08b3",
+        "sha256_in_prefix": "ac00cc72f14c015f63f164676d4d19e4fd66a3c1ec691abc971cee9c6bea08b3",
+        "size_in_bytes": 967
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/roles.py",
+        "path_type": "hardlink",
+        "sha256": "691161e89a8f4531314954954cd839fddc94f100ecdb0221abf76f877c92d9e4",
+        "sha256_in_prefix": "691161e89a8f4531314954954cd839fddc94f100ecdb0221abf76f877c92d9e4",
+        "size_in_bytes": 1645
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/style/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/style/names/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/style/names/last.py",
+        "path_type": "hardlink",
+        "sha256": "95f3e0bdc90275354bed95ec687042799252b846c955511a6afe176dd5059421",
+        "sha256_in_prefix": "95f3e0bdc90275354bed95ec687042799252b846c955511a6afe176dd5059421",
+        "size_in_bytes": 420
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/style/referencing/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "6d92d1253e7eba3b4cee63cf1ba73aa10c1f5987a996233d8635ac72c07633ab",
+        "sha256_in_prefix": "6d92d1253e7eba3b4cee63cf1ba73aa10c1f5987a996233d8635ac72c07633ab",
+        "size_in_bytes": 6967
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/style/referencing/author_year.py",
+        "path_type": "hardlink",
+        "sha256": "e342385c57cad7441767a82e71c23e8c5e9f88d3ccd0a613491cd7513a838a84",
+        "sha256_in_prefix": "e342385c57cad7441767a82e71c23e8c5e9f88d3ccd0a613491cd7513a838a84",
+        "size_in_bytes": 3186
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/style/referencing/basic_author_year.py",
+        "path_type": "hardlink",
+        "sha256": "a0d717e178a2dcf666cc5eaa4efab263e3df8774224381273a51f1b5bd196ac4",
+        "sha256_in_prefix": "a0d717e178a2dcf666cc5eaa4efab263e3df8774224381273a51f1b5bd196ac4",
+        "size_in_bytes": 3127
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/style/referencing/basic_foot.py",
+        "path_type": "hardlink",
+        "sha256": "8f5a6ec3ad7a035f7da35fec33a1c89cb27fb257bee76be0b7b3d35577761816",
+        "sha256_in_prefix": "8f5a6ec3ad7a035f7da35fec33a1c89cb27fb257bee76be0b7b3d35577761816",
+        "size_in_bytes": 1661
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/style/referencing/basic_label.py",
+        "path_type": "hardlink",
+        "sha256": "57c501abcf294c20ba5ea86ad6a2182e5fe110a8b4d76af72747e091a576b096",
+        "sha256_in_prefix": "57c501abcf294c20ba5ea86ad6a2182e5fe110a8b4d76af72747e091a576b096",
+        "size_in_bytes": 2868
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/style/referencing/basic_super.py",
+        "path_type": "hardlink",
+        "sha256": "4f2c1afb8d0b6f2628bd859d1afe2c21f701949a70af5cbf80a726dd15237884",
+        "sha256_in_prefix": "4f2c1afb8d0b6f2628bd859d1afe2c21f701949a70af5cbf80a726dd15237884",
+        "size_in_bytes": 3439
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/style/referencing/extra_author.py",
+        "path_type": "hardlink",
+        "sha256": "e82d082c834163f2fefbf38930054950f38f40eb5219f0cbcfbdd1e72ccebad8",
+        "sha256_in_prefix": "e82d082c834163f2fefbf38930054950f38f40eb5219f0cbcfbdd1e72ccebad8",
+        "size_in_bytes": 1239
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/style/referencing/extra_empty.py",
+        "path_type": "hardlink",
+        "sha256": "eda96c009ff5dc9661ec8f0d960fea2a7596d471482c2a44d9a5060f01a7341c",
+        "sha256_in_prefix": "eda96c009ff5dc9661ec8f0d960fea2a7596d471482c2a44d9a5060f01a7341c",
+        "size_in_bytes": 642
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/style/referencing/extra_label.py",
+        "path_type": "hardlink",
+        "sha256": "06cf568031d303263bc7865d5cfa1fe599763e4907a10480d41dce11be3e1650",
+        "sha256_in_prefix": "06cf568031d303263bc7865d5cfa1fe599763e4907a10480d41dce11be3e1650",
+        "size_in_bytes": 879
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/style/referencing/extra_year.py",
+        "path_type": "hardlink",
+        "sha256": "62ee56fd4dce5f0d260f5866f1eb084422d27651be5159da7eed7bbf7996ecf8",
+        "sha256_in_prefix": "62ee56fd4dce5f0d260f5866f1eb084422d27651be5159da7eed7bbf7996ecf8",
+        "size_in_bytes": 861
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/style/referencing/foot.py",
+        "path_type": "hardlink",
+        "sha256": "ab9785cbac07dc5fb24e3ae1f8b9513f40190be5870a26c522c515fd94659bd0",
+        "sha256_in_prefix": "ab9785cbac07dc5fb24e3ae1f8b9513f40190be5870a26c522c515fd94659bd0",
+        "size_in_bytes": 1226
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/style/referencing/label.py",
+        "path_type": "hardlink",
+        "sha256": "ce92febf5bff84f1a47731b73c28105f3925bcc2cf2ca595b7130f8231d00df4",
+        "sha256_in_prefix": "ce92febf5bff84f1a47731b73c28105f3925bcc2cf2ca595b7130f8231d00df4",
+        "size_in_bytes": 2885
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/style/referencing/super_.py",
+        "path_type": "hardlink",
+        "sha256": "d5dbda14734bbe1046ee6c19432c1203380986384a77c24a0739e3a304472555",
+        "sha256_in_prefix": "d5dbda14734bbe1046ee6c19432c1203380986384a77c24a0739e3a304472555",
+        "size_in_bytes": 3039
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/style/template.py",
+        "path_type": "hardlink",
+        "sha256": "0fb2a63586494bf1bb3ab86153572587a2f29acc00e6971d3928bbd51b664e45",
+        "sha256_in_prefix": "0fb2a63586494bf1bb3ab86153572587a2f29acc00e6971d3928bbd51b664e45",
+        "size_in_bytes": 8893
+      },
+      {
+        "_path": "site-packages/sphinxcontrib/bibtex/transforms.py",
+        "path_type": "hardlink",
+        "sha256": "b062e2e10fcfb1342f77808e23db58f9128437f43d554a40baaf1c9e63d7a99f",
+        "sha256_in_prefix": "b062e2e10fcfb1342f77808e23db58f9128437f43d554a40baaf1c9e63d7a99f",
+        "size_in_bytes": 4985
+      },
+      {
+        "_path": "site-packages/sphinxcontrib_bibtex-2.6.5.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/sphinxcontrib_bibtex-2.6.5.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "9639550ed012e2e7cd6924c8fb0378a28b1859b49027d4ef29cd867aee6ef8bc",
+        "sha256_in_prefix": "9639550ed012e2e7cd6924c8fb0378a28b1859b49027d4ef29cd867aee6ef8bc",
+        "size_in_bytes": 6121
+      },
+      {
+        "_path": "site-packages/sphinxcontrib_bibtex-2.6.5.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "13929ff88d9d1697c20600ad91b975f71ca5e9332a0341f49a87a0df75498ebf",
+        "sha256_in_prefix": "13929ff88d9d1697c20600ad91b975f71ca5e9332a0341f49a87a0df75498ebf",
+        "size_in_bytes": 6064
+      },
+      {
+        "_path": "site-packages/sphinxcontrib_bibtex-2.6.5.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/sphinxcontrib_bibtex-2.6.5.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "ff309ddcdd65ebd02bc724dbf2bcc4a0ff53a5b61792a44548d383e4ebb19d3b",
+        "sha256_in_prefix": "ff309ddcdd65ebd02bc724dbf2bcc4a0ff53a5b61792a44548d383e4ebb19d3b",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "site-packages/sphinxcontrib_bibtex-2.6.5.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "a97a28abe58c442a12d2ad58c11bcb408458c8275cd6b9d35ef340083470a8f4",
+        "sha256_in_prefix": "a97a28abe58c442a12d2ad58c11bcb408458c8275cd6b9d35ef340083470a8f4",
+        "size_in_bytes": 116
+      },
+      {
+        "_path": "site-packages/sphinxcontrib_bibtex-2.6.5.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "b0ad392fec1d50bfc5069660226f3ef45849c9cad396fa239120295c8c67c8d1",
+        "sha256_in_prefix": "b0ad392fec1d50bfc5069660226f3ef45849c9cad396fa239120295c8c67c8d1",
+        "size_in_bytes": 429
+      },
+      {
+        "_path": "site-packages/sphinxcontrib_bibtex-2.6.5.dist-info/licenses/LICENSE.rst",
+        "path_type": "hardlink",
+        "sha256": "0baeb79e4e91f7796d2ddc4a4eabad0a18a68827d8c0d4e557b7469e14cc933e",
+        "sha256_in_prefix": "0baeb79e4e91f7796d2ddc4a4eabad0a18a68827d8c0d4e557b7469e14cc933e",
+        "size_in_bytes": 1388
+      },
+      {
+        "_path": "site-packages/sphinxcontrib_bibtex-2.6.5.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "549ad5dffbda88a415815a51d08d6279cc683b476bcc6bbe3348f8d0f54fd904",
+        "sha256_in_prefix": "549ad5dffbda88a415815a51d08d6279cc683b476bcc6bbe3348f8d0f54fd904",
+        "size_in_bytes": 14
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/bibfile.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/citation_target.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/directives.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/domain.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/foot_directives.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/foot_domain.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/foot_roles.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/nodes.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/plugin.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/richtext.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/roles.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/style/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/style/names/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/style/names/__pycache__/last.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/author_year.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/basic_author_year.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/basic_foot.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/basic_label.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/basic_super.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/extra_author.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/extra_empty.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/extra_label.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/extra_year.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/foot.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/label.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/style/referencing/__pycache__/super_.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/style/__pycache__/template.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinxcontrib/bibtex/__pycache__/transforms.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "b128f051391c67c5ee77bf5aa2e6e4073adfc22631829491db112fcafe58f196",
+  "size": 33137,
+  "subdir": "noarch",
+  "timestamp": 1751029066000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/sphinxcontrib-bibtex-2.6.5-pyhd8ed1ab_0.conda",
+  "version": "2.6.5"
+}

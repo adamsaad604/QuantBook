@@ -1,0 +1,176 @@
+{
+  "build": "pyhd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [
+    "myst-nb >=1.0.0"
+  ],
+  "depends": [
+    "packaging",
+    "python >=3.9",
+    "sphinx >=5"
+  ],
+  "extracted_package_dir": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinx-jupyterbook-latex-1.0.0-pyhd8ed1ab_1",
+  "files": [
+    "Lib/site-packages/sphinx_jupyterbook_latex-1.0.0.dist-info/INSTALLER",
+    "Lib/site-packages/sphinx_jupyterbook_latex-1.0.0.dist-info/LICENSE",
+    "Lib/site-packages/sphinx_jupyterbook_latex-1.0.0.dist-info/METADATA",
+    "Lib/site-packages/sphinx_jupyterbook_latex-1.0.0.dist-info/RECORD",
+    "Lib/site-packages/sphinx_jupyterbook_latex-1.0.0.dist-info/REQUESTED",
+    "Lib/site-packages/sphinx_jupyterbook_latex-1.0.0.dist-info/WHEEL",
+    "Lib/site-packages/sphinx_jupyterbook_latex-1.0.0.dist-info/direct_url.json",
+    "Lib/site-packages/sphinx_jupyterbook_latex/__init__.py",
+    "Lib/site-packages/sphinx_jupyterbook_latex/events.py",
+    "Lib/site-packages/sphinx_jupyterbook_latex/nodes.py",
+    "Lib/site-packages/sphinx_jupyterbook_latex/py.typed",
+    "Lib/site-packages/sphinx_jupyterbook_latex/theme/__init__.py",
+    "Lib/site-packages/sphinx_jupyterbook_latex/theme/jupyterBook.cls",
+    "Lib/site-packages/sphinx_jupyterbook_latex/transforms.py",
+    "Lib/site-packages/sphinx_jupyterbook_latex/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/sphinx_jupyterbook_latex/__pycache__/events.cpython-313.pyc",
+    "Lib/site-packages/sphinx_jupyterbook_latex/__pycache__/nodes.cpython-313.pyc",
+    "Lib/site-packages/sphinx_jupyterbook_latex/theme/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/sphinx_jupyterbook_latex/__pycache__/transforms.cpython-313.pyc"
+  ],
+  "fn": "sphinx-jupyterbook-latex-1.0.0-pyhd8ed1ab_1.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinx-jupyterbook-latex-1.0.0-pyhd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "9261bc5d987013f5d8dc58061c34f1a3",
+  "name": "sphinx-jupyterbook-latex",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinx-jupyterbook-latex-1.0.0-pyhd8ed1ab_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/sphinx_jupyterbook_latex-1.0.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/sphinx_jupyterbook_latex-1.0.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "6961deba3e9b6ab4bc8cfca41b3e8fe38f56a47d5016b0a8eef94496c3aca1be",
+        "sha256_in_prefix": "6961deba3e9b6ab4bc8cfca41b3e8fe38f56a47d5016b0a8eef94496c3aca1be",
+        "size_in_bytes": 1529
+      },
+      {
+        "_path": "site-packages/sphinx_jupyterbook_latex-1.0.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "fd1bc61412070ba1a8516075f67d5bde85c04299878ff56d6f1008552d428f0b",
+        "sha256_in_prefix": "fd1bc61412070ba1a8516075f67d5bde85c04299878ff56d6f1008552d428f0b",
+        "size_in_bytes": 3708
+      },
+      {
+        "_path": "site-packages/sphinx_jupyterbook_latex-1.0.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "8495d0eddcaeb2fdf615d3f717593aad9e85947988ae41d2ee015480ab2f8e5e",
+        "sha256_in_prefix": "8495d0eddcaeb2fdf615d3f717593aad9e85947988ae41d2ee015480ab2f8e5e",
+        "size_in_bytes": 1676
+      },
+      {
+        "_path": "site-packages/sphinx_jupyterbook_latex-1.0.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/sphinx_jupyterbook_latex-1.0.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "0a950253178741b44de54191407611268acee407fe432fdf1cc72d710f034862",
+        "sha256_in_prefix": "0a950253178741b44de54191407611268acee407fe432fdf1cc72d710f034862",
+        "size_in_bytes": 82
+      },
+      {
+        "_path": "site-packages/sphinx_jupyterbook_latex-1.0.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "acf72d04b699a34a0c18156c6c435643285864ba4d3f389ea4deaf236e87f7d7",
+        "sha256_in_prefix": "acf72d04b699a34a0c18156c6c435643285864ba4d3f389ea4deaf236e87f7d7",
+        "size_in_bytes": 120
+      },
+      {
+        "_path": "site-packages/sphinx_jupyterbook_latex/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0df253497cb414f63f4af85e5e043bf890573cb8199b9673f4f0f00ae5e47b2c",
+        "sha256_in_prefix": "0df253497cb414f63f4af85e5e043bf890573cb8199b9673f4f0f00ae5e47b2c",
+        "size_in_bytes": 1481
+      },
+      {
+        "_path": "site-packages/sphinx_jupyterbook_latex/events.py",
+        "path_type": "hardlink",
+        "sha256": "4ccf751f2aebf1967caee3239216e721a98bd72b69a89e62390babf2b8feab82",
+        "sha256_in_prefix": "4ccf751f2aebf1967caee3239216e721a98bd72b69a89e62390babf2b8feab82",
+        "size_in_bytes": 4522
+      },
+      {
+        "_path": "site-packages/sphinx_jupyterbook_latex/nodes.py",
+        "path_type": "hardlink",
+        "sha256": "7c15c60c6ae3de415aafdc7404d89ac951eac87ac997e96085e2bc47f22fb79f",
+        "sha256_in_prefix": "7c15c60c6ae3de415aafdc7404d89ac951eac87ac997e96085e2bc47f22fb79f",
+        "size_in_bytes": 4100
+      },
+      {
+        "_path": "site-packages/sphinx_jupyterbook_latex/py.typed",
+        "path_type": "hardlink",
+        "sha256": "f0f8f2675695a10a5156fb7bd66bafbaae6a13e8d315990af862c792175e6e67",
+        "sha256_in_prefix": "f0f8f2675695a10a5156fb7bd66bafbaae6a13e8d315990af862c792175e6e67",
+        "size_in_bytes": 26
+      },
+      {
+        "_path": "site-packages/sphinx_jupyterbook_latex/theme/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/sphinx_jupyterbook_latex/theme/jupyterBook.cls",
+        "path_type": "hardlink",
+        "sha256": "2e40e3923458833aea97ef09320e459af64b536382078a4e530cb6f69930f997",
+        "sha256_in_prefix": "2e40e3923458833aea97ef09320e459af64b536382078a4e530cb6f69930f997",
+        "size_in_bytes": 2881
+      },
+      {
+        "_path": "site-packages/sphinx_jupyterbook_latex/transforms.py",
+        "path_type": "hardlink",
+        "sha256": "0ce989e340091b03ef828c8c00a7ad416dd7022fad6d13016172fc42403a0e01",
+        "sha256_in_prefix": "0ce989e340091b03ef828c8c00a7ad416dd7022fad6d13016172fc42403a0e01",
+        "size_in_bytes": 18143
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_jupyterbook_latex/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_jupyterbook_latex/__pycache__/events.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_jupyterbook_latex/__pycache__/nodes.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_jupyterbook_latex/theme/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_jupyterbook_latex/__pycache__/transforms.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "b64c031795918f26ddeb5148ede2d3a4944cd9f5461cf72bde3f28acdc71d2f3",
+  "size": 17727,
+  "subdir": "noarch",
+  "timestamp": 1735227211000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/sphinx-jupyterbook-latex-1.0.0-pyhd8ed1ab_1.conda",
+  "version": "1.0.0"
+}

@@ -1,0 +1,1899 @@
+{
+  "build": "pyh29332c3_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python",
+    "python >=3.9",
+    "sphinx >=6.1",
+    "pydata-sphinx-theme 0.15.4"
+  ],
+  "extracted_package_dir": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinx-book-theme-1.1.4-pyh29332c3_0",
+  "files": [
+    "etc/conda/test-files/sphinx-book-theme/1/run_test.py",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/conftest.py",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/Makefile",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/conf.py",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/index.rst",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/page1.rst",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/page2.rst",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/section1/index.rst",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/section1/ntbk.ipynb",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/section1/ntbk_julia.ipynb",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/section1/ntbk_octave.ipynb",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/section1/ntbkmd.md",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/section1/page1.rst",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/titles/index.rst",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/titles/page-multipletitles.rst",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/titles/page-onetitle.rst",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/titles/page-onetitlenoheadings.rst",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/notitle/conf.py",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/notitle/index.rst",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/parallel-build/Makefile",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/parallel-build/conf.py",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/parallel-build/five.rst",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/parallel-build/four.rst",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/parallel-build/index.rst",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/parallel-build/one.rst",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/parallel-build/three.rst",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/parallel-build/two.rst",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/build__header-article.html",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/build__pagetoc--page-multipletitles.html",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/build__pagetoc--page-onetitle.html",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__launch-buttons--bitbucket.html",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__launch-buttons--github.html",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__launch-buttons--gitlab.html",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__launch-buttons--gitlab_manual.html",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__repo-buttons--all-off.html",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__repo-buttons--all-on.html",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__repo-buttons--custom-branch.html",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__repo-buttons--one-on.html",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__source-buttons--bitbucket.html",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__source-buttons--github.html",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__source-buttons--github_manual.html",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__source-buttons--gitlab.html",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__source-buttons--gitlab_manual.html",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/test_header_launchbtns.html",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/test_marginnote.html",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/test_marginnote_6.html",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/test_right_sidebar_title.html",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/test_sidenote.html",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/test_sidenote_6.html",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build.py",
+    "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_locale_convert.py",
+    "Lib/site-packages/sphinx_book_theme/__init__.py",
+    "Lib/site-packages/sphinx_book_theme/_compat.py",
+    "Lib/site-packages/sphinx_book_theme/_compile_translations.py",
+    "Lib/site-packages/sphinx_book_theme/_transforms.py",
+    "Lib/site-packages/sphinx_book_theme/assets/scripts/index.js",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/abstracts/_mixins.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/abstracts/_variables.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/base/_base.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/base/_print.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/base/_typography.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/components/_back-to-top.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/components/_icon-links.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/components/_logo.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/components/_search.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/content/_code.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/content/_images.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/content/_margin.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/content/_notebooks.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/content/_quotes.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/extensions/_comments.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/extensions/_thebe.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/index.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/sections/_announcement.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/sections/_article-container.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/sections/_article.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/sections/_footer-article.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/sections/_footer-content.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/sections/_header-article.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/sections/_header-primary.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/sections/_sidebar-primary.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/styles/sections/_sidebar-secondary.scss",
+    "Lib/site-packages/sphinx_book_theme/assets/translations/README.md",
+    "Lib/site-packages/sphinx_book_theme/assets/translations/jsons/By the.json",
+    "Lib/site-packages/sphinx_book_theme/assets/translations/jsons/By.json",
+    "Lib/site-packages/sphinx_book_theme/assets/translations/jsons/Contents.json",
+    "Lib/site-packages/sphinx_book_theme/assets/translations/jsons/Copyright.json",
+    "Lib/site-packages/sphinx_book_theme/assets/translations/jsons/Download notebook file.json",
+    "Lib/site-packages/sphinx_book_theme/assets/translations/jsons/Download source file.json",
+    "Lib/site-packages/sphinx_book_theme/assets/translations/jsons/Download this page.json",
+    "Lib/site-packages/sphinx_book_theme/assets/translations/jsons/Edit this page.json",
+    "Lib/site-packages/sphinx_book_theme/assets/translations/jsons/Fullscreen mode.json",
+    "Lib/site-packages/sphinx_book_theme/assets/translations/jsons/Last updated on.json",
+    "Lib/site-packages/sphinx_book_theme/assets/translations/jsons/Launch.json",
+    "Lib/site-packages/sphinx_book_theme/assets/translations/jsons/Open an issue.json",
+    "Lib/site-packages/sphinx_book_theme/assets/translations/jsons/Print to PDF.json",
+    "Lib/site-packages/sphinx_book_theme/assets/translations/jsons/Source repository.json",
+    "Lib/site-packages/sphinx_book_theme/assets/translations/jsons/Sphinx Book Theme.json",
+    "Lib/site-packages/sphinx_book_theme/assets/translations/jsons/Theme by the.json",
+    "Lib/site-packages/sphinx_book_theme/assets/translations/jsons/Toggle navigation.json",
+    "Lib/site-packages/sphinx_book_theme/assets/translations/jsons/next page.json",
+    "Lib/site-packages/sphinx_book_theme/assets/translations/jsons/open issue.json",
+    "Lib/site-packages/sphinx_book_theme/assets/translations/jsons/previous page.json",
+    "Lib/site-packages/sphinx_book_theme/assets/translations/jsons/repository.json",
+    "Lib/site-packages/sphinx_book_theme/assets/translations/jsons/suggest edit.json",
+    "Lib/site-packages/sphinx_book_theme/directives.py",
+    "Lib/site-packages/sphinx_book_theme/header_buttons/__init__.py",
+    "Lib/site-packages/sphinx_book_theme/header_buttons/launch.py",
+    "Lib/site-packages/sphinx_book_theme/header_buttons/source.py",
+    "Lib/site-packages/sphinx_book_theme/nodes.py",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/components/article-header-buttons.html",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/components/author.html",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/components/extra-footer.html",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/components/page-toc.html",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/components/sbt-sidebar-nav.html",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/components/toggle-primary-sidebar.html",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/components/toggle-secondary-sidebar.html",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/layout.html",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/macros/buttons.html",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/sections/footer-content.html",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/images/logo_binder.svg",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/images/logo_colab.png",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/images/logo_deepnote.svg",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/images/logo_jupyterhub.svg",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ar/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ar/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/bg/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/bg/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/bn/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/bn/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ca/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ca/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/cs/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/cs/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/da/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/da/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/de/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/de/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/el/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/el/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/eo/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/eo/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/es/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/es/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/et/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/et/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/fi/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/fi/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/fr/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/fr/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/hr/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/hr/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/id/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/id/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/it/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/it/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/iw/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/iw/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ja/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ja/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ko/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ko/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/lt/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/lt/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/lv/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/lv/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ml/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ml/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/mr/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/mr/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ms/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ms/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/nl/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/nl/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/no/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/no/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/pl/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/pl/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/pt/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/pt/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ro/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ro/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ru/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ru/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/sk/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/sk/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/sl/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/sl/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/sr/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/sr/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/sv/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/sv/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ta/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ta/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/te/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/te/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/tg/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/tg/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/th/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/th/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/tl/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/tl/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/tr/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/tr/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/uk/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/uk/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ur/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ur/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/vi/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/vi/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/zh_CN/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/zh_CN/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/zh_TW/LC_MESSAGES/booktheme.mo",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/zh_TW/LC_MESSAGES/booktheme.po",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/sbt-webpack-macros.html",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/scripts/sphinx-book-theme.js",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/scripts/sphinx-book-theme.js.map",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/styles/sphinx-book-theme.css",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/styles/sphinx-book-theme.css.map",
+    "Lib/site-packages/sphinx_book_theme/theme/sphinx_book_theme/theme.conf",
+    "Lib/site-packages/sphinx_book_theme-1.1.4.dist-info/INSTALLER",
+    "Lib/site-packages/sphinx_book_theme-1.1.4.dist-info/LICENSE",
+    "Lib/site-packages/sphinx_book_theme-1.1.4.dist-info/METADATA",
+    "Lib/site-packages/sphinx_book_theme-1.1.4.dist-info/RECORD",
+    "Lib/site-packages/sphinx_book_theme-1.1.4.dist-info/REQUESTED",
+    "Lib/site-packages/sphinx_book_theme-1.1.4.dist-info/WHEEL",
+    "Lib/site-packages/sphinx_book_theme-1.1.4.dist-info/entry_points.txt",
+    "Lib/site-packages/sphinx_book_theme/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/sphinx_book_theme/__pycache__/_compat.cpython-313.pyc",
+    "Lib/site-packages/sphinx_book_theme/__pycache__/_compile_translations.cpython-313.pyc",
+    "Lib/site-packages/sphinx_book_theme/__pycache__/_transforms.cpython-313.pyc",
+    "Lib/site-packages/sphinx_book_theme/__pycache__/directives.cpython-313.pyc",
+    "Lib/site-packages/sphinx_book_theme/header_buttons/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/sphinx_book_theme/header_buttons/__pycache__/launch.cpython-313.pyc",
+    "Lib/site-packages/sphinx_book_theme/header_buttons/__pycache__/source.cpython-313.pyc",
+    "Lib/site-packages/sphinx_book_theme/__pycache__/nodes.cpython-313.pyc"
+  ],
+  "fn": "sphinx-book-theme-1.1.4-pyh29332c3_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinx-book-theme-1.1.4-pyh29332c3_0",
+    "type": 1
+  },
+  "md5": "f3d3f4e7e2c9198e88cd524633665081",
+  "name": "sphinx-book-theme",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinx-book-theme-1.1.4-pyh29332c3_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/run_test.py",
+        "path_type": "hardlink",
+        "sha256": "3404bae6ee86feb49617515c7862bd2fb950a2987161ad23b969dca2ab74239c",
+        "sha256_in_prefix": "3404bae6ee86feb49617515c7862bd2fb950a2987161ad23b969dca2ab74239c",
+        "size_in_bytes": 606
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/conftest.py",
+        "path_type": "hardlink",
+        "sha256": "aa267f34abdf6230185bb0b67bc833da443d78577016aff63a5ebcf207ec325f",
+        "sha256_in_prefix": "aa267f34abdf6230185bb0b67bc833da443d78577016aff63a5ebcf207ec325f",
+        "size_in_bytes": 43
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/Makefile",
+        "path_type": "hardlink",
+        "sha256": "8b6587b859607f200f116e2cb043fc358e1c3a26c326b563bf348453cfc68307",
+        "sha256_in_prefix": "8b6587b859607f200f116e2cb043fc358e1c3a26c326b563bf348453cfc68307",
+        "size_in_bytes": 634
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/conf.py",
+        "path_type": "hardlink",
+        "sha256": "3a2df46db10994ce8ddbd93f8a3848fdd6a74015ca0ac692756af062dc763146",
+        "sha256_in_prefix": "3a2df46db10994ce8ddbd93f8a3848fdd6a74015ca0ac692756af062dc763146",
+        "size_in_bytes": 1203
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/index.rst",
+        "path_type": "hardlink",
+        "sha256": "cfe97b0d900d47bcdb94822ea30d7ad110318ce5d59874f6e0c68b89d49c0b93",
+        "sha256_in_prefix": "cfe97b0d900d47bcdb94822ea30d7ad110318ce5d59874f6e0c68b89d49c0b93",
+        "size_in_bytes": 187
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/page1.rst",
+        "path_type": "hardlink",
+        "sha256": "1f0a96535ed65925740cadd107444bbc74362dacaace3715d8b27ec0a2d714ae",
+        "sha256_in_prefix": "1f0a96535ed65925740cadd107444bbc74362dacaace3715d8b27ec0a2d714ae",
+        "size_in_bytes": 129
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/page2.rst",
+        "path_type": "hardlink",
+        "sha256": "afdb112a03ec0fdda578686d0c743ab6f357f378033abbb13cc51d48f00643fe",
+        "sha256_in_prefix": "afdb112a03ec0fdda578686d0c743ab6f357f378033abbb13cc51d48f00643fe",
+        "size_in_bytes": 374
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/section1/index.rst",
+        "path_type": "hardlink",
+        "sha256": "bf5e6ac941298daef31125ecb36ab46c6b1480ff40698ddaaeb24db9ad904d43",
+        "sha256_in_prefix": "bf5e6ac941298daef31125ecb36ab46c6b1480ff40698ddaaeb24db9ad904d43",
+        "size_in_bytes": 97
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/section1/ntbk.ipynb",
+        "path_type": "hardlink",
+        "sha256": "073c9523b8b7355f1d23fb74330b10349f388bd4c12fd3958c9452344267307d",
+        "sha256_in_prefix": "073c9523b8b7355f1d23fb74330b10349f388bd4c12fd3958c9452344267307d",
+        "size_in_bytes": 747
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/section1/ntbk_julia.ipynb",
+        "path_type": "hardlink",
+        "sha256": "6bb3598cd4d70284dabfd211856c41e0130e6b9aa4115cf53532cda12b111f9b",
+        "sha256_in_prefix": "6bb3598cd4d70284dabfd211856c41e0130e6b9aa4115cf53532cda12b111f9b",
+        "size_in_bytes": 146494
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/section1/ntbk_octave.ipynb",
+        "path_type": "hardlink",
+        "sha256": "494d60aef6bcc046317570d24e5f6040251d6821854ee92a42d32d138a841cdf",
+        "sha256_in_prefix": "494d60aef6bcc046317570d24e5f6040251d6821854ee92a42d32d138a841cdf",
+        "size_in_bytes": 41097
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/section1/ntbkmd.md",
+        "path_type": "hardlink",
+        "sha256": "2fe508b6f8bb9194782a3e8e63385000cfff6028fdd6c251d9fe5606b9876fe6",
+        "sha256_in_prefix": "2fe508b6f8bb9194782a3e8e63385000cfff6028fdd6c251d9fe5606b9876fe6",
+        "size_in_bytes": 275
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/section1/page1.rst",
+        "path_type": "hardlink",
+        "sha256": "c2b117920b8e6bc3e6fdc08d000f462efc664d636c222f4d8985c5335f486f2d",
+        "sha256_in_prefix": "c2b117920b8e6bc3e6fdc08d000f462efc664d636c222f4d8985c5335f486f2d",
+        "size_in_bytes": 32
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/titles/index.rst",
+        "path_type": "hardlink",
+        "sha256": "20aad220fd80d40c4c4b28988d735b4e1985decd3fc6a4fde61d95a2abb2ae17",
+        "sha256_in_prefix": "20aad220fd80d40c4c4b28988d735b4e1985decd3fc6a4fde61d95a2abb2ae17",
+        "size_in_bytes": 86
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/titles/page-multipletitles.rst",
+        "path_type": "hardlink",
+        "sha256": "77fbefb8e7f40b796f1e2b7c093a2e80fe8f87d1837b29857fe02a682ec25158",
+        "sha256_in_prefix": "77fbefb8e7f40b796f1e2b7c093a2e80fe8f87d1837b29857fe02a682ec25158",
+        "size_in_bytes": 206
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/titles/page-onetitle.rst",
+        "path_type": "hardlink",
+        "sha256": "3a876aebc5643b1ce9a93c8ee29625625094516e19e8e8a77bd0e4eaca47fc7d",
+        "sha256_in_prefix": "3a876aebc5643b1ce9a93c8ee29625625094516e19e8e8a77bd0e4eaca47fc7d",
+        "size_in_bytes": 167
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/base/titles/page-onetitlenoheadings.rst",
+        "path_type": "hardlink",
+        "sha256": "261a1cc834677edd38e99233779159d8c2ef48a0ea08f84bd65b55c41a7f7bdb",
+        "sha256_in_prefix": "261a1cc834677edd38e99233779159d8c2ef48a0ea08f84bd65b55c41a7f7bdb",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/notitle/conf.py",
+        "path_type": "hardlink",
+        "sha256": "cbd81518b9b0dfa4c4e909c6726a78de4ecd9055518f872e0f2c692fcd3a303f",
+        "sha256_in_prefix": "cbd81518b9b0dfa4c4e909c6726a78de4ecd9055518f872e0f2c692fcd3a303f",
+        "size_in_bytes": 364
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/notitle/index.rst",
+        "path_type": "hardlink",
+        "sha256": "11accd87de509f20f9ecb3af034fb64d59c2ca77d761f64fbca147f78faf1c94",
+        "sha256_in_prefix": "11accd87de509f20f9ecb3af034fb64d59c2ca77d761f64fbca147f78faf1c94",
+        "size_in_bytes": 23
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/parallel-build/Makefile",
+        "path_type": "hardlink",
+        "sha256": "e0f7c2f8bf8662744f8601e6de9cd6bfcf913d3b098f4106237c0352728070c4",
+        "sha256_in_prefix": "e0f7c2f8bf8662744f8601e6de9cd6bfcf913d3b098f4106237c0352728070c4",
+        "size_in_bytes": 641
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/parallel-build/conf.py",
+        "path_type": "hardlink",
+        "sha256": "277ebe84894f52e9d0c835ffd031f16a4459407c130c5520aabc0749bc5574a4",
+        "sha256_in_prefix": "277ebe84894f52e9d0c835ffd031f16a4459407c130c5520aabc0749bc5574a4",
+        "size_in_bytes": 121
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/parallel-build/five.rst",
+        "path_type": "hardlink",
+        "sha256": "d980c52b0878736047c2f670a7efd16b8864a4b00c4291383069a030c63d68bb",
+        "sha256_in_prefix": "d980c52b0878736047c2f670a7efd16b8864a4b00c4291383069a030c63d68bb",
+        "size_in_bytes": 22
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/parallel-build/four.rst",
+        "path_type": "hardlink",
+        "sha256": "132bd3b8775eaacb38d7db8a8903059b5d5c61ad83cf543f0bcd4fc3774e49eb",
+        "sha256_in_prefix": "132bd3b8775eaacb38d7db8a8903059b5d5c61ad83cf543f0bcd4fc3774e49eb",
+        "size_in_bytes": 22
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/parallel-build/index.rst",
+        "path_type": "hardlink",
+        "sha256": "dafd7bc31c77f02048fa9d5c7f3f78ace5e181f12a1f87f2c0193aa665d9d979",
+        "sha256_in_prefix": "dafd7bc31c77f02048fa9d5c7f3f78ace5e181f12a1f87f2c0193aa665d9d979",
+        "size_in_bytes": 302
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/parallel-build/one.rst",
+        "path_type": "hardlink",
+        "sha256": "857a799464ae63eb8994a85529b6d51036ac22751be39de27083b3aca36a430b",
+        "sha256_in_prefix": "857a799464ae63eb8994a85529b6d51036ac22751be39de27083b3aca36a430b",
+        "size_in_bytes": 17
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/parallel-build/three.rst",
+        "path_type": "hardlink",
+        "sha256": "53b821219037a11be7c8d8f1719a9c6e1fad5b1f22b1bab3f3ed45094a3be0c9",
+        "sha256_in_prefix": "53b821219037a11be7c8d8f1719a9c6e1fad5b1f22b1bab3f3ed45094a3be0c9",
+        "size_in_bytes": 23
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/sites/parallel-build/two.rst",
+        "path_type": "hardlink",
+        "sha256": "6193c983c879145a51f22e7e4a677b2b20a1e296b12a77f0eb40136d23245c87",
+        "sha256_in_prefix": "6193c983c879145a51f22e7e4a677b2b20a1e296b12a77f0eb40136d23245c87",
+        "size_in_bytes": 17
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/build__header-article.html",
+        "path_type": "hardlink",
+        "sha256": "018737e567e8430834892cfc941fcb7634659cd3ddf8afbb20b037f33ec20b98",
+        "sha256_in_prefix": "018737e567e8430834892cfc941fcb7634659cd3ddf8afbb20b037f33ec20b98",
+        "size_in_bytes": 5647
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/build__pagetoc--page-multipletitles.html",
+        "path_type": "hardlink",
+        "sha256": "7091f61a80c04a8ea400208617093ac9b7dfe79e9e312445799780ea7ba7093d",
+        "sha256_in_prefix": "7091f61a80c04a8ea400208617093ac9b7dfe79e9e312445799780ea7ba7093d",
+        "size_in_bytes": 1233
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/build__pagetoc--page-onetitle.html",
+        "path_type": "hardlink",
+        "sha256": "1c67c7b04f80ef9292744f0ef401939b99fd0614b339b87a750c8142afb620e8",
+        "sha256_in_prefix": "1c67c7b04f80ef9292744f0ef401939b99fd0614b339b87a750c8142afb620e8",
+        "size_in_bytes": 734
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__launch-buttons--bitbucket.html",
+        "path_type": "hardlink",
+        "sha256": "be87dedb75d2d7d79720042c203f01c7d307ad280f094a14d37774c677368eb1",
+        "sha256_in_prefix": "be87dedb75d2d7d79720042c203f01c7d307ad280f094a14d37774c677368eb1",
+        "size_in_bytes": 685
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__launch-buttons--github.html",
+        "path_type": "hardlink",
+        "sha256": "5db43b1dbc1961fd469b07be57b75a94620d8e92b95fdbd47a4dd40fb7cbc35a",
+        "sha256_in_prefix": "5db43b1dbc1961fd469b07be57b75a94620d8e92b95fdbd47a4dd40fb7cbc35a",
+        "size_in_bytes": 1083
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__launch-buttons--gitlab.html",
+        "path_type": "hardlink",
+        "sha256": "c03b4cab355bfc1608e0ba41c3b66479ac224cbc220224decd55c1ee2007f066",
+        "sha256_in_prefix": "c03b4cab355bfc1608e0ba41c3b66479ac224cbc220224decd55c1ee2007f066",
+        "size_in_bytes": 515
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__launch-buttons--gitlab_manual.html",
+        "path_type": "hardlink",
+        "sha256": "25ff2b2893b511117251c6aead9341bc37bb55bd1efad45cc980aac03b07d406",
+        "sha256_in_prefix": "25ff2b2893b511117251c6aead9341bc37bb55bd1efad45cc980aac03b07d406",
+        "size_in_bytes": 595
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__repo-buttons--all-off.html",
+        "path_type": "hardlink",
+        "sha256": "a1aedddd69f0c6249363806ad362c1f214c0ddd457bf0b78434b149581b6d4bb",
+        "sha256_in_prefix": "a1aedddd69f0c6249363806ad362c1f214c0ddd457bf0b78434b149581b6d4bb",
+        "size_in_bytes": 2238
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__repo-buttons--all-on.html",
+        "path_type": "hardlink",
+        "sha256": "eacbdfd67f55a37d5120a5066af71ce4f508d32fecffcee016dc6fa9fb271b15",
+        "sha256_in_prefix": "eacbdfd67f55a37d5120a5066af71ce4f508d32fecffcee016dc6fa9fb271b15",
+        "size_in_bytes": 3957
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__repo-buttons--custom-branch.html",
+        "path_type": "hardlink",
+        "sha256": "b0d8746af1f3d6b7a850927a9c7db7902436d7d7850958af6251dcef2d20fe12",
+        "sha256_in_prefix": "b0d8746af1f3d6b7a850927a9c7db7902436d7d7850958af6251dcef2d20fe12",
+        "size_in_bytes": 3341
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__repo-buttons--one-on.html",
+        "path_type": "hardlink",
+        "sha256": "848c0794a220e033c8c616bd272078a6bf2677d22f98fbc83e27782be509c12d",
+        "sha256_in_prefix": "848c0794a220e033c8c616bd272078a6bf2677d22f98fbc83e27782be509c12d",
+        "size_in_bytes": 2570
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__source-buttons--bitbucket.html",
+        "path_type": "hardlink",
+        "sha256": "066cf0a92b84cc11e560b0249059b57e33cdf249473b84eca0cef118bdd04fa3",
+        "sha256_in_prefix": "066cf0a92b84cc11e560b0249059b57e33cdf249473b84eca0cef118bdd04fa3",
+        "size_in_bytes": 364
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__source-buttons--github.html",
+        "path_type": "hardlink",
+        "sha256": "1234d0a11184b989456193d7dfbacbff5b6fc9226aabd2ce8103ee820748f55a",
+        "sha256_in_prefix": "1234d0a11184b989456193d7dfbacbff5b6fc9226aabd2ce8103ee820748f55a",
+        "size_in_bytes": 500
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__source-buttons--github_manual.html",
+        "path_type": "hardlink",
+        "sha256": "8e85529c5a59d748665e28b0c52666c5c4f6dccc8baea9f217bc818f3affa472",
+        "sha256_in_prefix": "8e85529c5a59d748665e28b0c52666c5c4f6dccc8baea9f217bc818f3affa472",
+        "size_in_bytes": 337
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__source-buttons--gitlab.html",
+        "path_type": "hardlink",
+        "sha256": "49028276a9bc44526993148c286f63d84334f61fef3c882d911d099d0d9ec258",
+        "sha256_in_prefix": "49028276a9bc44526993148c286f63d84334f61fef3c882d911d099d0d9ec258",
+        "size_in_bytes": 455
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/header__source-buttons--gitlab_manual.html",
+        "path_type": "hardlink",
+        "sha256": "a073a786d3e8ddef2f0221b58e3e5d4cb6e0a308f6a22fc11d281fc39c18ad35",
+        "sha256_in_prefix": "a073a786d3e8ddef2f0221b58e3e5d4cb6e0a308f6a22fc11d281fc39c18ad35",
+        "size_in_bytes": 495
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/test_header_launchbtns.html",
+        "path_type": "hardlink",
+        "sha256": "5883161adf2ceba0054ebdb960af431b89916fdd44b65ac8443aaeb734b641e8",
+        "sha256_in_prefix": "5883161adf2ceba0054ebdb960af431b89916fdd44b65ac8443aaeb734b641e8",
+        "size_in_bytes": 2591
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/test_marginnote.html",
+        "path_type": "hardlink",
+        "sha256": "b606a21eba6a1a9c9593d9a5312b0d0c16297ed5dba0bc643302f1b76d03ea57",
+        "sha256_in_prefix": "b606a21eba6a1a9c9593d9a5312b0d0c16297ed5dba0bc643302f1b76d03ea57",
+        "size_in_bytes": 864
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/test_marginnote_6.html",
+        "path_type": "hardlink",
+        "sha256": "4e7275117107c611436238a7e759333e89b1ace3f2296c88286d6d5afcfd7eff",
+        "sha256_in_prefix": "4e7275117107c611436238a7e759333e89b1ace3f2296c88286d6d5afcfd7eff",
+        "size_in_bytes": 869
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/test_right_sidebar_title.html",
+        "path_type": "hardlink",
+        "sha256": "334d03abbebb41d3e526233e6c980cd300afd56f1bd357f18ce111047a08cf5a",
+        "sha256_in_prefix": "334d03abbebb41d3e526233e6c980cd300afd56f1bd357f18ce111047a08cf5a",
+        "size_in_bytes": 111
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/test_sidenote.html",
+        "path_type": "hardlink",
+        "sha256": "7ad54f7d5f8fe4e05b6c7ad378c98f64b49851a88fec54df6aacb50322c8734c",
+        "sha256_in_prefix": "7ad54f7d5f8fe4e05b6c7ad378c98f64b49851a88fec54df6aacb50322c8734c",
+        "size_in_bytes": 926
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build/test_sidenote_6.html",
+        "path_type": "hardlink",
+        "sha256": "7bf6c46ee24050756bb5d362ccd13a9a943aa19007465c1c5b61488aedd5e962",
+        "sha256_in_prefix": "7bf6c46ee24050756bb5d362ccd13a9a943aa19007465c1c5b61488aedd5e962",
+        "size_in_bytes": 931
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_build.py",
+        "path_type": "hardlink",
+        "sha256": "08c0e759467683aa08d9ba6980b8f6e7cd5efa295a6247e73cd238629e2457fc",
+        "sha256_in_prefix": "08c0e759467683aa08d9ba6980b8f6e7cd5efa295a6247e73cd238629e2457fc",
+        "size_in_bytes": 17600
+      },
+      {
+        "_path": "etc/conda/test-files/sphinx-book-theme/1/src/tests/test_locale_convert.py",
+        "path_type": "hardlink",
+        "sha256": "af14456c2a7259e6442611adbd0a55d9f6cf178d87adbdc078dad1d9654509a0",
+        "sha256_in_prefix": "af14456c2a7259e6442611adbd0a55d9f6cf178d87adbdc078dad1d9654509a0",
+        "size_in_bytes": 863
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c1e9d4a187cde720461c972bde09b96c0cba96d7ccb0cd50dab36464e1a81641",
+        "sha256_in_prefix": "c1e9d4a187cde720461c972bde09b96c0cba96d7ccb0cd50dab36464e1a81641",
+        "size_in_bytes": 10353
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/_compat.py",
+        "path_type": "hardlink",
+        "sha256": "89782376add02b1c485095e3bdb9c7fcdc96eae056ef49f98488697fb8ec4628",
+        "sha256_in_prefix": "89782376add02b1c485095e3bdb9c7fcdc96eae056ef49f98488697fb8ec4628",
+        "size_in_bytes": 335
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/_compile_translations.py",
+        "path_type": "hardlink",
+        "sha256": "26d10f4be80f2f2ec3c44e2c2823c78b0f872336ada0d4f46bd8fb44f7aca523",
+        "sha256_in_prefix": "26d10f4be80f2f2ec3c44e2c2823c78b0f872336ada0d4f46bd8fb44f7aca523",
+        "size_in_bytes": 2470
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/_transforms.py",
+        "path_type": "hardlink",
+        "sha256": "42d1788bfc169402bf7627201468cd3a06520e51d888dc9ef1019deadb91735d",
+        "sha256_in_prefix": "42d1788bfc169402bf7627201468cd3a06520e51d888dc9ef1019deadb91735d",
+        "size_in_bytes": 4187
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/scripts/index.js",
+        "path_type": "hardlink",
+        "sha256": "0744fd9dfd05a8558979da56e587f80111ed48b31ccbdd44236f0435d8e15b93",
+        "sha256_in_prefix": "0744fd9dfd05a8558979da56e587f80111ed48b31ccbdd44236f0435d8e15b93",
+        "size_in_bytes": 5811
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/abstracts/_mixins.scss",
+        "path_type": "hardlink",
+        "sha256": "04d39dcd3a7e0f0523d37c9fafc7b428000cd1fcebced281b835c11afbb4aa54",
+        "sha256_in_prefix": "04d39dcd3a7e0f0523d37c9fafc7b428000cd1fcebced281b835c11afbb4aa54",
+        "size_in_bytes": 600
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/abstracts/_variables.scss",
+        "path_type": "hardlink",
+        "sha256": "8135b85c5a96bc3e3f1c0d1a3fd40a29cd429ae2a70f5748ec6c584057eba420",
+        "sha256_in_prefix": "8135b85c5a96bc3e3f1c0d1a3fd40a29cd429ae2a70f5748ec6c584057eba420",
+        "size_in_bytes": 1950
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/base/_base.scss",
+        "path_type": "hardlink",
+        "sha256": "353b26b8f08b8b634f3df22bb4823b32b82a0957631bc4da906b4fd784ce1d1f",
+        "sha256_in_prefix": "353b26b8f08b8b634f3df22bb4823b32b82a0957631bc4da906b4fd784ce1d1f",
+        "size_in_bytes": 975
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/base/_print.scss",
+        "path_type": "hardlink",
+        "sha256": "d4620d4b166b5f480621accf30655f19485e44f24b5d2e3e7ae605a2616aa044",
+        "sha256_in_prefix": "d4620d4b166b5f480621accf30655f19485e44f24b5d2e3e7ae605a2616aa044",
+        "size_in_bytes": 1880
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/base/_typography.scss",
+        "path_type": "hardlink",
+        "sha256": "279b6daa948bc3fc36b958abb88fa69c366ca0ab7f60ac3c0ab41654b3abfd1c",
+        "sha256_in_prefix": "279b6daa948bc3fc36b958abb88fa69c366ca0ab7f60ac3c0ab41654b3abfd1c",
+        "size_in_bytes": 517
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/components/_back-to-top.scss",
+        "path_type": "hardlink",
+        "sha256": "3a5aa8f642998a035979f50db96ccb551e273520a9798d07af45de2a6e554a5a",
+        "sha256_in_prefix": "3a5aa8f642998a035979f50db96ccb551e273520a9798d07af45de2a6e554a5a",
+        "size_in_bytes": 367
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/components/_icon-links.scss",
+        "path_type": "hardlink",
+        "sha256": "3fd18882f8f42868471df2237c060d2acd746db67c92c1dcc4bc9269fb1ed855",
+        "sha256_in_prefix": "3fd18882f8f42868471df2237c060d2acd746db67c92c1dcc4bc9269fb1ed855",
+        "size_in_bytes": 455
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/components/_logo.scss",
+        "path_type": "hardlink",
+        "sha256": "7fb736c526c66f4dce89d12cbcb5b70d6a07a347c666ff471074004b4db1a1c6",
+        "sha256_in_prefix": "7fb736c526c66f4dce89d12cbcb5b70d6a07a347c666ff471074004b4db1a1c6",
+        "size_in_bytes": 461
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/components/_search.scss",
+        "path_type": "hardlink",
+        "sha256": "ae376db47e003f2ab1632d00b9f317e47ed150189abdebe127a550eaed45c7c4",
+        "sha256_in_prefix": "ae376db47e003f2ab1632d00b9f317e47ed150189abdebe127a550eaed45c7c4",
+        "size_in_bytes": 1121
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/content/_code.scss",
+        "path_type": "hardlink",
+        "sha256": "4b8d32966f91b0b1c7dfdb1fe9604a3d75b95f1ba0225ded2bec69adfeec478e",
+        "sha256_in_prefix": "4b8d32966f91b0b1c7dfdb1fe9604a3d75b95f1ba0225ded2bec69adfeec478e",
+        "size_in_bytes": 128
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/content/_images.scss",
+        "path_type": "hardlink",
+        "sha256": "d2d0d79e35021062673f2d50a4907ffaa4ae8763518cf4800a45d551b1724bf8",
+        "sha256_in_prefix": "d2d0d79e35021062673f2d50a4907ffaa4ae8763518cf4800a45d551b1724bf8",
+        "size_in_bytes": 824
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/content/_margin.scss",
+        "path_type": "hardlink",
+        "sha256": "60ce4301a48cda75a14efd873fb142744e048ed3675860e5db6647cb49bddf62",
+        "sha256_in_prefix": "60ce4301a48cda75a14efd873fb142744e048ed3675860e5db6647cb49bddf62",
+        "size_in_bytes": 4899
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/content/_notebooks.scss",
+        "path_type": "hardlink",
+        "sha256": "7b7fd93946d87ca9c2f6aa81af31cadcd845d15d5ed7794ccc8898154b336136",
+        "sha256_in_prefix": "7b7fd93946d87ca9c2f6aa81af31cadcd845d15d5ed7794ccc8898154b336136",
+        "size_in_bytes": 250
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/content/_quotes.scss",
+        "path_type": "hardlink",
+        "sha256": "600aa099cd9556fd59d3493b9ea616bba75992b968b283c69960ee84c88daca2",
+        "sha256_in_prefix": "600aa099cd9556fd59d3493b9ea616bba75992b968b283c69960ee84c88daca2",
+        "size_in_bytes": 364
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/extensions/_comments.scss",
+        "path_type": "hardlink",
+        "sha256": "4eca6effe064723850f8b34aba60b8456cd92f82bd64792853a9ae641f6ff28b",
+        "sha256_in_prefix": "4eca6effe064723850f8b34aba60b8456cd92f82bd64792853a9ae641f6ff28b",
+        "size_in_bytes": 308
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/extensions/_thebe.scss",
+        "path_type": "hardlink",
+        "sha256": "e0029ba71dfd3fb499b978e5a8e056c887cb5c42036442e6c1e4363f53faa8a6",
+        "sha256_in_prefix": "e0029ba71dfd3fb499b978e5a8e056c887cb5c42036442e6c1e4363f53faa8a6",
+        "size_in_bytes": 431
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/index.scss",
+        "path_type": "hardlink",
+        "sha256": "b42d03e8ada42cd175481f95c0c964b6aa2e10170d3224a56a6ad7c200a1de54",
+        "sha256_in_prefix": "b42d03e8ada42cd175481f95c0c964b6aa2e10170d3224a56a6ad7c200a1de54",
+        "size_in_bytes": 1134
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/sections/_announcement.scss",
+        "path_type": "hardlink",
+        "sha256": "5e090e1a967641117e7c2f08c3d15592c66cfb2f464473cc64ddd617e7d5aed9",
+        "sha256_in_prefix": "5e090e1a967641117e7c2f08c3d15592c66cfb2f464473cc64ddd617e7d5aed9",
+        "size_in_bytes": 94
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/sections/_article-container.scss",
+        "path_type": "hardlink",
+        "sha256": "cde9554a56e2d8494f7b4c0725e5e5a4132c6f1b2c40e2dfa7d722a1222ae84d",
+        "sha256_in_prefix": "cde9554a56e2d8494f7b4c0725e5e5a4132c6f1b2c40e2dfa7d722a1222ae84d",
+        "size_in_bytes": 798
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/sections/_article.scss",
+        "path_type": "hardlink",
+        "sha256": "ecf4707c057aa9fbdd57916aa1b23f6d3e749feeff080c41769bed89b0af5398",
+        "sha256_in_prefix": "ecf4707c057aa9fbdd57916aa1b23f6d3e749feeff080c41769bed89b0af5398",
+        "size_in_bytes": 113
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/sections/_footer-article.scss",
+        "path_type": "hardlink",
+        "sha256": "06d73143bde0d2929fd4afbd5149a840279ecf9edf1d249f094b7362bc71cc96",
+        "sha256_in_prefix": "06d73143bde0d2929fd4afbd5149a840279ecf9edf1d249f094b7362bc71cc96",
+        "size_in_bytes": 192
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/sections/_footer-content.scss",
+        "path_type": "hardlink",
+        "sha256": "a105744dec47e91dc38f4ea8dd1098338d4ba62ca28ca22c6f88d6614d438f03",
+        "sha256_in_prefix": "a105744dec47e91dc38f4ea8dd1098338d4ba62ca28ca22c6f88d6614d438f03",
+        "size_in_bytes": 478
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/sections/_header-article.scss",
+        "path_type": "hardlink",
+        "sha256": "d66d4616e8eb45d327d95663ca1f9e3090524263658742358fd727fdbb28fc96",
+        "sha256_in_prefix": "d66d4616e8eb45d327d95663ca1f9e3090524263658742358fd727fdbb28fc96",
+        "size_in_bytes": 4534
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/sections/_header-primary.scss",
+        "path_type": "hardlink",
+        "sha256": "e7257a73864869bf2d888aa4a971b9f35c27098fd10805bfdec2939b749078b8",
+        "sha256_in_prefix": "e7257a73864869bf2d888aa4a971b9f35c27098fd10805bfdec2939b749078b8",
+        "size_in_bytes": 234
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/sections/_sidebar-primary.scss",
+        "path_type": "hardlink",
+        "sha256": "59a57d6b456face9c3bc2f6e71e2f7e53c298d3bc5615904990139bc53dfb5ee",
+        "sha256_in_prefix": "59a57d6b456face9c3bc2f6e71e2f7e53c298d3bc5615904990139bc53dfb5ee",
+        "size_in_bytes": 1417
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/styles/sections/_sidebar-secondary.scss",
+        "path_type": "hardlink",
+        "sha256": "c22f4b2acaf578bd3aa6af7db026c15c86f86e099194260512a487b7eeb6ed2c",
+        "sha256_in_prefix": "c22f4b2acaf578bd3aa6af7db026c15c86f86e099194260512a487b7eeb6ed2c",
+        "size_in_bytes": 2687
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/translations/README.md",
+        "path_type": "hardlink",
+        "sha256": "d2e481cc24cc6712688f94bde7a183f86b944b79d2738facda5255fc575d3eea",
+        "sha256_in_prefix": "d2e481cc24cc6712688f94bde7a183f86b944b79d2738facda5255fc575d3eea",
+        "size_in_bytes": 3255
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/translations/jsons/By the.json",
+        "path_type": "hardlink",
+        "sha256": "5551f5aa4e2e88c9294e28bdfc057238c0c3347ec83679a8b70be31b9b0b0853",
+        "sha256_in_prefix": "5551f5aa4e2e88c9294e28bdfc057238c0c3347ec83679a8b70be31b9b0b0853",
+        "size_in_bytes": 3033
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/translations/jsons/By.json",
+        "path_type": "hardlink",
+        "sha256": "1992e55dd811f6b1a43c0f34d4c144ee8d6c905c0f2f0d1ee9167c4f44994233",
+        "sha256_in_prefix": "1992e55dd811f6b1a43c0f34d4c144ee8d6c905c0f2f0d1ee9167c4f44994233",
+        "size_in_bytes": 2995
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/translations/jsons/Contents.json",
+        "path_type": "hardlink",
+        "sha256": "4f036c857229bd9b1fd8abab0e6d276255c25e453ec64ec282cd51efbeeae247",
+        "sha256_in_prefix": "4f036c857229bd9b1fd8abab0e6d276255c25e453ec64ec282cd51efbeeae247",
+        "size_in_bytes": 2494
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/translations/jsons/Copyright.json",
+        "path_type": "hardlink",
+        "sha256": "d44dbf07c5fe3fd5bcebe4c01f3d41c870af68ea7616bf20fde7af82c95fd482",
+        "sha256_in_prefix": "d44dbf07c5fe3fd5bcebe4c01f3d41c870af68ea7616bf20fde7af82c95fd482",
+        "size_in_bytes": 3446
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/translations/jsons/Download notebook file.json",
+        "path_type": "hardlink",
+        "sha256": "a548f0ab7530a4e0e5a496e06358304a5889560d943ee07e24643f0e62a003a6",
+        "sha256_in_prefix": "a548f0ab7530a4e0e5a496e06358304a5889560d943ee07e24643f0e62a003a6",
+        "size_in_bytes": 4808
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/translations/jsons/Download source file.json",
+        "path_type": "hardlink",
+        "sha256": "161f515a1eeb4d0bf400d5788fc5036da072764c1b577224416f34d6691c94a2",
+        "sha256_in_prefix": "161f515a1eeb4d0bf400d5788fc5036da072764c1b577224416f34d6691c94a2",
+        "size_in_bytes": 4389
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/translations/jsons/Download this page.json",
+        "path_type": "hardlink",
+        "sha256": "51926379beb183a8e67d74c163ec38749132b9f7c4c876416497958bbeb588df",
+        "sha256_in_prefix": "51926379beb183a8e67d74c163ec38749132b9f7c4c876416497958bbeb588df",
+        "size_in_bytes": 4205
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/translations/jsons/Edit this page.json",
+        "path_type": "hardlink",
+        "sha256": "a14d895c8e2a2b7740033e773ba6d38899c572703ed30e43dd9e8770a5bbbb9b",
+        "sha256_in_prefix": "a14d895c8e2a2b7740033e773ba6d38899c572703ed30e43dd9e8770a5bbbb9b",
+        "size_in_bytes": 4090
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/translations/jsons/Fullscreen mode.json",
+        "path_type": "hardlink",
+        "sha256": "ea3199f278711628f58ce82cf2fd4428739334b5256ef11fd569c8e36f0e35bc",
+        "sha256_in_prefix": "ea3199f278711628f58ce82cf2fd4428739334b5256ef11fd569c8e36f0e35bc",
+        "size_in_bytes": 3011
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/translations/jsons/Last updated on.json",
+        "path_type": "hardlink",
+        "sha256": "de1d48395ccddd71d7d71811572a284aa3536bbf8ab0ddd2972821ea672e6068",
+        "sha256_in_prefix": "de1d48395ccddd71d7d71811572a284aa3536bbf8ab0ddd2972821ea672e6068",
+        "size_in_bytes": 4133
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/translations/jsons/Launch.json",
+        "path_type": "hardlink",
+        "sha256": "e64903c40f487a9eed4ff352d9c6ed1eb16b138af4a84eefb53828bf5c7b5873",
+        "sha256_in_prefix": "e64903c40f487a9eed4ff352d9c6ed1eb16b138af4a84eefb53828bf5c7b5873",
+        "size_in_bytes": 3198
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/translations/jsons/Open an issue.json",
+        "path_type": "hardlink",
+        "sha256": "90332eccc16d5b039422b603941b766936dff0ecdbc29deedc861631c4b620f5",
+        "sha256_in_prefix": "90332eccc16d5b039422b603941b766936dff0ecdbc29deedc861631c4b620f5",
+        "size_in_bytes": 3711
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/translations/jsons/Print to PDF.json",
+        "path_type": "hardlink",
+        "sha256": "2906040b0763b43dda10409e71e4524728a33e5e209f2edce7fde14181302677",
+        "sha256_in_prefix": "2906040b0763b43dda10409e71e4524728a33e5e209f2edce7fde14181302677",
+        "size_in_bytes": 3627
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/translations/jsons/Source repository.json",
+        "path_type": "hardlink",
+        "sha256": "79930d8b23c8edcaa883d91ff045606423736f48a068a084f3ad833708aacc64",
+        "sha256_in_prefix": "79930d8b23c8edcaa883d91ff045606423736f48a068a084f3ad833708aacc64",
+        "size_in_bytes": 3659
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/translations/jsons/Sphinx Book Theme.json",
+        "path_type": "hardlink",
+        "sha256": "b285f136100281be06d33711d994be2e335c06d59959cdc65beb917a605ae3b7",
+        "sha256_in_prefix": "b285f136100281be06d33711d994be2e335c06d59959cdc65beb917a605ae3b7",
+        "size_in_bytes": 3948
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/translations/jsons/Theme by the.json",
+        "path_type": "hardlink",
+        "sha256": "33f7c16e2215924c7494999b936b1f344ed36a0616f7548d9657a6687e9dcaa2",
+        "sha256_in_prefix": "33f7c16e2215924c7494999b936b1f344ed36a0616f7548d9657a6687e9dcaa2",
+        "size_in_bytes": 3300
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/translations/jsons/Toggle navigation.json",
+        "path_type": "hardlink",
+        "sha256": "374e92303084cd203d0088ca660e99caacefb1551af461e9c94964308899477a",
+        "sha256_in_prefix": "374e92303084cd203d0088ca660e99caacefb1551af461e9c94964308899477a",
+        "size_in_bytes": 4135
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/translations/jsons/next page.json",
+        "path_type": "hardlink",
+        "sha256": "afdf313b3a45774dc251c514caf315575d68bc0a0262f4cc3bac1216b3befff8",
+        "sha256_in_prefix": "afdf313b3a45774dc251c514caf315575d68bc0a0262f4cc3bac1216b3befff8",
+        "size_in_bytes": 3548
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/translations/jsons/open issue.json",
+        "path_type": "hardlink",
+        "sha256": "3462984fa9308d970251b13a4b7dd790b2f8862508342f152cce9bc1c065b2a8",
+        "sha256_in_prefix": "3462984fa9308d970251b13a4b7dd790b2f8862508342f152cce9bc1c065b2a8",
+        "size_in_bytes": 3565
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/translations/jsons/previous page.json",
+        "path_type": "hardlink",
+        "sha256": "d08f1f957b11102d3ad805958b7146397161bc8a9f7d9f8693cf324a0fde4048",
+        "sha256_in_prefix": "d08f1f957b11102d3ad805958b7146397161bc8a9f7d9f8693cf324a0fde4048",
+        "size_in_bytes": 3595
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/translations/jsons/repository.json",
+        "path_type": "hardlink",
+        "sha256": "6ee366d670ae5f9b5485f64bcde3aa95ef2d40f1152ee617003fde474b23578f",
+        "sha256_in_prefix": "6ee366d670ae5f9b5485f64bcde3aa95ef2d40f1152ee617003fde474b23578f",
+        "size_in_bytes": 2531
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/assets/translations/jsons/suggest edit.json",
+        "path_type": "hardlink",
+        "sha256": "d4e4938f6e101a99ebdd6e76a7f88c1819e6c24166517623a05cd866860a6f3d",
+        "sha256_in_prefix": "d4e4938f6e101a99ebdd6e76a7f88c1819e6c24166517623a05cd866860a6f3d",
+        "size_in_bytes": 3790
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/directives.py",
+        "path_type": "hardlink",
+        "sha256": "9a24734727cff2dc397b5bc827529fa046f386ea04753e58fd285625bf196a4e",
+        "sha256_in_prefix": "9a24734727cff2dc397b5bc827529fa046f386ea04753e58fd285625bf196a4e",
+        "size_in_bytes": 535
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/header_buttons/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "342fa2bba60b72a694cdcc7764b9f2ce13b8bf59bfb7033d143076715e0c3282",
+        "sha256_in_prefix": "342fa2bba60b72a694cdcc7764b9f2ce13b8bf59bfb7033d143076715e0c3282",
+        "size_in_bytes": 6680
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/header_buttons/launch.py",
+        "path_type": "hardlink",
+        "sha256": "ce9e3e6d63079d9bc130a836c5863ba0b24960f475635212d715640732ad26f6",
+        "sha256_in_prefix": "ce9e3e6d63079d9bc130a836c5863ba0b24960f475635212d715640732ad26f6",
+        "size_in_bytes": 8967
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/header_buttons/source.py",
+        "path_type": "hardlink",
+        "sha256": "8b02b6e9cfe951a30d8766fb3adf6d56a269b60092a6bd42187d95caeeaeefaf",
+        "sha256_in_prefix": "8b02b6e9cfe951a30d8766fb3adf6d56a269b60092a6bd42187d95caeeaeefaf",
+        "size_in_bytes": 5128
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/nodes.py",
+        "path_type": "hardlink",
+        "sha256": "540987895aa3bc6b0e30bb79d63821609c7b25f556ee75d3a52efdffbaf3843f",
+        "sha256_in_prefix": "540987895aa3bc6b0e30bb79d63821609c7b25f556ee75d3a52efdffbaf3843f",
+        "size_in_bytes": 1254
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/components/article-header-buttons.html",
+        "path_type": "hardlink",
+        "sha256": "01d586c72ac254751e3563afd78f372bb42dfb8be53a09baa864875352938443",
+        "sha256_in_prefix": "01d586c72ac254751e3563afd78f372bb42dfb8be53a09baa864875352938443",
+        "size_in_bytes": 447
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/components/author.html",
+        "path_type": "hardlink",
+        "sha256": "4444e7edb7d9c482653c0eee9cb99a034202abfde66ad3164a8f6057caa0a7a2",
+        "sha256_in_prefix": "4444e7edb7d9c482653c0eee9cb99a034202abfde66ad3164a8f6057caa0a7a2",
+        "size_in_bytes": 97
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/components/extra-footer.html",
+        "path_type": "hardlink",
+        "sha256": "bc85fcbeff87731883e16dd5c0a0090424c4f16f6360290b7238a5619856bd75",
+        "sha256_in_prefix": "bc85fcbeff87731883e16dd5c0a0090424c4f16f6360290b7238a5619856bd75",
+        "size_in_bytes": 103
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/components/page-toc.html",
+        "path_type": "hardlink",
+        "sha256": "37daefbe29ef72ce3e26e94bb091ff3ed1be0d6046352cf315bcf825cff36a44",
+        "sha256_in_prefix": "37daefbe29ef72ce3e26e94bb091ff3ed1be0d6046352cf315bcf825cff36a44",
+        "size_in_bytes": 640
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/components/sbt-sidebar-nav.html",
+        "path_type": "hardlink",
+        "sha256": "38342bd744042ee107080378719e7a55892f7c294bffad6f4efc78185edf7ae1",
+        "sha256_in_prefix": "38342bd744042ee107080378719e7a55892f7c294bffad6f4efc78185edf7ae1",
+        "size_in_bytes": 1064
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/components/toggle-primary-sidebar.html",
+        "path_type": "hardlink",
+        "sha256": "316c98ec6677c6568d15dfd809ec20ad0458569110c435480ed87d2af34f13bb",
+        "sha256_in_prefix": "316c98ec6677c6568d15dfd809ec20ad0458569110c435480ed87d2af34f13bb",
+        "size_in_bytes": 192
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/components/toggle-secondary-sidebar.html",
+        "path_type": "hardlink",
+        "sha256": "729e8889be2a1d0d5bd356fb9d178d106f8d24a42bce2b38429623c53ee71d18",
+        "sha256_in_prefix": "729e8889be2a1d0d5bd356fb9d178d106f8d24a42bce2b38429623c53ee71d18",
+        "size_in_bytes": 309
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/layout.html",
+        "path_type": "hardlink",
+        "sha256": "2cd2fbbe2caedf3afa8f78f405e43d27422370c34eeca9ead4d73660e3223bc9",
+        "sha256_in_prefix": "2cd2fbbe2caedf3afa8f78f405e43d27422370c34eeca9ead4d73660e3223bc9",
+        "size_in_bytes": 965
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/macros/buttons.html",
+        "path_type": "hardlink",
+        "sha256": "f00ab51a0c5dd653f31e33abe430b42ea8b6539a13e695051d03e652068aadf2",
+        "sha256_in_prefix": "f00ab51a0c5dd653f31e33abe430b42ea8b6539a13e695051d03e652068aadf2",
+        "size_in_bytes": 2350
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/sections/footer-content.html",
+        "path_type": "hardlink",
+        "sha256": "26697ce922198edb4c1f15b5c3d4a80fa92886dad21284643baf5804addf36fd",
+        "sha256_in_prefix": "26697ce922198edb4c1f15b5c3d4a80fa92886dad21284643baf5804addf36fd",
+        "size_in_bytes": 328
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/images/logo_binder.svg",
+        "path_type": "hardlink",
+        "sha256": "0f54107dd296c98c105868a00302cb51bcf111ccbfba5cedf7b317d62f083f44",
+        "sha256_in_prefix": "0f54107dd296c98c105868a00302cb51bcf111ccbfba5cedf7b317d62f083f44",
+        "size_in_bytes": 1186
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/images/logo_colab.png",
+        "path_type": "hardlink",
+        "sha256": "68bbb664c58b203e20451c63ec3991bc9a71ccda3f1025e394dc569a20bd2cf9",
+        "sha256_in_prefix": "68bbb664c58b203e20451c63ec3991bc9a71ccda3f1025e394dc569a20bd2cf9",
+        "size_in_bytes": 7601
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/images/logo_deepnote.svg",
+        "path_type": "hardlink",
+        "sha256": "5d22da7c6dfd33a65bcc55a1f57dd4786f5a2258df358cf9cde35e2c2dab3f55",
+        "sha256_in_prefix": "5d22da7c6dfd33a65bcc55a1f57dd4786f5a2258df358cf9cde35e2c2dab3f55",
+        "size_in_bytes": 681
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/images/logo_jupyterhub.svg",
+        "path_type": "hardlink",
+        "sha256": "abde3ca1718bc7a64f5d2c1c6571ee7dae9f3b03af87cf9bd3393ec751e41358",
+        "sha256_in_prefix": "abde3ca1718bc7a64f5d2c1c6571ee7dae9f3b03af87cf9bd3393ec751e41358",
+        "size_in_bytes": 1758
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ar/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "61fb4fb9232c346f84b4f682dbc339ceeb37a190f4ee776e07e569af36e67229",
+        "sha256_in_prefix": "61fb4fb9232c346f84b4f682dbc339ceeb37a190f4ee776e07e569af36e67229",
+        "size_in_bytes": 1541
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ar/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "2771333e3a39578c7582cf869658cd710c0260ba5f34243607a59144803b9074",
+        "sha256_in_prefix": "2771333e3a39578c7582cf869658cd710c0260ba5f34243607a59144803b9074",
+        "size_in_bytes": 1459
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/bg/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "9ed4b3f68e5218479b1f8b219332f75861bb0953e00075aa6f15c89e91bc1592",
+        "sha256_in_prefix": "9ed4b3f68e5218479b1f8b219332f75861bb0953e00075aa6f15c89e91bc1592",
+        "size_in_bytes": 1708
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/bg/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "5196da6a8d3e5715d1749c3eb480df56fbaae59d801404887ed0172c51ed0c92",
+        "sha256_in_prefix": "5196da6a8d3e5715d1749c3eb480df56fbaae59d801404887ed0172c51ed0c92",
+        "size_in_bytes": 1626
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/bn/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "c45bdf5ac58369d738e6c04b1089c8f83b9d6ca57b7b08534c383e1c1b3e0b10",
+        "sha256_in_prefix": "c45bdf5ac58369d738e6c04b1089c8f83b9d6ca57b7b08534c383e1c1b3e0b10",
+        "size_in_bytes": 1646
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/bn/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "c437643211da63f1865db3d9dff7d99ec361695d7676f056bd515fcb2b1441ea",
+        "sha256_in_prefix": "c437643211da63f1865db3d9dff7d99ec361695d7676f056bd515fcb2b1441ea",
+        "size_in_bytes": 1564
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ca/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "a053d97ef50a94c880070a451204fb6a9d2b0ca2634ec100d4135c978f557e97",
+        "sha256_in_prefix": "a053d97ef50a94c880070a451204fb6a9d2b0ca2634ec100d4135c978f557e97",
+        "size_in_bytes": 1246
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ca/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "6f018990d1efb8980bdd915221c1290ce214548b05d90d7a503e8db448526695",
+        "sha256_in_prefix": "6f018990d1efb8980bdd915221c1290ce214548b05d90d7a503e8db448526695",
+        "size_in_bytes": 1166
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/cs/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "a58eeeb16508b815bf6b17e45df6ac8666dfba400462394bbb8cfd1aee4b0e55",
+        "sha256_in_prefix": "a58eeeb16508b815bf6b17e45df6ac8666dfba400462394bbb8cfd1aee4b0e55",
+        "size_in_bytes": 1405
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/cs/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "d06ec01426d5f9fb165a00636720dbb1f1124c7857ea56e733c821a778a0b899",
+        "sha256_in_prefix": "d06ec01426d5f9fb165a00636720dbb1f1124c7857ea56e733c821a778a0b899",
+        "size_in_bytes": 1323
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/da/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "d6a11b4e4c8b53a87a552d053c7af377e8237ecf7c3bf9bd1704f19ffc78e729",
+        "sha256_in_prefix": "d6a11b4e4c8b53a87a552d053c7af377e8237ecf7c3bf9bd1704f19ffc78e729",
+        "size_in_bytes": 1304
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/da/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "f35d114c9bfe6c4452f50345f192629741eba39fc9c2fd2da004b9e53f144aef",
+        "sha256_in_prefix": "f35d114c9bfe6c4452f50345f192629741eba39fc9c2fd2da004b9e53f144aef",
+        "size_in_bytes": 1222
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/de/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "db251ba152261b565ab4027da434eca12e5a3bd8aa12dcff5e6bedda77701576",
+        "sha256_in_prefix": "db251ba152261b565ab4027da434eca12e5a3bd8aa12dcff5e6bedda77701576",
+        "size_in_bytes": 1388
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/de/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "77714056f6fb3c7587829b68238a8066d1a03576ffd3a5bb3b2eaab58450ea59",
+        "sha256_in_prefix": "77714056f6fb3c7587829b68238a8066d1a03576ffd3a5bb3b2eaab58450ea59",
+        "size_in_bytes": 1306
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/el/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "fadef9004b6025144ccf242a59e88991d2a65f9337aa4ba39bc86afc3c80a4e6",
+        "sha256_in_prefix": "fadef9004b6025144ccf242a59e88991d2a65f9337aa4ba39bc86afc3c80a4e6",
+        "size_in_bytes": 1722
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/el/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "94e9d4238f0e0c5aa7fe4c474da72b94ea991ca21f073eb65500ffa7c1d2e035",
+        "sha256_in_prefix": "94e9d4238f0e0c5aa7fe4c474da72b94ea991ca21f073eb65500ffa7c1d2e035",
+        "size_in_bytes": 1640
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/eo/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "b52717935767fdfc63b1c5fa99ff22f770f6b2b62761324d89465b034ed930e7",
+        "sha256_in_prefix": "b52717935767fdfc63b1c5fa99ff22f770f6b2b62761324d89465b034ed930e7",
+        "size_in_bytes": 1337
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/eo/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "047d9c2b6aaa6a122d45e78cccf5c5f8a6fbf571f2810c8bcbd227747fcca283",
+        "sha256_in_prefix": "047d9c2b6aaa6a122d45e78cccf5c5f8a6fbf571f2810c8bcbd227747fcca283",
+        "size_in_bytes": 1255
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/es/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "46dd8b914def9df318448e8833c5d159bc5983d87bc1d98b8fa623beef58b9c5",
+        "sha256_in_prefix": "46dd8b914def9df318448e8833c5d159bc5983d87bc1d98b8fa623beef58b9c5",
+        "size_in_bytes": 1396
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/es/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "d22e6038c994fc2759aa2b5db51d969221e20f929027cfbd126a11eb55b3df71",
+        "sha256_in_prefix": "d22e6038c994fc2759aa2b5db51d969221e20f929027cfbd126a11eb55b3df71",
+        "size_in_bytes": 1314
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/et/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "eb1ea68f9de629235d07f85d8942ea7d5f472801dd314e7c6438c62533b20de0",
+        "sha256_in_prefix": "eb1ea68f9de629235d07f85d8942ea7d5f472801dd314e7c6438c62533b20de0",
+        "size_in_bytes": 1341
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/et/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "5923940886d2234389de421292059c07cf9d1be3233daa59fbc11c3a9b0641e1",
+        "sha256_in_prefix": "5923940886d2234389de421292059c07cf9d1be3233daa59fbc11c3a9b0641e1",
+        "size_in_bytes": 1259
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/fi/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "a2410cb158fe66eb47ee286c2b14fb3c26eab7c39baf6f59e34e709059f2a2dd",
+        "sha256_in_prefix": "a2410cb158fe66eb47ee286c2b14fb3c26eab7c39baf6f59e34e709059f2a2dd",
+        "size_in_bytes": 1368
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/fi/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "af47b9061904c3f0b3c4a7d182c6e65560ccfd0512cd7989424743befdfe5221",
+        "sha256_in_prefix": "af47b9061904c3f0b3c4a7d182c6e65560ccfd0512cd7989424743befdfe5221",
+        "size_in_bytes": 1286
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/fr/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "97e9de257ad5e83712b6e83204b461537a2ee4b96533b0496f9e8828fba5b08b",
+        "sha256_in_prefix": "97e9de257ad5e83712b6e83204b461537a2ee4b96533b0496f9e8828fba5b08b",
+        "size_in_bytes": 1412
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/fr/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "167cc05e7426ea05e6c2ef7cd90c829306b81c9e0508fcc5841c42b18e595388",
+        "sha256_in_prefix": "167cc05e7426ea05e6c2ef7cd90c829306b81c9e0508fcc5841c42b18e595388",
+        "size_in_bytes": 1330
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/hr/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "49d0c880b0f9123c8e628605f27385c8639da9a050d80058053607e6d80a500d",
+        "sha256_in_prefix": "49d0c880b0f9123c8e628605f27385c8639da9a050d80058053607e6d80a500d",
+        "size_in_bytes": 1402
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/hr/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "c133ffdaf8f2ffe999fe0e8c9c59bc4854f9aafa06c1f72fcf960fd0d636ba2b",
+        "sha256_in_prefix": "c133ffdaf8f2ffe999fe0e8c9c59bc4854f9aafa06c1f72fcf960fd0d636ba2b",
+        "size_in_bytes": 1320
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/id/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "2101f04c5bb4561cc0137b70e6a02d4333dd0fccc669ab3b8da95ec726f0b2da",
+        "sha256_in_prefix": "2101f04c5bb4561cc0137b70e6a02d4333dd0fccc669ab3b8da95ec726f0b2da",
+        "size_in_bytes": 1323
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/id/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "29b9a084f4dc20e5fd24fdaa34193cc643014095cbf584925f29ba6a9581c4d5",
+        "sha256_in_prefix": "29b9a084f4dc20e5fd24fdaa34193cc643014095cbf584925f29ba6a9581c4d5",
+        "size_in_bytes": 1241
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/it/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "3754e45ea6cdc881e01f32695caa92e5b172447146e64c407f5f1a226cdc31f0",
+        "sha256_in_prefix": "3754e45ea6cdc881e01f32695caa92e5b172447146e64c407f5f1a226cdc31f0",
+        "size_in_bytes": 1403
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/it/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "f3cd61fb44a0fe982444b96e8b662360cbc735046ce41d6b8b05db0084661e73",
+        "sha256_in_prefix": "f3cd61fb44a0fe982444b96e8b662360cbc735046ce41d6b8b05db0084661e73",
+        "size_in_bytes": 1321
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/iw/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "f878e0a9376b9779ad2a5f2814cc74fe19acf10154e1257c662d348fa9f54b89",
+        "sha256_in_prefix": "f878e0a9376b9779ad2a5f2814cc74fe19acf10154e1257c662d348fa9f54b89",
+        "size_in_bytes": 1445
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/iw/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "62035ca34d5cbddeafc766dd59f090300d3af1e7cb561c1383c1af0df3d69d91",
+        "sha256_in_prefix": "62035ca34d5cbddeafc766dd59f090300d3af1e7cb561c1383c1af0df3d69d91",
+        "size_in_bytes": 1363
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ja/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "cf3804bdd99876c6d8819d353b47fad956ab1ea920e2121401af5c6581000c19",
+        "sha256_in_prefix": "cf3804bdd99876c6d8819d353b47fad956ab1ea920e2121401af5c6581000c19",
+        "size_in_bytes": 1471
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ja/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "5886ffc29ba63f8ab303aaab932e2f50d8ed8309f7f0156dfa78bdd63f58d083",
+        "sha256_in_prefix": "5886ffc29ba63f8ab303aaab932e2f50d8ed8309f7f0156dfa78bdd63f58d083",
+        "size_in_bytes": 1389
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ko/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "87449ff12c372e1638227f734b9d6d80afaa5b434b9abcff79dfa7515100d317",
+        "sha256_in_prefix": "87449ff12c372e1638227f734b9d6d80afaa5b434b9abcff79dfa7515100d317",
+        "size_in_bytes": 1375
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ko/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "f7995f24264f308184f8a786769df4794ae87f8c9d533140e6b90f0ee31f5907",
+        "sha256_in_prefix": "f7995f24264f308184f8a786769df4794ae87f8c9d533140e6b90f0ee31f5907",
+        "size_in_bytes": 1293
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/lt/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "e4ecace9bae3da9b2fbcfc831eb752ffd16b4fe6a7f02fd9b591e4dd0306b763",
+        "sha256_in_prefix": "e4ecace9bae3da9b2fbcfc831eb752ffd16b4fe6a7f02fd9b591e4dd0306b763",
+        "size_in_bytes": 1413
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/lt/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "2bb9f3d7102091069f871b6df2937a9f9c097b50b1fbd780257b04f9feee940b",
+        "sha256_in_prefix": "2bb9f3d7102091069f871b6df2937a9f9c097b50b1fbd780257b04f9feee940b",
+        "size_in_bytes": 1331
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/lv/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "beb8d95293cd4d6a9931ce5d9085a2943acf1b7cfa98967d0f7762641d69188c",
+        "sha256_in_prefix": "beb8d95293cd4d6a9931ce5d9085a2943acf1b7cfa98967d0f7762641d69188c",
+        "size_in_bytes": 1404
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/lv/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "77cd5b8f655cc7b917bf79eed0c238b4949133e3976d46a454fcf6c8b7542872",
+        "sha256_in_prefix": "77cd5b8f655cc7b917bf79eed0c238b4949133e3976d46a454fcf6c8b7542872",
+        "size_in_bytes": 1322
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ml/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "8e56f1380a0c51c3310aecf6e3e272d8143fc4a1403dc742349d4584be9b1f93",
+        "sha256_in_prefix": "8e56f1380a0c51c3310aecf6e3e272d8143fc4a1403dc742349d4584be9b1f93",
+        "size_in_bytes": 1883
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ml/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "a38350b0a80d5e397e1fdf68cd9caeb66b9e03d22fcb7045d42c7bd162f25bb1",
+        "sha256_in_prefix": "a38350b0a80d5e397e1fdf68cd9caeb66b9e03d22fcb7045d42c7bd162f25bb1",
+        "size_in_bytes": 1803
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/mr/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "b0932e75f4f25ae908a334fc600fc13cb229541bccea2dc7d83c88c73423ed7d",
+        "sha256_in_prefix": "b0932e75f4f25ae908a334fc600fc13cb229541bccea2dc7d83c88c73423ed7d",
+        "size_in_bytes": 1674
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/mr/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "0b7e05aa3643fc65c0c243706923fca50be34697a45f0b77d68f6ed6b8261ca7",
+        "sha256_in_prefix": "0b7e05aa3643fc65c0c243706923fca50be34697a45f0b77d68f6ed6b8261ca7",
+        "size_in_bytes": 1594
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ms/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "ffa593537c3ed6498c9c818e5c7bedc38d58526e6aedb200ebf77a952ea1c78b",
+        "sha256_in_prefix": "ffa593537c3ed6498c9c818e5c7bedc38d58526e6aedb200ebf77a952ea1c78b",
+        "size_in_bytes": 1213
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ms/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "ca9d6d2b766a09b2a6fc751c742f7324f211a917d39164a8322f21c9c2011b17",
+        "sha256_in_prefix": "ca9d6d2b766a09b2a6fc751c742f7324f211a917d39164a8322f21c9c2011b17",
+        "size_in_bytes": 1133
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/nl/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "376a16911be41a827ff9dbc93887a8ff74f29ab5c94ed7596b9a9ff6309d5fc3",
+        "sha256_in_prefix": "376a16911be41a827ff9dbc93887a8ff74f29ab5c94ed7596b9a9ff6309d5fc3",
+        "size_in_bytes": 1356
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/nl/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "bfd75b218374caec21800051ae95e8adb01918ea7f897b1eba1bde5ed509bbf3",
+        "sha256_in_prefix": "bfd75b218374caec21800051ae95e8adb01918ea7f897b1eba1bde5ed509bbf3",
+        "size_in_bytes": 1274
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/no/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "a5bf6cb68d7f5f5dacbb969302b98c77975931e401818d95cfc674bc2ba9bdc1",
+        "sha256_in_prefix": "a5bf6cb68d7f5f5dacbb969302b98c77975931e401818d95cfc674bc2ba9bdc1",
+        "size_in_bytes": 1317
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/no/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "028f736e48f126c8e69a4e24d25dc0daa225e660c91c60572aabd3f7ddf885fb",
+        "sha256_in_prefix": "028f736e48f126c8e69a4e24d25dc0daa225e660c91c60572aabd3f7ddf885fb",
+        "size_in_bytes": 1235
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/pl/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "c4a6c7f8887084d2c2d88b18bd1a1f6720195ab20196fff640266d8a38807132",
+        "sha256_in_prefix": "c4a6c7f8887084d2c2d88b18bd1a1f6720195ab20196fff640266d8a38807132",
+        "size_in_bytes": 1371
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/pl/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "b700da6a7fc1ad69db227ff47f7c276b038274a1ec9b98b9dea932ebc167a7d3",
+        "sha256_in_prefix": "b700da6a7fc1ad69db227ff47f7c276b038274a1ec9b98b9dea932ebc167a7d3",
+        "size_in_bytes": 1289
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/pt/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "2baad7fcc1af4d28d85d2eeb8d18de6d8cdb2e8d83b8c32e3842b5abd8ef7955",
+        "sha256_in_prefix": "2baad7fcc1af4d28d85d2eeb8d18de6d8cdb2e8d83b8c32e3842b5abd8ef7955",
+        "size_in_bytes": 1364
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/pt/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "ed7751e85f1cd689ad7390736f7518c7de6b9ffa09ae1d687c9d4b465faa2c55",
+        "sha256_in_prefix": "ed7751e85f1cd689ad7390736f7518c7de6b9ffa09ae1d687c9d4b465faa2c55",
+        "size_in_bytes": 1282
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ro/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "c07c661959b243fa62e3ab1fd2b384cf8fbdbe44e2ceb8f1ad6496bf70cd5ee5",
+        "sha256_in_prefix": "c07c661959b243fa62e3ab1fd2b384cf8fbdbe44e2ceb8f1ad6496bf70cd5ee5",
+        "size_in_bytes": 1390
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ro/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "918a44fbbeb7136b62dc674bb11effb0666a60e9ce22a523867b0433aa03560c",
+        "sha256_in_prefix": "918a44fbbeb7136b62dc674bb11effb0666a60e9ce22a523867b0433aa03560c",
+        "size_in_bytes": 1308
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ru/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "26954b502e2aeb5ff6222c6f2a3755f0a43bc24c6e5b582c69e8e2e0c651a89a",
+        "sha256_in_prefix": "26954b502e2aeb5ff6222c6f2a3755f0a43bc24c6e5b582c69e8e2e0c651a89a",
+        "size_in_bytes": 1729
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ru/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "4261e35b040e2d86db9d415aa0b2fb547c8da1f1a48e165f127883bf4aaba509",
+        "sha256_in_prefix": "4261e35b040e2d86db9d415aa0b2fb547c8da1f1a48e165f127883bf4aaba509",
+        "size_in_bytes": 1647
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/sk/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "9519f73ee338a12e152c1786b0600eff88c55f7cac2cf93aee8b279dc785719e",
+        "sha256_in_prefix": "9519f73ee338a12e152c1786b0600eff88c55f7cac2cf93aee8b279dc785719e",
+        "size_in_bytes": 1393
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/sk/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "e283694940ac88afebfce74145ac9926fd43c50e8905f942c538c8bad8effc73",
+        "sha256_in_prefix": "e283694940ac88afebfce74145ac9926fd43c50e8905f942c538c8bad8effc73",
+        "size_in_bytes": 1311
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/sl/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "7d05fefab479048a13dce9734206bdc5b50d3e36b191ca4d22f035ab2bff3b53",
+        "sha256_in_prefix": "7d05fefab479048a13dce9734206bdc5b50d3e36b191ca4d22f035ab2bff3b53",
+        "size_in_bytes": 1374
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/sl/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "a2193ce78df6215760c10961f6218965aa01125e63fdf4eedc1caf0fc31a534b",
+        "sha256_in_prefix": "a2193ce78df6215760c10961f6218965aa01125e63fdf4eedc1caf0fc31a534b",
+        "size_in_bytes": 1292
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/sr/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "7797ea1c09e515cd2f13a969caadf651ca3261fcf29b099fa21488d361120f21",
+        "sha256_in_prefix": "7797ea1c09e515cd2f13a969caadf651ca3261fcf29b099fa21488d361120f21",
+        "size_in_bytes": 1679
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/sr/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "55eea84e26f74c7d4420b0cc129b66331e6406b2359f0a80e9b230cfbb37e9c1",
+        "sha256_in_prefix": "55eea84e26f74c7d4420b0cc129b66331e6406b2359f0a80e9b230cfbb37e9c1",
+        "size_in_bytes": 1597
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/sv/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "dd664436236ae1b683e4e7f8c0b6d5383793fa9b231bcf43ad903f6e0b710e60",
+        "sha256_in_prefix": "dd664436236ae1b683e4e7f8c0b6d5383793fa9b231bcf43ad903f6e0b710e60",
+        "size_in_bytes": 1365
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/sv/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "547641326e120f253307e24aaf89ca4b4536bd7cf06533c46c28f6a1f05d51a2",
+        "sha256_in_prefix": "547641326e120f253307e24aaf89ca4b4536bd7cf06533c46c28f6a1f05d51a2",
+        "size_in_bytes": 1283
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ta/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "0f8431476122340739d720cedc1b900bdc7baedaa98e111ab2199e28f56f16f0",
+        "sha256_in_prefix": "0f8431476122340739d720cedc1b900bdc7baedaa98e111ab2199e28f56f16f0",
+        "size_in_bytes": 1928
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ta/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "753cf9bd239a2291ec9e168f39d61bcee399f332fe2955b34cee45baeb6d010e",
+        "sha256_in_prefix": "753cf9bd239a2291ec9e168f39d61bcee399f332fe2955b34cee45baeb6d010e",
+        "size_in_bytes": 1848
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/te/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "d234f2ba7fa1685d01f6443349a98d49d682fcc7fd26776d58c9879bdcf85785",
+        "sha256_in_prefix": "d234f2ba7fa1685d01f6443349a98d49d682fcc7fd26776d58c9879bdcf85785",
+        "size_in_bytes": 1806
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/te/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "aeea6562b818e4e69ad69dd4ba97429736eb18a12e2795014d255ced7e13f88b",
+        "sha256_in_prefix": "aeea6562b818e4e69ad69dd4ba97429736eb18a12e2795014d255ced7e13f88b",
+        "size_in_bytes": 1726
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/tg/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "3764cd332d0ac5be86e01ddb9036a42ed630db73ca3275fa00d74ac3eebc4860",
+        "sha256_in_prefix": "3764cd332d0ac5be86e01ddb9036a42ed630db73ca3275fa00d74ac3eebc4860",
+        "size_in_bytes": 1628
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/tg/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "6b75bfbc3ac7b01fd1d3fc4c08f384175c8cd47d540ab1de3806ca5a1ebda0a0",
+        "sha256_in_prefix": "6b75bfbc3ac7b01fd1d3fc4c08f384175c8cd47d540ab1de3806ca5a1ebda0a0",
+        "size_in_bytes": 1546
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/th/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "83dd53d3f92215933bda0b9899841b9962295d5cae7429a8a410739ee2720930",
+        "sha256_in_prefix": "83dd53d3f92215933bda0b9899841b9962295d5cae7429a8a410739ee2720930",
+        "size_in_bytes": 1766
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/th/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "1d0950f2e8355bec92a492fa5d2cda570555c15bce31948d6c20fbe834235fdd",
+        "sha256_in_prefix": "1d0950f2e8355bec92a492fa5d2cda570555c15bce31948d6c20fbe834235fdd",
+        "size_in_bytes": 1684
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/tl/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "f9b114d56c4812fcc93c3419c5232bf1cc1a13d05fd7d1508c4fd8c8339bfc7c",
+        "sha256_in_prefix": "f9b114d56c4812fcc93c3419c5232bf1cc1a13d05fd7d1508c4fd8c8339bfc7c",
+        "size_in_bytes": 1273
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/tl/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "fd9ff3a4e1e4983204789f0db886acf72b3a2d926718eb525bd210d42ebe203e",
+        "sha256_in_prefix": "fd9ff3a4e1e4983204789f0db886acf72b3a2d926718eb525bd210d42ebe203e",
+        "size_in_bytes": 1193
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/tr/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "5c4d5429faf9db67bc19cddaaa126833f0aa3ff804c83ae0689f69810f1198da",
+        "sha256_in_prefix": "5c4d5429faf9db67bc19cddaaa126833f0aa3ff804c83ae0689f69810f1198da",
+        "size_in_bytes": 1373
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/tr/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "bfb4e61926b2c486a574f1cc49d465e5f36dc3a88b4a53ae4562acb9a4a00c29",
+        "sha256_in_prefix": "bfb4e61926b2c486a574f1cc49d465e5f36dc3a88b4a53ae4562acb9a4a00c29",
+        "size_in_bytes": 1291
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/uk/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "29d5d2d8cdc854cab02cdc588c72f22e0928040e3c14ecc2fc46b8c7cbe7514b",
+        "sha256_in_prefix": "29d5d2d8cdc854cab02cdc588c72f22e0928040e3c14ecc2fc46b8c7cbe7514b",
+        "size_in_bytes": 1681
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/uk/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "71492b23d75653c7a8007ddc2bad7792777a507c15cedb36df9dae5ae4e55639",
+        "sha256_in_prefix": "71492b23d75653c7a8007ddc2bad7792777a507c15cedb36df9dae5ae4e55639",
+        "size_in_bytes": 1601
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ur/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "ed031bc6a28734269a56cf06682d8896d4c94ff207d9d3d6028416d05e26b221",
+        "sha256_in_prefix": "ed031bc6a28734269a56cf06682d8896d4c94ff207d9d3d6028416d05e26b221",
+        "size_in_bytes": 1462
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/ur/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "5eae3df0395a355dae721269c3dfa9f5e30965e6650434b2c2e41e6f691c8316",
+        "sha256_in_prefix": "5eae3df0395a355dae721269c3dfa9f5e30965e6650434b2c2e41e6f691c8316",
+        "size_in_bytes": 1382
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/vi/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "a320e37cb1800255e80e3c1e8340d27c0dc3b18f20d2ecef82f7c8a3084dc67a",
+        "sha256_in_prefix": "a320e37cb1800255e80e3c1e8340d27c0dc3b18f20d2ecef82f7c8a3084dc67a",
+        "size_in_bytes": 1431
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/vi/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "6cbcb9a8245b0b73d85d5e887de8e33883a461be54298888f72b2ecb0c2010a2",
+        "sha256_in_prefix": "6cbcb9a8245b0b73d85d5e887de8e33883a461be54298888f72b2ecb0c2010a2",
+        "size_in_bytes": 1349
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/zh_CN/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "7e4e13b6ecaee3b06008d84010c30373ff6c77db552b15db65b9914102e801b0",
+        "sha256_in_prefix": "7e4e13b6ecaee3b06008d84010c30373ff6c77db552b15db65b9914102e801b0",
+        "size_in_bytes": 1310
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/zh_CN/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "66e49129a861118389cfd30b4b4470efe8310b90597014231b6c2a19ae6bae16",
+        "sha256_in_prefix": "66e49129a861118389cfd30b4b4470efe8310b90597014231b6c2a19ae6bae16",
+        "size_in_bytes": 1228
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/zh_TW/LC_MESSAGES/booktheme.mo",
+        "path_type": "hardlink",
+        "sha256": "de145af43570b67a052724c65a34c9bda714f9a86afeb660b5c27ed7e6601562",
+        "sha256_in_prefix": "de145af43570b67a052724c65a34c9bda714f9a86afeb660b5c27ed7e6601562",
+        "size_in_bytes": 1341
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/locales/zh_TW/LC_MESSAGES/booktheme.po",
+        "path_type": "hardlink",
+        "sha256": "b3b204602e7b97e6a3c4324de9275e38a21a39cd3399cb740721207547324668",
+        "sha256_in_prefix": "b3b204602e7b97e6a3c4324de9275e38a21a39cd3399cb740721207547324668",
+        "size_in_bytes": 1259
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/sbt-webpack-macros.html",
+        "path_type": "hardlink",
+        "sha256": "cc694f5d1ecc7ddb55fe59d4a4f411038da26da25b87816374a7d998798b396d",
+        "sha256_in_prefix": "cc694f5d1ecc7ddb55fe59d4a4f411038da26da25b87816374a7d998798b396d",
+        "size_in_bytes": 419
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/scripts/sphinx-book-theme.js",
+        "path_type": "hardlink",
+        "sha256": "2a8659f18c2652c150f637144de5459d84d6212b1b4b591bf99ba3a6923f08f1",
+        "sha256_in_prefix": "2a8659f18c2652c150f637144de5459d84d6212b1b4b591bf99ba3a6923f08f1",
+        "size_in_bytes": 2129
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/scripts/sphinx-book-theme.js.map",
+        "path_type": "hardlink",
+        "sha256": "d6f4904a7c35ca6b0fa3263d97d570ffe52d14f51bf6fb2363b309bb2959bc6d",
+        "sha256_in_prefix": "d6f4904a7c35ca6b0fa3263d97d570ffe52d14f51bf6fb2363b309bb2959bc6d",
+        "size_in_bytes": 8482
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/styles/sphinx-book-theme.css",
+        "path_type": "hardlink",
+        "sha256": "a7b35f4fe8398a5dd60bab2826c691601a3477c013c05ce069f583e328c279ad",
+        "sha256_in_prefix": "a7b35f4fe8398a5dd60bab2826c691601a3477c013c05ce069f583e328c279ad",
+        "size_in_bytes": 14832
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/static/styles/sphinx-book-theme.css.map",
+        "path_type": "hardlink",
+        "sha256": "8f799d2566f1e0e26891ec1dd91882babd2b4a90f21cf2fc828c9900cdc5971b",
+        "sha256_in_prefix": "8f799d2566f1e0e26891ec1dd91882babd2b4a90f21cf2fc828c9900cdc5971b",
+        "size_in_bytes": 36665
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme/theme/sphinx_book_theme/theme.conf",
+        "path_type": "hardlink",
+        "sha256": "3e279fb12301b7737d9a974a5b9916855c8ba28d2b4fa8550f499f08d09bed68",
+        "sha256_in_prefix": "3e279fb12301b7737d9a974a5b9916855c8ba28d2b4fa8550f499f08d09bed68",
+        "size_in_bytes": 1534
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme-1.1.4.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "bc33022edcb7639ff53355b4e91dade50a0bbf0299efeb6171d1ec0ba5029cfc",
+        "sha256_in_prefix": "bc33022edcb7639ff53355b4e91dade50a0bbf0299efeb6171d1ec0ba5029cfc",
+        "size_in_bytes": 6
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme-1.1.4.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "e08d12ed3d934f76ba5f2294169ff8b95ef03ec89b56fe7450aa2142df957307",
+        "sha256_in_prefix": "e08d12ed3d934f76ba5f2294169ff8b95ef03ec89b56fe7450aa2142df957307",
+        "size_in_bytes": 1522
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme-1.1.4.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "dff52556d0dc681900de37e92a976b14c55d5cd5f481b9e25e4f52b4d9b9911c",
+        "sha256_in_prefix": "dff52556d0dc681900de37e92a976b14c55d5cd5f481b9e25e4f52b4d9b9911c",
+        "size_in_bytes": 5788
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme-1.1.4.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "eb1b9dbd90fb4b80d0dc05a56bd1076290c5a12dd0e5d17ae77b08b11b76be8d",
+        "sha256_in_prefix": "eb1b9dbd90fb4b80d0dc05a56bd1076290c5a12dd0e5d17ae77b08b11b76be8d",
+        "size_in_bytes": 23303
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme-1.1.4.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme-1.1.4.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "a0c5c1ece335d317b03fe421a744a6ea057224f0e00eba0d5f91cddeea65d721",
+        "sha256_in_prefix": "a0c5c1ece335d317b03fe421a744a6ea057224f0e00eba0d5f91cddeea65d721",
+        "size_in_bytes": 101
+      },
+      {
+        "_path": "site-packages/sphinx_book_theme-1.1.4.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "d8b8aa48db58e04ccced9522f8a0c7646fb46d2b730bb64824349296e11ab903",
+        "sha256_in_prefix": "d8b8aa48db58e04ccced9522f8a0c7646fb46d2b730bb64824349296e11ab903",
+        "size_in_bytes": 58
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_book_theme/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_book_theme/__pycache__/_compat.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_book_theme/__pycache__/_compile_translations.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_book_theme/__pycache__/_transforms.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_book_theme/__pycache__/directives.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_book_theme/header_buttons/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_book_theme/header_buttons/__pycache__/launch.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_book_theme/header_buttons/__pycache__/source.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_book_theme/__pycache__/nodes.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "78581f1ba538186fc4129191a8db4ee7798382b6b4a1a0c55dedb437da1a9fd8",
+  "size": 255445,
+  "subdir": "noarch",
+  "timestamp": 1740145414000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/sphinx-book-theme-1.1.4-pyh29332c3_0.conda",
+  "version": "1.1.4"
+}

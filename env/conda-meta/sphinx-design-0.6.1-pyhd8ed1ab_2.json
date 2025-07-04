@@ -1,0 +1,344 @@
+{
+  "build": "pyhd8ed1ab_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.9",
+    "sphinx >=6,<9"
+  ],
+  "extracted_package_dir": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinx-design-0.6.1-pyhd8ed1ab_2",
+  "files": [
+    "Lib/site-packages/sphinx_design-0.6.1.dist-info/INSTALLER",
+    "Lib/site-packages/sphinx_design-0.6.1.dist-info/LICENSE",
+    "Lib/site-packages/sphinx_design-0.6.1.dist-info/METADATA",
+    "Lib/site-packages/sphinx_design-0.6.1.dist-info/RECORD",
+    "Lib/site-packages/sphinx_design-0.6.1.dist-info/REQUESTED",
+    "Lib/site-packages/sphinx_design-0.6.1.dist-info/WHEEL",
+    "Lib/site-packages/sphinx_design-0.6.1.dist-info/direct_url.json",
+    "Lib/site-packages/sphinx_design/__init__.py",
+    "Lib/site-packages/sphinx_design/_compat.py",
+    "Lib/site-packages/sphinx_design/article_info.py",
+    "Lib/site-packages/sphinx_design/badges_buttons.py",
+    "Lib/site-packages/sphinx_design/cards.py",
+    "Lib/site-packages/sphinx_design/compiled/__init__.py",
+    "Lib/site-packages/sphinx_design/compiled/material-icons_LICENSE",
+    "Lib/site-packages/sphinx_design/compiled/material-icons_VERSION.txt",
+    "Lib/site-packages/sphinx_design/compiled/material_outlined.json",
+    "Lib/site-packages/sphinx_design/compiled/material_regular.json",
+    "Lib/site-packages/sphinx_design/compiled/material_round.json",
+    "Lib/site-packages/sphinx_design/compiled/material_sharp.json",
+    "Lib/site-packages/sphinx_design/compiled/material_twotone.json",
+    "Lib/site-packages/sphinx_design/compiled/octicon_LICENSE",
+    "Lib/site-packages/sphinx_design/compiled/octicons.json",
+    "Lib/site-packages/sphinx_design/compiled/sd_tabs.js",
+    "Lib/site-packages/sphinx_design/compiled/style.min.css",
+    "Lib/site-packages/sphinx_design/dropdown.py",
+    "Lib/site-packages/sphinx_design/extension.py",
+    "Lib/site-packages/sphinx_design/grids.py",
+    "Lib/site-packages/sphinx_design/icons.py",
+    "Lib/site-packages/sphinx_design/py.typed",
+    "Lib/site-packages/sphinx_design/shared.py",
+    "Lib/site-packages/sphinx_design/tabs.py",
+    "Lib/site-packages/sphinx_design/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/sphinx_design/__pycache__/_compat.cpython-313.pyc",
+    "Lib/site-packages/sphinx_design/__pycache__/article_info.cpython-313.pyc",
+    "Lib/site-packages/sphinx_design/__pycache__/badges_buttons.cpython-313.pyc",
+    "Lib/site-packages/sphinx_design/__pycache__/cards.cpython-313.pyc",
+    "Lib/site-packages/sphinx_design/compiled/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/sphinx_design/__pycache__/dropdown.cpython-313.pyc",
+    "Lib/site-packages/sphinx_design/__pycache__/extension.cpython-313.pyc",
+    "Lib/site-packages/sphinx_design/__pycache__/grids.cpython-313.pyc",
+    "Lib/site-packages/sphinx_design/__pycache__/icons.cpython-313.pyc",
+    "Lib/site-packages/sphinx_design/__pycache__/shared.cpython-313.pyc",
+    "Lib/site-packages/sphinx_design/__pycache__/tabs.cpython-313.pyc"
+  ],
+  "fn": "sphinx-design-0.6.1-pyhd8ed1ab_2.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinx-design-0.6.1-pyhd8ed1ab_2",
+    "type": 1
+  },
+  "md5": "3e6c15d914b03f83fc96344f917e0838",
+  "name": "sphinx-design",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinx-design-0.6.1-pyhd8ed1ab_2.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/sphinx_design-0.6.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/sphinx_design-0.6.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "c06768f1f47e305f8161f514091c433400832617135ce4e49f5287cadec9041f",
+        "sha256_in_prefix": "c06768f1f47e305f8161f514091c433400832617135ce4e49f5287cadec9041f",
+        "size_in_bytes": 1099
+      },
+      {
+        "_path": "site-packages/sphinx_design-0.6.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "297800eefc4ac9bc7fe853d1c37c6bda77bbbf54e73d5c2a4b78c2894829e1e3",
+        "sha256_in_prefix": "297800eefc4ac9bc7fe853d1c37c6bda77bbbf54e73d5c2a4b78c2894829e1e3",
+        "size_in_bytes": 5516
+      },
+      {
+        "_path": "site-packages/sphinx_design-0.6.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "953b75736be96162d61a11c7c3316d4d42f60acf6e75e3ef5719f38f68c820db",
+        "sha256_in_prefix": "953b75736be96162d61a11c7c3316d4d42f60acf6e75e3ef5719f38f68c820db",
+        "size_in_bytes": 3437
+      },
+      {
+        "_path": "site-packages/sphinx_design-0.6.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/sphinx_design-0.6.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "0a950253178741b44de54191407611268acee407fe432fdf1cc72d710f034862",
+        "sha256_in_prefix": "0a950253178741b44de54191407611268acee407fe432fdf1cc72d710f034862",
+        "size_in_bytes": 82
+      },
+      {
+        "_path": "site-packages/sphinx_design-0.6.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "f30db06c7feb55a7e18066b79169318f97bd5be45507534caedf62540631bf35",
+        "sha256_in_prefix": "f30db06c7feb55a7e18066b79169318f97bd5be45507534caedf62540631bf35",
+        "size_in_bytes": 109
+      },
+      {
+        "_path": "site-packages/sphinx_design/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "499c300c7d79d250d5e200353f279a7278950ddc4ebb7de6f4c834f9142a1764",
+        "sha256_in_prefix": "499c300c7d79d250d5e200353f279a7278950ddc4ebb7de6f4c834f9142a1764",
+        "size_in_bytes": 434
+      },
+      {
+        "_path": "site-packages/sphinx_design/_compat.py",
+        "path_type": "hardlink",
+        "sha256": "5ea5eca61077774dfb1314dd14b29d678f030f2f7900618a82f241b5bd811abd",
+        "sha256_in_prefix": "5ea5eca61077774dfb1314dd14b29d678f030f2f7900618a82f241b5bd811abd",
+        "size_in_bytes": 750
+      },
+      {
+        "_path": "site-packages/sphinx_design/article_info.py",
+        "path_type": "hardlink",
+        "sha256": "0d9e34ee24ad5b481477c6ddbe7e7c893c40f739d484ce1de6a1854b7d2e1343",
+        "sha256_in_prefix": "0d9e34ee24ad5b481477c6ddbe7e7c893c40f739d484ce1de6a1854b7d2e1343",
+        "size_in_bytes": 6366
+      },
+      {
+        "_path": "site-packages/sphinx_design/badges_buttons.py",
+        "path_type": "hardlink",
+        "sha256": "21280c85be199fcb061b8b3ef31a485bf9c0f05af438563b72c3fcbfd65e3dd9",
+        "sha256_in_prefix": "21280c85be199fcb061b8b3ef31a485bf9c0f05af438563b72c3fcbfd65e3dd9",
+        "size_in_bytes": 8212
+      },
+      {
+        "_path": "site-packages/sphinx_design/cards.py",
+        "path_type": "hardlink",
+        "sha256": "04d80dc9acc06501bb66701d6d43ef964edb40bc84696e0a939420f2b643f087",
+        "sha256_in_prefix": "04d80dc9acc06501bb66701d6d43ef964edb40bc84696e0a939420f2b643f087",
+        "size_in_bytes": 10369
+      },
+      {
+        "_path": "site-packages/sphinx_design/compiled/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/sphinx_design/compiled/material-icons_LICENSE",
+        "path_type": "hardlink",
+        "sha256": "271f7a5b4e67f299e85e957b784821e3c043d30783ab01c6a19911792d18d842",
+        "sha256_in_prefix": "271f7a5b4e67f299e85e957b784821e3c043d30783ab01c6a19911792d18d842",
+        "size_in_bytes": 577
+      },
+      {
+        "_path": "site-packages/sphinx_design/compiled/material-icons_VERSION.txt",
+        "path_type": "hardlink",
+        "sha256": "82e454aa69def9b778446207788bfa5a0e659244937154a7ac82b7c331674d6c",
+        "sha256_in_prefix": "82e454aa69def9b778446207788bfa5a0e659244937154a7ac82b7c331674d6c",
+        "size_in_bytes": 106
+      },
+      {
+        "_path": "site-packages/sphinx_design/compiled/material_outlined.json",
+        "path_type": "hardlink",
+        "sha256": "324f1e2ea0f7cf9a2d107615ffa7258a5633543c6e2571162074c64a0b58f57a",
+        "sha256_in_prefix": "324f1e2ea0f7cf9a2d107615ffa7258a5633543c6e2571162074c64a0b58f57a",
+        "size_in_bytes": 1613646
+      },
+      {
+        "_path": "site-packages/sphinx_design/compiled/material_regular.json",
+        "path_type": "hardlink",
+        "sha256": "6da4c2691883b7464270d64175c4e62c084aaa632e7483e5b88d2ebb75dea85c",
+        "sha256_in_prefix": "6da4c2691883b7464270d64175c4e62c084aaa632e7483e5b88d2ebb75dea85c",
+        "size_in_bytes": 1504323
+      },
+      {
+        "_path": "site-packages/sphinx_design/compiled/material_round.json",
+        "path_type": "hardlink",
+        "sha256": "f0a78f0f69a3bc79f6d7f70391b01fa68665a681d82b27a8d44814bc9f2d7a75",
+        "sha256_in_prefix": "f0a78f0f69a3bc79f6d7f70391b01fa68665a681d82b27a8d44814bc9f2d7a75",
+        "size_in_bytes": 2003117
+      },
+      {
+        "_path": "site-packages/sphinx_design/compiled/material_sharp.json",
+        "path_type": "hardlink",
+        "sha256": "9e9c9eb766851428dd9ccbf69ff3bf90a59718c219e751db1f9761e2f2a5960e",
+        "sha256_in_prefix": "9e9c9eb766851428dd9ccbf69ff3bf90a59718c219e751db1f9761e2f2a5960e",
+        "size_in_bytes": 1370513
+      },
+      {
+        "_path": "site-packages/sphinx_design/compiled/material_twotone.json",
+        "path_type": "hardlink",
+        "sha256": "0e43965a5c8609e7e0b250aa067ba04b7dcf92be033b2540380a1c6b605bd7ee",
+        "sha256_in_prefix": "0e43965a5c8609e7e0b250aa067ba04b7dcf92be033b2540380a1c6b605bd7ee",
+        "size_in_bytes": 1995382
+      },
+      {
+        "_path": "site-packages/sphinx_design/compiled/octicon_LICENSE",
+        "path_type": "hardlink",
+        "sha256": "4f886642f9e8d99eeadd484acdac011c3fde8a338faf52f5ca1408c13b9a9b63",
+        "sha256_in_prefix": "4f886642f9e8d99eeadd484acdac011c3fde8a338faf52f5ca1408c13b9a9b63",
+        "size_in_bytes": 1068
+      },
+      {
+        "_path": "site-packages/sphinx_design/compiled/octicons.json",
+        "path_type": "hardlink",
+        "sha256": "343c43e5b2a6a1b0fa84a7869cab58e69b11648943467fc038a9aaae142e40c1",
+        "sha256_in_prefix": "343c43e5b2a6a1b0fa84a7869cab58e69b11648943467fc038a9aaae142e40c1",
+        "size_in_bytes": 1016739
+      },
+      {
+        "_path": "site-packages/sphinx_design/compiled/sd_tabs.js",
+        "path_type": "hardlink",
+        "sha256": "de2467cfca5bb555043369f1eea82c9cd794e70fa0444f216aa4ebb18cefc9f0",
+        "sha256_in_prefix": "de2467cfca5bb555043369f1eea82c9cd794e70fa0444f216aa4ebb18cefc9f0",
+        "size_in_bytes": 2780
+      },
+      {
+        "_path": "site-packages/sphinx_design/compiled/style.min.css",
+        "path_type": "hardlink",
+        "sha256": "eb53d5c272ecc4d93a04605b3d42aa6942858e634bb9686d32d576203a0033ba",
+        "sha256_in_prefix": "eb53d5c272ecc4d93a04605b3d42aa6942858e634bb9686d32d576203a0033ba",
+        "size_in_bytes": 49351
+      },
+      {
+        "_path": "site-packages/sphinx_design/dropdown.py",
+        "path_type": "hardlink",
+        "sha256": "8ae3548a0188b3baac7229a132d51ae1baff43316cc3ca826f19059b211a09a8",
+        "sha256_in_prefix": "8ae3548a0188b3baac7229a132d51ae1baff43316cc3ca826f19059b211a09a8",
+        "size_in_bytes": 8007
+      },
+      {
+        "_path": "site-packages/sphinx_design/extension.py",
+        "path_type": "hardlink",
+        "sha256": "b94828cb5bd4dc7bf659d2431c841f30c7e0ae363a3d03e579d727605afc2dc6",
+        "sha256_in_prefix": "b94828cb5bd4dc7bf659d2431c841f30c7e0ae363a3d03e579d727605afc2dc6",
+        "size_in_bytes": 6690
+      },
+      {
+        "_path": "site-packages/sphinx_design/grids.py",
+        "path_type": "hardlink",
+        "sha256": "f9366b49912729b27137c6a10ebe10119391e4f26ada94773ce70d5920e5332d",
+        "sha256_in_prefix": "f9366b49912729b27137c6a10ebe10119391e4f26ada94773ce70d5920e5332d",
+        "size_in_bytes": 9773
+      },
+      {
+        "_path": "site-packages/sphinx_design/icons.py",
+        "path_type": "hardlink",
+        "sha256": "f45f468266d7ef63e1d3744d4a49019eaf1a094387ea748614ae8317ac877947",
+        "sha256_in_prefix": "f45f468266d7ef63e1d3744d4a49019eaf1a094387ea748614ae8317ac877947",
+        "size_in_bytes": 10823
+      },
+      {
+        "_path": "site-packages/sphinx_design/py.typed",
+        "path_type": "hardlink",
+        "sha256": "f0f8f2675695a10a5156fb7bd66bafbaae6a13e8d315990af862c792175e6e67",
+        "sha256_in_prefix": "f0f8f2675695a10a5156fb7bd66bafbaae6a13e8d315990af862c792175e6e67",
+        "size_in_bytes": 26
+      },
+      {
+        "_path": "site-packages/sphinx_design/shared.py",
+        "path_type": "hardlink",
+        "sha256": "ec0f6e9e75cb73de889ea8f75cd1fe0112d98f665ee64c7924aa7276c7ebc278",
+        "sha256_in_prefix": "ec0f6e9e75cb73de889ea8f75cd1fe0112d98f665ee64c7924aa7276c7ebc278",
+        "size_in_bytes": 7009
+      },
+      {
+        "_path": "site-packages/sphinx_design/tabs.py",
+        "path_type": "hardlink",
+        "sha256": "cca2b2883fdeace10c84b3e3c3446f085916eb4b3ad56d0ce308aa95db896af6",
+        "sha256_in_prefix": "cca2b2883fdeace10c84b3e3c3446f085916eb4b3ad56d0ce308aa95db896af6",
+        "size_in_bytes": 10155
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_design/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_design/__pycache__/_compat.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_design/__pycache__/article_info.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_design/__pycache__/badges_buttons.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_design/__pycache__/cards.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_design/compiled/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_design/__pycache__/dropdown.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_design/__pycache__/extension.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_design/__pycache__/grids.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_design/__pycache__/icons.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_design/__pycache__/shared.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_design/__pycache__/tabs.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "eb335aef48e49107b55299cedc197f86d05651f1eeff83ed8acf89df7cdc9765",
+  "size": 911336,
+  "subdir": "noarch",
+  "timestamp": 1734614675000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/sphinx-design-0.6.1-pyhd8ed1ab_2.conda",
+  "version": "0.6.1"
+}

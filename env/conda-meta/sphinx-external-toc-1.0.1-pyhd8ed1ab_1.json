@@ -1,0 +1,211 @@
+{
+  "build": "pyhd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "pyyaml",
+    "python >=3.9",
+    "click >=7.1",
+    "sphinx >=5"
+  ],
+  "extracted_package_dir": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinx-external-toc-1.0.1-pyhd8ed1ab_1",
+  "files": [
+    "Lib/site-packages/sphinx_external_toc-1.0.1.dist-info/INSTALLER",
+    "Lib/site-packages/sphinx_external_toc-1.0.1.dist-info/LICENSE",
+    "Lib/site-packages/sphinx_external_toc-1.0.1.dist-info/METADATA",
+    "Lib/site-packages/sphinx_external_toc-1.0.1.dist-info/RECORD",
+    "Lib/site-packages/sphinx_external_toc-1.0.1.dist-info/REQUESTED",
+    "Lib/site-packages/sphinx_external_toc-1.0.1.dist-info/WHEEL",
+    "Lib/site-packages/sphinx_external_toc-1.0.1.dist-info/direct_url.json",
+    "Lib/site-packages/sphinx_external_toc-1.0.1.dist-info/entry_points.txt",
+    "Lib/site-packages/sphinx_external_toc/__init__.py",
+    "Lib/site-packages/sphinx_external_toc/_compat.py",
+    "Lib/site-packages/sphinx_external_toc/api.py",
+    "Lib/site-packages/sphinx_external_toc/cli.py",
+    "Lib/site-packages/sphinx_external_toc/events.py",
+    "Lib/site-packages/sphinx_external_toc/parsing.py",
+    "Lib/site-packages/sphinx_external_toc/py.typed",
+    "Lib/site-packages/sphinx_external_toc/tools.py",
+    "Lib/site-packages/sphinx_external_toc/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/sphinx_external_toc/__pycache__/_compat.cpython-313.pyc",
+    "Lib/site-packages/sphinx_external_toc/__pycache__/api.cpython-313.pyc",
+    "Lib/site-packages/sphinx_external_toc/__pycache__/cli.cpython-313.pyc",
+    "Lib/site-packages/sphinx_external_toc/__pycache__/events.cpython-313.pyc",
+    "Lib/site-packages/sphinx_external_toc/__pycache__/parsing.cpython-313.pyc",
+    "Lib/site-packages/sphinx_external_toc/__pycache__/tools.cpython-313.pyc",
+    "Scripts/sphinx-etoc-script.py",
+    "Scripts/sphinx-etoc.exe"
+  ],
+  "fn": "sphinx-external-toc-1.0.1-pyhd8ed1ab_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinx-external-toc-1.0.1-pyhd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "d248f9db0f1c2e7c480b058925afa9c5",
+  "name": "sphinx-external-toc",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinx-external-toc-1.0.1-pyhd8ed1ab_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/sphinx_external_toc-1.0.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/sphinx_external_toc-1.0.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "1fe66a8141832e7bdfd1c9826336c308f0318686aa90cfec5147f57804c5378d",
+        "sha256_in_prefix": "1fe66a8141832e7bdfd1c9826336c308f0318686aa90cfec5147f57804c5378d",
+        "size_in_bytes": 1073
+      },
+      {
+        "_path": "site-packages/sphinx_external_toc-1.0.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "da7fae853ffe5db13e09dbff32a9cf928654352c34c57438abee572c4b71f719",
+        "sha256_in_prefix": "da7fae853ffe5db13e09dbff32a9cf928654352c34c57438abee572c4b71f719",
+        "size_in_bytes": 15846
+      },
+      {
+        "_path": "site-packages/sphinx_external_toc-1.0.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "454903be84054c9a51da27cdb21603a9e4e44d67317cedf2ed0b6c35ddf0f1d2",
+        "sha256_in_prefix": "454903be84054c9a51da27cdb21603a9e4e44d67317cedf2ed0b6c35ddf0f1d2",
+        "size_in_bytes": 1934
+      },
+      {
+        "_path": "site-packages/sphinx_external_toc-1.0.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/sphinx_external_toc-1.0.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "0a950253178741b44de54191407611268acee407fe432fdf1cc72d710f034862",
+        "sha256_in_prefix": "0a950253178741b44de54191407611268acee407fe432fdf1cc72d710f034862",
+        "size_in_bytes": 82
+      },
+      {
+        "_path": "site-packages/sphinx_external_toc-1.0.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "d9ecee1f921905f7efe70cc6c5526dbaf447db33a19a18b191aaa3ca178afacc",
+        "sha256_in_prefix": "d9ecee1f921905f7efe70cc6c5526dbaf447db33a19a18b191aaa3ca178afacc",
+        "size_in_bytes": 115
+      },
+      {
+        "_path": "site-packages/sphinx_external_toc-1.0.1.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "2237bdc884158c5fda4ade3884fa95e327089c3ab0b38cf9de67a09f396a78b7",
+        "sha256_in_prefix": "2237bdc884158c5fda4ade3884fa95e327089c3ab0b38cf9de67a09f396a78b7",
+        "size_in_bytes": 107
+      },
+      {
+        "_path": "site-packages/sphinx_external_toc/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "4ca84381fde0259a68f579061964f479826098a656db140ceb455e1dbd3c6544",
+        "sha256_in_prefix": "4ca84381fde0259a68f579061964f479826098a656db140ceb455e1dbd3c6544",
+        "size_in_bytes": 1189
+      },
+      {
+        "_path": "site-packages/sphinx_external_toc/_compat.py",
+        "path_type": "hardlink",
+        "sha256": "5cc58a62ff608f8b1d068a7d693c557e62c0bc9efe9e62daf89dcb4b5bc903dd",
+        "sha256_in_prefix": "5cc58a62ff608f8b1d068a7d693c557e62c0bc9efe9e62daf89dcb4b5bc903dd",
+        "size_in_bytes": 4448
+      },
+      {
+        "_path": "site-packages/sphinx_external_toc/api.py",
+        "path_type": "hardlink",
+        "sha256": "e7ee0cd86f56b1e6978d2170b27fe8096fdf01dcbab5daff54fdec1b4fb1480b",
+        "sha256_in_prefix": "e7ee0cd86f56b1e6978d2170b27fe8096fdf01dcbab5daff54fdec1b4fb1480b",
+        "size_in_bytes": 7811
+      },
+      {
+        "_path": "site-packages/sphinx_external_toc/cli.py",
+        "path_type": "hardlink",
+        "sha256": "154dd738c9f5fbdd43748a2c54307db665ae049509c6258128f1110a5dba4a3d",
+        "sha256_in_prefix": "154dd738c9f5fbdd43748a2c54307db665ae049509c6258128f1110a5dba4a3d",
+        "size_in_bytes": 4540
+      },
+      {
+        "_path": "site-packages/sphinx_external_toc/events.py",
+        "path_type": "hardlink",
+        "sha256": "5712cac29103b9302687be637bb7573d6da48d1ff08c7554cc5bbda5c62e8efc",
+        "sha256_in_prefix": "5712cac29103b9302687be637bb7573d6da48d1ff08c7554cc5bbda5c62e8efc",
+        "size_in_bytes": 13321
+      },
+      {
+        "_path": "site-packages/sphinx_external_toc/parsing.py",
+        "path_type": "hardlink",
+        "sha256": "39a2f54620e8af76acbc3536d43c550bcc8b1541896de97e2a36e8133c6ef426",
+        "sha256_in_prefix": "39a2f54620e8af76acbc3536d43c550bcc8b1541896de97e2a36e8133c6ef426",
+        "size_in_bytes": 14703
+      },
+      {
+        "_path": "site-packages/sphinx_external_toc/py.typed",
+        "path_type": "hardlink",
+        "sha256": "f0f8f2675695a10a5156fb7bd66bafbaae6a13e8d315990af862c792175e6e67",
+        "sha256_in_prefix": "f0f8f2675695a10a5156fb7bd66bafbaae6a13e8d315990af862c792175e6e67",
+        "size_in_bytes": 26
+      },
+      {
+        "_path": "site-packages/sphinx_external_toc/tools.py",
+        "path_type": "hardlink",
+        "sha256": "1d1ec7fcd10f2a342cc90f740ce92cdc05aaf0759734ca26f369d2cafcafc65d",
+        "sha256_in_prefix": "1d1ec7fcd10f2a342cc90f740ce92cdc05aaf0759734ca26f369d2cafcafc65d",
+        "size_in_bytes": 13519
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_external_toc/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_external_toc/__pycache__/_compat.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_external_toc/__pycache__/api.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_external_toc/__pycache__/cli.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_external_toc/__pycache__/events.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_external_toc/__pycache__/parsing.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_external_toc/__pycache__/tools.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/sphinx-etoc-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/sphinx-etoc.exe",
+        "path_type": "windows_python_entry_point_exe"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "47dda7135f9fb1777b7066c3b9260fdd796d6ec2aeb8804161f39c65b3461401",
+  "size": 28933,
+  "subdir": "noarch",
+  "timestamp": 1735253529000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/sphinx-external-toc-1.0.1-pyhd8ed1ab_1.conda",
+  "version": "1.0.1"
+}

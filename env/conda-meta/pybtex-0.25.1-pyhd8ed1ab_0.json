@@ -1,0 +1,903 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "setuptools",
+    "importlib-metadata",
+    "python >=3.9",
+    "latexcodec >=1.0.4",
+    "pyyaml >=3.01"
+  ],
+  "extracted_package_dir": "C:\\Users\\Adam\\anaconda3\\pkgs\\pybtex-0.25.1-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/pybtex-0.25.1.dist-info/INSTALLER",
+    "Lib/site-packages/pybtex-0.25.1.dist-info/METADATA",
+    "Lib/site-packages/pybtex-0.25.1.dist-info/RECORD",
+    "Lib/site-packages/pybtex-0.25.1.dist-info/REQUESTED",
+    "Lib/site-packages/pybtex-0.25.1.dist-info/WHEEL",
+    "Lib/site-packages/pybtex-0.25.1.dist-info/direct_url.json",
+    "Lib/site-packages/pybtex-0.25.1.dist-info/entry_points.txt",
+    "Lib/site-packages/pybtex-0.25.1.dist-info/licenses/COPYING",
+    "Lib/site-packages/pybtex-0.25.1.dist-info/top_level.txt",
+    "Lib/site-packages/pybtex-0.25.1.dist-info/zip-safe",
+    "Lib/site-packages/pybtex/__init__.py",
+    "Lib/site-packages/pybtex/__main__.py",
+    "Lib/site-packages/pybtex/auxfile.py",
+    "Lib/site-packages/pybtex/backends/__init__.py",
+    "Lib/site-packages/pybtex/backends/html.py",
+    "Lib/site-packages/pybtex/backends/latex.py",
+    "Lib/site-packages/pybtex/backends/markdown.py",
+    "Lib/site-packages/pybtex/backends/plaintext.py",
+    "Lib/site-packages/pybtex/bibtex/__init__.py",
+    "Lib/site-packages/pybtex/bibtex/bst.py",
+    "Lib/site-packages/pybtex/bibtex/builtins.py",
+    "Lib/site-packages/pybtex/bibtex/exceptions.py",
+    "Lib/site-packages/pybtex/bibtex/interpreter.py",
+    "Lib/site-packages/pybtex/bibtex/names.py",
+    "Lib/site-packages/pybtex/bibtex/runner.py",
+    "Lib/site-packages/pybtex/bibtex/utils.py",
+    "Lib/site-packages/pybtex/charwidths/__init__.py",
+    "Lib/site-packages/pybtex/charwidths/make_charwidths.py",
+    "Lib/site-packages/pybtex/cmdline.py",
+    "Lib/site-packages/pybtex/database/__init__.py",
+    "Lib/site-packages/pybtex/database/convert/__init__.py",
+    "Lib/site-packages/pybtex/database/convert/__main__.py",
+    "Lib/site-packages/pybtex/database/format/__init__.py",
+    "Lib/site-packages/pybtex/database/format/__main__.py",
+    "Lib/site-packages/pybtex/database/input/__init__.py",
+    "Lib/site-packages/pybtex/database/input/bibtex.py",
+    "Lib/site-packages/pybtex/database/input/bibtexml.py",
+    "Lib/site-packages/pybtex/database/input/bibyaml.py",
+    "Lib/site-packages/pybtex/database/output/__init__.py",
+    "Lib/site-packages/pybtex/database/output/bibtex.py",
+    "Lib/site-packages/pybtex/database/output/bibtexml.py",
+    "Lib/site-packages/pybtex/database/output/bibyaml.py",
+    "Lib/site-packages/pybtex/errors.py",
+    "Lib/site-packages/pybtex/exceptions.py",
+    "Lib/site-packages/pybtex/io.py",
+    "Lib/site-packages/pybtex/kpathsea.py",
+    "Lib/site-packages/pybtex/markup/__init__.py",
+    "Lib/site-packages/pybtex/plugin/__init__.py",
+    "Lib/site-packages/pybtex/richtext.py",
+    "Lib/site-packages/pybtex/scanner.py",
+    "Lib/site-packages/pybtex/style/__init__.py",
+    "Lib/site-packages/pybtex/style/formatting/__init__.py",
+    "Lib/site-packages/pybtex/style/formatting/alpha.py",
+    "Lib/site-packages/pybtex/style/formatting/plain.py",
+    "Lib/site-packages/pybtex/style/formatting/unsrt.py",
+    "Lib/site-packages/pybtex/style/formatting/unsrtalpha.py",
+    "Lib/site-packages/pybtex/style/labels/__init__.py",
+    "Lib/site-packages/pybtex/style/labels/alpha.py",
+    "Lib/site-packages/pybtex/style/labels/number.py",
+    "Lib/site-packages/pybtex/style/names/__init__.py",
+    "Lib/site-packages/pybtex/style/names/lastfirst.py",
+    "Lib/site-packages/pybtex/style/names/plain.py",
+    "Lib/site-packages/pybtex/style/sorting/__init__.py",
+    "Lib/site-packages/pybtex/style/sorting/author_year_title.py",
+    "Lib/site-packages/pybtex/style/sorting/none.py",
+    "Lib/site-packages/pybtex/style/template.py",
+    "Lib/site-packages/pybtex/textutils.py",
+    "Lib/site-packages/pybtex/utils.py",
+    "Lib/site-packages/pybtex/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pybtex/__pycache__/__main__.cpython-313.pyc",
+    "Lib/site-packages/pybtex/__pycache__/auxfile.cpython-313.pyc",
+    "Lib/site-packages/pybtex/backends/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pybtex/backends/__pycache__/html.cpython-313.pyc",
+    "Lib/site-packages/pybtex/backends/__pycache__/latex.cpython-313.pyc",
+    "Lib/site-packages/pybtex/backends/__pycache__/markdown.cpython-313.pyc",
+    "Lib/site-packages/pybtex/backends/__pycache__/plaintext.cpython-313.pyc",
+    "Lib/site-packages/pybtex/bibtex/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pybtex/bibtex/__pycache__/bst.cpython-313.pyc",
+    "Lib/site-packages/pybtex/bibtex/__pycache__/builtins.cpython-313.pyc",
+    "Lib/site-packages/pybtex/bibtex/__pycache__/exceptions.cpython-313.pyc",
+    "Lib/site-packages/pybtex/bibtex/__pycache__/interpreter.cpython-313.pyc",
+    "Lib/site-packages/pybtex/bibtex/__pycache__/names.cpython-313.pyc",
+    "Lib/site-packages/pybtex/bibtex/__pycache__/runner.cpython-313.pyc",
+    "Lib/site-packages/pybtex/bibtex/__pycache__/utils.cpython-313.pyc",
+    "Lib/site-packages/pybtex/charwidths/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pybtex/charwidths/__pycache__/make_charwidths.cpython-313.pyc",
+    "Lib/site-packages/pybtex/__pycache__/cmdline.cpython-313.pyc",
+    "Lib/site-packages/pybtex/database/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pybtex/database/convert/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pybtex/database/convert/__pycache__/__main__.cpython-313.pyc",
+    "Lib/site-packages/pybtex/database/format/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pybtex/database/format/__pycache__/__main__.cpython-313.pyc",
+    "Lib/site-packages/pybtex/database/input/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pybtex/database/input/__pycache__/bibtex.cpython-313.pyc",
+    "Lib/site-packages/pybtex/database/input/__pycache__/bibtexml.cpython-313.pyc",
+    "Lib/site-packages/pybtex/database/input/__pycache__/bibyaml.cpython-313.pyc",
+    "Lib/site-packages/pybtex/database/output/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pybtex/database/output/__pycache__/bibtex.cpython-313.pyc",
+    "Lib/site-packages/pybtex/database/output/__pycache__/bibtexml.cpython-313.pyc",
+    "Lib/site-packages/pybtex/database/output/__pycache__/bibyaml.cpython-313.pyc",
+    "Lib/site-packages/pybtex/__pycache__/errors.cpython-313.pyc",
+    "Lib/site-packages/pybtex/__pycache__/exceptions.cpython-313.pyc",
+    "Lib/site-packages/pybtex/__pycache__/io.cpython-313.pyc",
+    "Lib/site-packages/pybtex/__pycache__/kpathsea.cpython-313.pyc",
+    "Lib/site-packages/pybtex/markup/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pybtex/plugin/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pybtex/__pycache__/richtext.cpython-313.pyc",
+    "Lib/site-packages/pybtex/__pycache__/scanner.cpython-313.pyc",
+    "Lib/site-packages/pybtex/style/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pybtex/style/formatting/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pybtex/style/formatting/__pycache__/alpha.cpython-313.pyc",
+    "Lib/site-packages/pybtex/style/formatting/__pycache__/plain.cpython-313.pyc",
+    "Lib/site-packages/pybtex/style/formatting/__pycache__/unsrt.cpython-313.pyc",
+    "Lib/site-packages/pybtex/style/formatting/__pycache__/unsrtalpha.cpython-313.pyc",
+    "Lib/site-packages/pybtex/style/labels/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pybtex/style/labels/__pycache__/alpha.cpython-313.pyc",
+    "Lib/site-packages/pybtex/style/labels/__pycache__/number.cpython-313.pyc",
+    "Lib/site-packages/pybtex/style/names/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pybtex/style/names/__pycache__/lastfirst.cpython-313.pyc",
+    "Lib/site-packages/pybtex/style/names/__pycache__/plain.cpython-313.pyc",
+    "Lib/site-packages/pybtex/style/sorting/__pycache__/__init__.cpython-313.pyc",
+    "Lib/site-packages/pybtex/style/sorting/__pycache__/author_year_title.cpython-313.pyc",
+    "Lib/site-packages/pybtex/style/sorting/__pycache__/none.cpython-313.pyc",
+    "Lib/site-packages/pybtex/style/__pycache__/template.cpython-313.pyc",
+    "Lib/site-packages/pybtex/__pycache__/textutils.cpython-313.pyc",
+    "Lib/site-packages/pybtex/__pycache__/utils.cpython-313.pyc",
+    "Scripts/pybtex-script.py",
+    "Scripts/pybtex-convert-script.py",
+    "Scripts/pybtex-format-script.py",
+    "Scripts/pybtex.exe",
+    "Scripts/pybtex-convert.exe",
+    "Scripts/pybtex-format.exe"
+  ],
+  "fn": "pybtex-0.25.1-pyhd8ed1ab_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Adam\\anaconda3\\pkgs\\pybtex-0.25.1-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "9c25a850410220d31085173fbfdfa191",
+  "name": "pybtex",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Adam\\anaconda3\\pkgs\\pybtex-0.25.1-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/pybtex-0.25.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/pybtex-0.25.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "625119b3e2a541f8b1f3e1602e1185443f440ca1faad3b8dd21017723b1b6561",
+        "sha256_in_prefix": "625119b3e2a541f8b1f3e1602e1185443f440ca1faad3b8dd21017723b1b6561",
+        "size_in_bytes": 2238
+      },
+      {
+        "_path": "site-packages/pybtex-0.25.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "3da60fcd3d38baed29ed21e5fd7c41c3832fc7017bda29d7c42aa8ca38e8fe6a",
+        "sha256_in_prefix": "3da60fcd3d38baed29ed21e5fd7c41c3832fc7017bda29d7c42aa8ca38e8fe6a",
+        "size_in_bytes": 9219
+      },
+      {
+        "_path": "site-packages/pybtex-0.25.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/pybtex-0.25.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "24d5a1d459b551dc08415d3be609429f8315b8246cd2ca2d248abe27aadbc425",
+        "sha256_in_prefix": "24d5a1d459b551dc08415d3be609429f8315b8246cd2ca2d248abe27aadbc425",
+        "size_in_bytes": 109
+      },
+      {
+        "_path": "site-packages/pybtex-0.25.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "57de2866fcd01278d845379c6339adbdf383a0e6f3d6b449e08269b5b1ffb8e5",
+        "sha256_in_prefix": "57de2866fcd01278d845379c6339adbdf383a0e6f3d6b449e08269b5b1ffb8e5",
+        "size_in_bytes": 102
+      },
+      {
+        "_path": "site-packages/pybtex-0.25.1.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "353a7bc42b545b9f9c380a631b44d9afcfb7ea4063575832ccae96caeb1c693f",
+        "sha256_in_prefix": "353a7bc42b545b9f9c380a631b44d9afcfb7ea4063575832ccae96caeb1c693f",
+        "size_in_bytes": 2399
+      },
+      {
+        "_path": "site-packages/pybtex-0.25.1.dist-info/licenses/COPYING",
+        "path_type": "hardlink",
+        "sha256": "1fa76f38f12b41fb86185e6f13a8575e8b2673ac50a2df719dbfbae74b6c980d",
+        "sha256_in_prefix": "1fa76f38f12b41fb86185e6f13a8575e8b2673ac50a2df719dbfbae74b6c980d",
+        "size_in_bytes": 1065
+      },
+      {
+        "_path": "site-packages/pybtex-0.25.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "ca8f8f9868abf831bafb11742e317a2d3eaeeac6ed46dc4b570facc266c73124",
+        "sha256_in_prefix": "ca8f8f9868abf831bafb11742e317a2d3eaeeac6ed46dc4b570facc266c73124",
+        "size_in_bytes": 7
+      },
+      {
+        "_path": "site-packages/pybtex-0.25.1.dist-info/zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/pybtex/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "094952e68e88e38cb3ab09b7bc523e184b03714ee707a001d58ddb82bc371ba6",
+        "sha256_in_prefix": "094952e68e88e38cb3ab09b7bc523e184b03714ee707a001d58ddb82bc371ba6",
+        "size_in_bytes": 7769
+      },
+      {
+        "_path": "site-packages/pybtex/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "808ee82f17123a48ad6a259e2f5f808428b445d60c248d3fbd13f52c172fc37f",
+        "sha256_in_prefix": "808ee82f17123a48ad6a259e2f5f808428b445d60c248d3fbd13f52c172fc37f",
+        "size_in_bytes": 4554
+      },
+      {
+        "_path": "site-packages/pybtex/auxfile.py",
+        "path_type": "hardlink",
+        "sha256": "73b997c5641a44f374fb6473a608e82030d270e938ca339309536a9e7e19280b",
+        "sha256_in_prefix": "73b997c5641a44f374fb6473a608e82030d270e938ca339309536a9e7e19280b",
+        "size_in_bytes": 4799
+      },
+      {
+        "_path": "site-packages/pybtex/backends/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "b7a2eefb456b1489fb5f4780e2955ed924488f01b00f0a7775cf487aa60f134c",
+        "sha256_in_prefix": "b7a2eefb456b1489fb5f4780e2955ed924488f01b00f0a7775cf487aa60f134c",
+        "size_in_bytes": 4065
+      },
+      {
+        "_path": "site-packages/pybtex/backends/html.py",
+        "path_type": "hardlink",
+        "sha256": "47ecc0f96843ba0abb3c37747aeebe6c5e84820f2424e3a62c35b44a3ec46ac2",
+        "sha256_in_prefix": "47ecc0f96843ba0abb3c37747aeebe6c5e84820f2424e3a62c35b44a3ec46ac2",
+        "size_in_bytes": 3082
+      },
+      {
+        "_path": "site-packages/pybtex/backends/latex.py",
+        "path_type": "hardlink",
+        "sha256": "e4bf4eb58294912373693f8ef29cfc3395d5286896ccda4cdab35c4458716c99",
+        "sha256_in_prefix": "e4bf4eb58294912373693f8ef29cfc3395d5286896ccda4cdab35c4458716c99",
+        "size_in_bytes": 3607
+      },
+      {
+        "_path": "site-packages/pybtex/backends/markdown.py",
+        "path_type": "hardlink",
+        "sha256": "def0277cb433fdf3abe41fc3f23190a1f31e813b0e3431e16b9320b75653f9bb",
+        "sha256_in_prefix": "def0277cb433fdf3abe41fc3f23190a1f31e813b0e3431e16b9320b75653f9bb",
+        "size_in_bytes": 4417
+      },
+      {
+        "_path": "site-packages/pybtex/backends/plaintext.py",
+        "path_type": "hardlink",
+        "sha256": "552bab0d3b7b1d882d485e6ffef26cabc1b2615ff434cfea3e5ed366f2806ffc",
+        "sha256_in_prefix": "552bab0d3b7b1d882d485e6ffef26cabc1b2615ff434cfea3e5ed366f2806ffc",
+        "size_in_bytes": 1612
+      },
+      {
+        "_path": "site-packages/pybtex/bibtex/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "ea861ba1cf84c53b75403fb929b375aae5940e97f18ff8b62b35b01925e8da08",
+        "sha256_in_prefix": "ea861ba1cf84c53b75403fb929b375aae5940e97f18ff8b62b35b01925e8da08",
+        "size_in_bytes": 4656
+      },
+      {
+        "_path": "site-packages/pybtex/bibtex/bst.py",
+        "path_type": "hardlink",
+        "sha256": "3d8792c70d8e05fd5de705adb601dc6db72c32da8dd19ef425aec820867979c0",
+        "sha256_in_prefix": "3d8792c70d8e05fd5de705adb601dc6db72c32da8dd19ef425aec820867979c0",
+        "size_in_bytes": 5109
+      },
+      {
+        "_path": "site-packages/pybtex/bibtex/builtins.py",
+        "path_type": "hardlink",
+        "sha256": "16c6c06bda39b62039abe4ab33c931f3278d2b37f6b80dce415e72dd35793410",
+        "sha256_in_prefix": "16c6c06bda39b62039abe4ab33c931f3278d2b37f6b80dce415e72dd35793410",
+        "size_in_bytes": 6645
+      },
+      {
+        "_path": "site-packages/pybtex/bibtex/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "0082541abef7cb6a7f2673d55924ea9e3a241dbc73ed4e398d2e9e9478d9d616",
+        "sha256_in_prefix": "0082541abef7cb6a7f2673d55924ea9e3a241dbc73ed4e398d2e9e9478d9d616",
+        "size_in_bytes": 1230
+      },
+      {
+        "_path": "site-packages/pybtex/bibtex/interpreter.py",
+        "path_type": "hardlink",
+        "sha256": "0d6d574cd705030ea4f522d0bbfec053b6ea3e4049ce2eb69cd231354ec9018b",
+        "sha256_in_prefix": "0d6d574cd705030ea4f522d0bbfec053b6ea3e4049ce2eb69cd231354ec9018b",
+        "size_in_bytes": 10221
+      },
+      {
+        "_path": "site-packages/pybtex/bibtex/names.py",
+        "path_type": "hardlink",
+        "sha256": "ae971bcda88e59e2bed9809f691833b714cacf254cad48b028c5904abfab9d91",
+        "sha256_in_prefix": "ae971bcda88e59e2bed9809f691833b714cacf254cad48b028c5904abfab9d91",
+        "size_in_bytes": 11957
+      },
+      {
+        "_path": "site-packages/pybtex/bibtex/runner.py",
+        "path_type": "hardlink",
+        "sha256": "14d00f15d7b33d6f7bd5b021144a274f1b4e7330f4e3b010ddd0d69bd33b0617",
+        "sha256_in_prefix": "14d00f15d7b33d6f7bd5b021144a274f1b4e7330f4e3b010ddd0d69bd33b0617",
+        "size_in_bytes": 3798
+      },
+      {
+        "_path": "site-packages/pybtex/bibtex/utils.py",
+        "path_type": "hardlink",
+        "sha256": "fe87d70f2f74ae52ca062f664caa6befbe5b7a8b1a29968f815a284dc656c295",
+        "sha256_in_prefix": "fe87d70f2f74ae52ca062f664caa6befbe5b7a8b1a29968f815a284dc656c295",
+        "size_in_bytes": 18291
+      },
+      {
+        "_path": "site-packages/pybtex/charwidths/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d878004d8b44f5f35909486ecc1f9af322cee8f59d2ec99617454156d3f39394",
+        "sha256_in_prefix": "d878004d8b44f5f35909486ecc1f9af322cee8f59d2ec99617454156d3f39394",
+        "size_in_bytes": 37734
+      },
+      {
+        "_path": "site-packages/pybtex/charwidths/make_charwidths.py",
+        "path_type": "hardlink",
+        "sha256": "7b77fc89e3980fbc9f93187965ef89da5958788465f89dd81a424fa0c057b639",
+        "sha256_in_prefix": "7b77fc89e3980fbc9f93187965ef89da5958788465f89dd81a424fa0c057b639",
+        "size_in_bytes": 4492
+      },
+      {
+        "_path": "site-packages/pybtex/cmdline.py",
+        "path_type": "hardlink",
+        "sha256": "100142283d0f3739b5d7e9a9c79e2c78fca11d0fdd6bbc5b318bca3b03f9fb1a",
+        "sha256_in_prefix": "100142283d0f3739b5d7e9a9c79e2c78fca11d0fdd6bbc5b318bca3b03f9fb1a",
+        "size_in_bytes": 7382
+      },
+      {
+        "_path": "site-packages/pybtex/database/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c30b23ad1c3f26f299ccff66c1290e6f8cac2bdc2987d3bdb17c05fadc7334a5",
+        "sha256_in_prefix": "c30b23ad1c3f26f299ccff66c1290e6f8cac2bdc2987d3bdb17c05fadc7334a5",
+        "size_in_bytes": 32106
+      },
+      {
+        "_path": "site-packages/pybtex/database/convert/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "278129723948a37c7598371f9c2187e062cb84e7119251310ae2e951e73a39e6",
+        "sha256_in_prefix": "278129723948a37c7598371f9c2187e062cb84e7119251310ae2e951e73a39e6",
+        "size_in_bytes": 1980
+      },
+      {
+        "_path": "site-packages/pybtex/database/convert/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "94721935612f860e5c318a6d8ab6f668476667bca7423d6bde6ca99886d12e92",
+        "sha256_in_prefix": "94721935612f860e5c318a6d8ab6f668476667bca7423d6bde6ca99886d12e92",
+        "size_in_bytes": 3245
+      },
+      {
+        "_path": "site-packages/pybtex/database/format/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "535f9f519b4add622742be7e58d3ca6065d4d01956cc26439bfe04f965fba75c",
+        "sha256_in_prefix": "535f9f519b4add622742be7e58d3ca6065d4d01956cc26439bfe04f965fba75c",
+        "size_in_bytes": 2270
+      },
+      {
+        "_path": "site-packages/pybtex/database/format/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "910c6399f0ba5a97e8d629ecdbe60386b44d0e81fdfbad684f48309bb27e349b",
+        "sha256_in_prefix": "910c6399f0ba5a97e8d629ecdbe60386b44d0e81fdfbad684f48309bb27e349b",
+        "size_in_bytes": 2928
+      },
+      {
+        "_path": "site-packages/pybtex/database/input/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "85aa5d021b299067e6ef08ec183c6c02b1413e164edf9f514f1249a668284dbd",
+        "sha256_in_prefix": "85aa5d021b299067e6ef08ec183c6c02b1413e164edf9f514f1249a668284dbd",
+        "size_in_bytes": 3278
+      },
+      {
+        "_path": "site-packages/pybtex/database/input/bibtex.py",
+        "path_type": "hardlink",
+        "sha256": "9bc76b7ed23a0bbc6b9626d7968dc45b6bab53840e10ab37f1aae0e955d65c46",
+        "sha256_in_prefix": "9bc76b7ed23a0bbc6b9626d7968dc45b6bab53840e10ab37f1aae0e955d65c46",
+        "size_in_bytes": 13851
+      },
+      {
+        "_path": "site-packages/pybtex/database/input/bibtexml.py",
+        "path_type": "hardlink",
+        "sha256": "39de8af1c1c59a5ee40c28e89d3cbc0326bfcfcdaeead7873113e346ab570985",
+        "sha256_in_prefix": "39de8af1c1c59a5ee40c28e89d3cbc0326bfcfcdaeead7873113e346ab570985",
+        "size_in_bytes": 3031
+      },
+      {
+        "_path": "site-packages/pybtex/database/input/bibyaml.py",
+        "path_type": "hardlink",
+        "sha256": "e20c2ecf7c8c92f1a8c3d47bd95adaabcf20e61a80f976ed26405af96d285372",
+        "sha256_in_prefix": "e20c2ecf7c8c92f1a8c3d47bd95adaabcf20e61a80f976ed26405af96d285372",
+        "size_in_bytes": 3564
+      },
+      {
+        "_path": "site-packages/pybtex/database/output/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "6471e9942bc58efa8259ac57fc0f53c98780cc95b2404161190e0c3c2ea32259",
+        "sha256_in_prefix": "6471e9942bc58efa8259ac57fc0f53c98780cc95b2404161190e0c3c2ea32259",
+        "size_in_bytes": 2388
+      },
+      {
+        "_path": "site-packages/pybtex/database/output/bibtex.py",
+        "path_type": "hardlink",
+        "sha256": "dc7ad5bc9837bd4ba1bbbd2e4e463c5abc704121979cb7379b437e29ddde1833",
+        "sha256_in_prefix": "dc7ad5bc9837bd4ba1bbbd2e4e463c5abc704121979cb7379b437e29ddde1833",
+        "size_in_bytes": 5797
+      },
+      {
+        "_path": "site-packages/pybtex/database/output/bibtexml.py",
+        "path_type": "hardlink",
+        "sha256": "cc74bb3e87e56791250bca983183f6a03ca38d9c1dafd4f1edd4ab8e07533ccd",
+        "sha256_in_prefix": "cc74bb3e87e56791250bca983183f6a03ca38d9c1dafd4f1edd4ab8e07533ccd",
+        "size_in_bytes": 4705
+      },
+      {
+        "_path": "site-packages/pybtex/database/output/bibyaml.py",
+        "path_type": "hardlink",
+        "sha256": "5efc79dfa710fd8d7daf0c2d77ff0f12ac5a41009143f2659cc221348a79c5b4",
+        "sha256_in_prefix": "5efc79dfa710fd8d7daf0c2d77ff0f12ac5a41009143f2659cc221348a79c5b4",
+        "size_in_bytes": 3295
+      },
+      {
+        "_path": "site-packages/pybtex/errors.py",
+        "path_type": "hardlink",
+        "sha256": "02c8812b99c1794ed9787984deabab5d089389c53abdec812f1ebb2cb95a185e",
+        "sha256_in_prefix": "02c8812b99c1794ed9787984deabab5d089389c53abdec812f1ebb2cb95a185e",
+        "size_in_bytes": 2364
+      },
+      {
+        "_path": "site-packages/pybtex/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "18f7481fc2f6b518c2daf12064f28ee5c354b2ad34a70a5ffefed648cdfd3503",
+        "sha256_in_prefix": "18f7481fc2f6b518c2daf12064f28ee5c354b2ad34a70a5ffefed648cdfd3503",
+        "size_in_bytes": 1859
+      },
+      {
+        "_path": "site-packages/pybtex/io.py",
+        "path_type": "hardlink",
+        "sha256": "e0028db9a247613422d8e3791b35f6fcccf0665943e93703eec0d58a5488bd11",
+        "sha256_in_prefix": "e0028db9a247613422d8e3791b35f6fcccf0665943e93703eec0d58a5488bd11",
+        "size_in_bytes": 3487
+      },
+      {
+        "_path": "site-packages/pybtex/kpathsea.py",
+        "path_type": "hardlink",
+        "sha256": "487179a36ed3bfe219b2828ac7538c020a3a54095f9dc2a8f12d26710b6e8bea",
+        "sha256_in_prefix": "487179a36ed3bfe219b2828ac7538c020a3a54095f9dc2a8f12d26710b6e8bea",
+        "size_in_bytes": 1357
+      },
+      {
+        "_path": "site-packages/pybtex/markup/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "8e7a1d20aced36ee3a635bdfc03e6d683c8a17b2ff4138cdbd8cd1c284bcdff6",
+        "sha256_in_prefix": "8e7a1d20aced36ee3a635bdfc03e6d683c8a17b2ff4138cdbd8cd1c284bcdff6",
+        "size_in_bytes": 2502
+      },
+      {
+        "_path": "site-packages/pybtex/plugin/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "2f2220799e468324198a29b3b50cc677a3deb4339a444129e8c3ae853c604f44",
+        "sha256_in_prefix": "2f2220799e468324198a29b3b50cc677a3deb4339a444129e8c3ae853c604f44",
+        "size_in_bytes": 6334
+      },
+      {
+        "_path": "site-packages/pybtex/richtext.py",
+        "path_type": "hardlink",
+        "sha256": "913e672ca5241bc20c45b7dfdd5517b3244b6f001a5e0652365f016b1d7eea47",
+        "sha256_in_prefix": "913e672ca5241bc20c45b7dfdd5517b3244b6f001a5e0652365f016b1d7eea47",
+        "size_in_bytes": 29167
+      },
+      {
+        "_path": "site-packages/pybtex/scanner.py",
+        "path_type": "hardlink",
+        "sha256": "ea07bd912de2b973db4cb675f7443b49cdc069e84f398b1177141a93ae9191cf",
+        "sha256_in_prefix": "ea07bd912de2b973db4cb675f7443b49cdc069e84f398b1177141a93ae9191cf",
+        "size_in_bytes": 6149
+      },
+      {
+        "_path": "site-packages/pybtex/style/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "671ea718d7c3035cb776f7890f36f728362a0b5c02929f2fb16079f3c23a7e64",
+        "sha256_in_prefix": "671ea718d7c3035cb776f7890f36f728362a0b5c02929f2fb16079f3c23a7e64",
+        "size_in_bytes": 1868
+      },
+      {
+        "_path": "site-packages/pybtex/style/formatting/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0831b90888cc31bc3366b4095c4f488b0d86faf8b8562b17090c3ef2eebc4f36",
+        "sha256_in_prefix": "0831b90888cc31bc3366b4095c4f488b0d86faf8b8562b17090c3ef2eebc4f36",
+        "size_in_bytes": 3956
+      },
+      {
+        "_path": "site-packages/pybtex/style/formatting/alpha.py",
+        "path_type": "hardlink",
+        "sha256": "4aafdabc215b266db599308b3bbaa42a8b079c5169baad8faf10646551b1828d",
+        "sha256_in_prefix": "4aafdabc215b266db599308b3bbaa42a8b079c5169baad8faf10646551b1828d",
+        "size_in_bytes": 1316
+      },
+      {
+        "_path": "site-packages/pybtex/style/formatting/plain.py",
+        "path_type": "hardlink",
+        "sha256": "f207ddd8c86e22dc4534044bc080a0088e3f6b719ad354d36129cde541a45679",
+        "sha256_in_prefix": "f207ddd8c86e22dc4534044bc080a0088e3f6b719ad354d36129cde541a45679",
+        "size_in_bytes": 1282
+      },
+      {
+        "_path": "site-packages/pybtex/style/formatting/unsrt.py",
+        "path_type": "hardlink",
+        "sha256": "1221352e9f1188d08bc461ef7b0e91e1233ec541458f10981b56e3542a03a7a2",
+        "sha256_in_prefix": "1221352e9f1188d08bc461ef7b0e91e1233ec541458f10981b56e3542a03a7a2",
+        "size_in_bytes": 15615
+      },
+      {
+        "_path": "site-packages/pybtex/style/formatting/unsrtalpha.py",
+        "path_type": "hardlink",
+        "sha256": "3408ad5b004e5da0bcf956db87d8c38533d4527c7959cdc00e06d89d81fea7f4",
+        "sha256_in_prefix": "3408ad5b004e5da0bcf956db87d8c38533d4527c7959cdc00e06d89d81fea7f4",
+        "size_in_bytes": 1268
+      },
+      {
+        "_path": "site-packages/pybtex/style/labels/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "3e9aef7a343de82fdd3a733a988f61ddad1a36c9d8133dbe46257577c6d5746c",
+        "sha256_in_prefix": "3e9aef7a343de82fdd3a733a988f61ddad1a36c9d8133dbe46257577c6d5746c",
+        "size_in_bytes": 1477
+      },
+      {
+        "_path": "site-packages/pybtex/style/labels/alpha.py",
+        "path_type": "hardlink",
+        "sha256": "cef63cfd3c994d059d453a4879f8c2a7c5755317c712c0bd7e458aef1534e911",
+        "sha256_in_prefix": "cef63cfd3c994d059d453a4879f8c2a7c5755317c712c0bd7e458aef1534e911",
+        "size_in_bytes": 6582
+      },
+      {
+        "_path": "site-packages/pybtex/style/labels/number.py",
+        "path_type": "hardlink",
+        "sha256": "7d2be93b8f498022aa398fe50d73a1f551630bbdc372a24ce0bdf1c00cd09807",
+        "sha256_in_prefix": "7d2be93b8f498022aa398fe50d73a1f551630bbdc372a24ce0bdf1c00cd09807",
+        "size_in_bytes": 1384
+      },
+      {
+        "_path": "site-packages/pybtex/style/names/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c7ee0c609b4b2d9aee91934b790a8ae29a5eb2ac8114ea0bda2ab265ae29834c",
+        "sha256_in_prefix": "c7ee0c609b4b2d9aee91934b790a8ae29a5eb2ac8114ea0bda2ab265ae29834c",
+        "size_in_bytes": 1822
+      },
+      {
+        "_path": "site-packages/pybtex/style/names/lastfirst.py",
+        "path_type": "hardlink",
+        "sha256": "d753207461378ee9c2b676da37a9b22225c7a10be24cd5e1300a4f4f1b80bda3",
+        "sha256_in_prefix": "d753207461378ee9c2b676da37a9b22225c7a10be24cd5e1300a4f4f1b80bda3",
+        "size_in_bytes": 2771
+      },
+      {
+        "_path": "site-packages/pybtex/style/names/plain.py",
+        "path_type": "hardlink",
+        "sha256": "e9e3e82b78b88545c7804f31456b80556bed4e4e04284ecd665d4eb8a3e86b91",
+        "sha256_in_prefix": "e9e3e82b78b88545c7804f31456b80556bed4e4e04284ecd665d4eb8a3e86b91",
+        "size_in_bytes": 2854
+      },
+      {
+        "_path": "site-packages/pybtex/style/sorting/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "f5cba64a20b7e4201dc34bfe1135feff8be7f09a97716e4751afa0af80f13903",
+        "sha256_in_prefix": "f5cba64a20b7e4201dc34bfe1135feff8be7f09a97716e4751afa0af80f13903",
+        "size_in_bytes": 1362
+      },
+      {
+        "_path": "site-packages/pybtex/style/sorting/author_year_title.py",
+        "path_type": "hardlink",
+        "sha256": "22381821242e14572ed8ab8aaa7bcb7b7fae774f4a27bcdba39b0d9283ddf520",
+        "sha256_in_prefix": "22381821242e14572ed8ab8aaa7bcb7b7fae774f4a27bcdba39b0d9283ddf520",
+        "size_in_bytes": 2254
+      },
+      {
+        "_path": "site-packages/pybtex/style/sorting/none.py",
+        "path_type": "hardlink",
+        "sha256": "8735ca2fda5ad9821eb986c790c24ee4b4d8d2521efd458fdff9f470353fb3ce",
+        "sha256_in_prefix": "8735ca2fda5ad9821eb986c790c24ee4b4d8d2521efd458fdff9f470353fb3ce",
+        "size_in_bytes": 1288
+      },
+      {
+        "_path": "site-packages/pybtex/style/template.py",
+        "path_type": "hardlink",
+        "sha256": "ad8e0a1660ebd3d60f7aa0765fc760de0c68a541104d8f3dab05ae95232ff7c9",
+        "sha256_in_prefix": "ad8e0a1660ebd3d60f7aa0765fc760de0c68a541104d8f3dab05ae95232ff7c9",
+        "size_in_bytes": 10982
+      },
+      {
+        "_path": "site-packages/pybtex/textutils.py",
+        "path_type": "hardlink",
+        "sha256": "6abe370ec6547035c4a02d93dfa8704d341dbc311dd2bdb278359e3eaeed392f",
+        "sha256_in_prefix": "6abe370ec6547035c4a02d93dfa8704d341dbc311dd2bdb278359e3eaeed392f",
+        "size_in_bytes": 4288
+      },
+      {
+        "_path": "site-packages/pybtex/utils.py",
+        "path_type": "hardlink",
+        "sha256": "56adfbff4171aa791a3322f77b7ba85b557da941ea2d51ad0bd0071483a7ea88",
+        "sha256_in_prefix": "56adfbff4171aa791a3322f77b7ba85b557da941ea2d51ad0bd0071483a7ea88",
+        "size_in_bytes": 9336
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/__pycache__/__main__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/__pycache__/auxfile.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/backends/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/backends/__pycache__/html.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/backends/__pycache__/latex.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/backends/__pycache__/markdown.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/backends/__pycache__/plaintext.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/bibtex/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/bibtex/__pycache__/bst.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/bibtex/__pycache__/builtins.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/bibtex/__pycache__/exceptions.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/bibtex/__pycache__/interpreter.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/bibtex/__pycache__/names.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/bibtex/__pycache__/runner.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/bibtex/__pycache__/utils.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/charwidths/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/charwidths/__pycache__/make_charwidths.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/__pycache__/cmdline.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/database/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/database/convert/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/database/convert/__pycache__/__main__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/database/format/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/database/format/__pycache__/__main__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/database/input/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/database/input/__pycache__/bibtex.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/database/input/__pycache__/bibtexml.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/database/input/__pycache__/bibyaml.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/database/output/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/database/output/__pycache__/bibtex.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/database/output/__pycache__/bibtexml.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/database/output/__pycache__/bibyaml.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/__pycache__/errors.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/__pycache__/exceptions.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/__pycache__/io.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/__pycache__/kpathsea.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/markup/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/plugin/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/__pycache__/richtext.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/__pycache__/scanner.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/style/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/style/formatting/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/style/formatting/__pycache__/alpha.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/style/formatting/__pycache__/plain.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/style/formatting/__pycache__/unsrt.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/style/formatting/__pycache__/unsrtalpha.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/style/labels/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/style/labels/__pycache__/alpha.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/style/labels/__pycache__/number.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/style/names/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/style/names/__pycache__/lastfirst.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/style/names/__pycache__/plain.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/style/sorting/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/style/sorting/__pycache__/author_year_title.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/style/sorting/__pycache__/none.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/style/__pycache__/template.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/__pycache__/textutils.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pybtex/__pycache__/utils.cpython-313.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/pybtex-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/pybtex-convert-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/pybtex-format-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/pybtex.exe",
+        "path_type": "windows_python_entry_point_exe"
+      },
+      {
+        "_path": "Scripts/pybtex-convert.exe",
+        "path_type": "windows_python_entry_point_exe"
+      },
+      {
+        "_path": "Scripts/pybtex-format.exe",
+        "path_type": "windows_python_entry_point_exe"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "3053895e08ce56923e48eea7d1c07a6d8bf09948d1e69a21ae7ab9e459b0a227",
+  "size": 73965,
+  "subdir": "noarch",
+  "timestamp": 1751015096000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/pybtex-0.25.1-pyhd8ed1ab_0.conda",
+  "version": "0.25.1"
+}

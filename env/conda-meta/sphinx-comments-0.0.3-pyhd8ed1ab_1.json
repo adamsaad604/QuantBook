@@ -1,0 +1,113 @@
+{
+  "build": "pyhd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.9",
+    "sphinx >=1.8"
+  ],
+  "extracted_package_dir": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinx-comments-0.0.3-pyhd8ed1ab_1",
+  "files": [
+    "Lib/site-packages/sphinx_comments-0.0.3.dist-info/INSTALLER",
+    "Lib/site-packages/sphinx_comments-0.0.3.dist-info/LICENSE",
+    "Lib/site-packages/sphinx_comments-0.0.3.dist-info/METADATA",
+    "Lib/site-packages/sphinx_comments-0.0.3.dist-info/RECORD",
+    "Lib/site-packages/sphinx_comments-0.0.3.dist-info/REQUESTED",
+    "Lib/site-packages/sphinx_comments-0.0.3.dist-info/WHEEL",
+    "Lib/site-packages/sphinx_comments-0.0.3.dist-info/direct_url.json",
+    "Lib/site-packages/sphinx_comments-0.0.3.dist-info/top_level.txt",
+    "Lib/site-packages/sphinx_comments/__init__.py",
+    "Lib/site-packages/sphinx_comments/__pycache__/__init__.cpython-313.pyc"
+  ],
+  "fn": "sphinx-comments-0.0.3-pyhd8ed1ab_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinx-comments-0.0.3-pyhd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "30e02fa8e40287da066e348c95ff5609",
+  "name": "sphinx-comments",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Adam\\anaconda3\\pkgs\\sphinx-comments-0.0.3-pyhd8ed1ab_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/sphinx_comments-0.0.3.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/sphinx_comments-0.0.3.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "420aa7c5626460d1344d62c269188590a20972e6ee3a5a17dcfae3abae66eb95",
+        "sha256_in_prefix": "420aa7c5626460d1344d62c269188590a20972e6ee3a5a17dcfae3abae66eb95",
+        "size_in_bytes": 1081
+      },
+      {
+        "_path": "site-packages/sphinx_comments-0.0.3.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "6a83a3e879d87db7f55acddd811804368ae6f43abf681c88c6d90e0fa1335f8d",
+        "sha256_in_prefix": "6a83a3e879d87db7f55acddd811804368ae6f43abf681c88c6d90e0fa1335f8d",
+        "size_in_bytes": 3298
+      },
+      {
+        "_path": "site-packages/sphinx_comments-0.0.3.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "feca07fc25d3eabeb56aff1b1c63bbd657a2d5b9a35118085fe81235ceb58637",
+        "sha256_in_prefix": "feca07fc25d3eabeb56aff1b1c63bbd657a2d5b9a35118085fe81235ceb58637",
+        "size_in_bytes": 867
+      },
+      {
+        "_path": "site-packages/sphinx_comments-0.0.3.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/sphinx_comments-0.0.3.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "3d9504c5d7fbd548bfb28ebb417a724ae1ed0a2dfe277c2f1783912ba93f4bc5",
+        "sha256_in_prefix": "3d9504c5d7fbd548bfb28ebb417a724ae1ed0a2dfe277c2f1783912ba93f4bc5",
+        "size_in_bytes": 91
+      },
+      {
+        "_path": "site-packages/sphinx_comments-0.0.3.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "d8f0765f93abdbf0fc48faf6fe39b4af92749a221cd965dd4eb129c61deb918e",
+        "sha256_in_prefix": "d8f0765f93abdbf0fc48faf6fe39b4af92749a221cd965dd4eb129c61deb918e",
+        "size_in_bytes": 111
+      },
+      {
+        "_path": "site-packages/sphinx_comments-0.0.3.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "75d29722babcf42d59d6fe23f3515e0a06f64326c28aaa329b29f111fc6364ba",
+        "sha256_in_prefix": "75d29722babcf42d59d6fe23f3515e0a06f64326c28aaa329b29f111fc6364ba",
+        "size_in_bytes": 16
+      },
+      {
+        "_path": "site-packages/sphinx_comments/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "23a57e92e040fb14059034e71516ff94b2a6fcfa996832fb0ed6d5754e67b6d5",
+        "sha256_in_prefix": "23a57e92e040fb14059034e71516ff94b2a6fcfa996832fb0ed6d5754e67b6d5",
+        "size_in_bytes": 3441
+      },
+      {
+        "_path": "Lib/site-packages/sphinx_comments/__pycache__/__init__.cpython-313.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "00129f91b905441a9e27c46ef32c22617743eb4a4f7207e1dd84bc19505d4381",
+  "size": 11014,
+  "subdir": "noarch",
+  "timestamp": 1736273059000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/sphinx-comments-0.0.3-pyhd8ed1ab_1.conda",
+  "version": "0.0.3"
+}
