@@ -1,21 +1,39 @@
-name: Deploy Jupyter Book
+name: Build and Deploy Jupyter Book
 
 on:
   push:
     branches:
-      - gh-pages
+      - main
 
 jobs:
-  build-and-deploy:
+  build-deploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-python@v2
-      with:
-        python-version: '3.10'
-    - run: pip install -U jupyter-book
-    - run: jupyter-book build .
-    - uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./_build/html
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Miniconda
+        uses: conda-incubator/setup-miniconda@v3
+        with:
+          auto-update-conda: true
+          environment-file: environment.yml
+          activate-environment: quantbook
+          python-version: 3.11
+
+      - name: Install Jupyter Book
+        shell: bash -l {0}
+        run: |
+          conda install -c conda-forge jupyter-book
+
+      - name: Build Jupyter Book
+        shell: bash -l {0}
+        run: |
+          jupyter-book build .
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_build/html
+          publish_branch: gh-pages
+          force_orphan: true
