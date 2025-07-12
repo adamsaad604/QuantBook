@@ -1,0 +1,20 @@
+﻿channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - plotly
+  - scipy
+  - jupyter-book
+  - sphinx
+  - myst-parser
+  - docutils>=0.18,<0.21
+  - pandas-datareader
+  - ghp-import
+  - openpyxl
+  - pip
+  - pip:
+      - arch

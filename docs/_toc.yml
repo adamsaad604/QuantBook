@@ -1,0 +1,29 @@
+# Table of contents
+
+format: jb-book
+root: intro
+parts:
+  - caption: "Risk Management"
+    chapters:
+    - file: risk-management/intro
+      sections:
+        - file: risk-management/risk_forecasting_sp500
+#  - caption: "Derivatives Valuation"
+#    chapters:
+#      sections:
+  #      - file: docs/derivs/intro
+  #      - file: docs/derivs/model-kmv
+#  - caption: "Trading"
+#    chapters:
+#      sections:
+#        - file: docs/trading/intro
+#  - caption: "Portfolio"
+#    chapters:
+#      sections:
+#        - file: docs/portfolio/intro
+#  - caption: "Misc/for fun"
+#    chapters:
+#      sections:
+  #      - file: docs/misc/intro
+  #      - file: docs/misc/MontyHall
+

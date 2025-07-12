@@ -1,0 +1,44 @@
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
+
+title: Quantitative Finance
+copyright: (c) 2025, Adam Saad
+author: Adam Saad
+logo: logo.png
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.githtml
+execute:
+  execute_notebooks: "force"
+  timeout: 600  # Increase timeout for long-running notebooks
+
+nb_output_render_priority:
+  - application/vnd.plotly.v1+json
+  - application/javascript
+  - text/html
+  - text/plain
+
+# Define the name of the latex output file for PDF builds
+latex:
+  latex_engine: pdflatex  # one of 'pdflatex', 'xelatex' (recommended for unicode), 'luatex', 'platex', 'uplatex'
+  latex_documents:
+    title: "Quantitative Finance"
+    targetname: book.tex
+
+# Add a bibtex file so that we can create citations
+bibtex_bibfiles:
+  - references.bib
+
+repository:
+  url: https://github.com/adamsaad604/QuantBook
+  path_to_book: docs
+  branch: main
+
+# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
+html:
+  use_issues_button: true
+  use_repository_button: true
+  use_edit_page_button: true
+
+exclude_patterns:
+  - env/**
